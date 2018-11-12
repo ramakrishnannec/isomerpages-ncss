@@ -11,8 +11,8 @@ favicon: /images/favicon.ico
 agency-logo: /images/PCLogo3.svg
 
 # Hero Banner
-hero-title: NCSS Test Site
-hero-subtitle: Hero subtitle
+hero-title: 
+hero-subtitle: 
 hero-banner: /images/banner-25Sep-v1.jpg
 
 #Call to Action Button
