@@ -5,15 +5,15 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/PCLogo3.svg
 
 # Hero Banner
 hero-title: NCSS Test Site
 hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-banner: /images/banner-25Sep-v1.jpg
 
 #Call to Action Button
 button:
