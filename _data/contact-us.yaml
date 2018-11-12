@@ -22,15 +22,10 @@ locations:
 
 # Contact Us
 column:
-  - title: General Enquiries & Feedback
+  - title: If you are interested in organising a fundraising event in support of President’s Challenge or just want to know more about us, drop us a note here or email us at: 
     content:
-    - line: +65 6222 5295
-    - line: boarch@singnet.com.sg (email)
+    - line: pc_enquiry@ncss.gov.sg (email)
     # If you have an email, put (email) after the actual email
-
-  - title: Fax
-    content:
-    - line: +65 6222 4452
 
 # Image
 image-url:
