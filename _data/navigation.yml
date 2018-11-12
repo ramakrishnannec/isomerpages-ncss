@@ -4,34 +4,27 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
-- title: Simple Page A
-  url: /simple-page-A/
-- title: Simple Page B
-  url: /simple-page-B/
-- title: Left Nav One
-  url: /left-nav-one/sub-page-A/
+- title: About
   sub-links:
-  - title: Sub Page A
+  - title: What We Do
     url: /left-nav-one/sub-page-A/
-  - title: Sub Page B
+  - title: Milestones
     url: /left-nav-one/sub-page-B/
-- title: Left Nav Two
-  url: /left-nav-two/sub-page-C/
-  sub-links:
-  - title: Sub Page C
+  - title: Social Enterprise
     url: /left-nav-two/sub-page-C/
-  - title: Sub Page D
+  - title: Events
     url: /left-nav-two/sub-page-D/
-- title: Resource Room
-  url: /resource-room/
+  - title: Contact Us
+    url: /contact-us/
+- title: Who We Support
+  url: /simple-page-A/
+- title: Empowering for Life Fund
+  url: /simple-page-B/
+- title: Take Action
   sub-links:
-  - title: All
-    url: /resource-room/
-  - title: Subcategory A
-    url: /resource-room/subcategory-A/
-  - title: Subcategory B
-    url: /resource-room/subcategory-B/
-  - title: Subcategory C
-    url: /resource-room/subcategory-C/
+  - title: Donate
+    url: /left-nav-one/sub-page-A/
+  - title: Volunteer
+    url: /left-nav-one/sub-page-B/
+  - title: Partner With Us
+    url: /simple-page-B/
