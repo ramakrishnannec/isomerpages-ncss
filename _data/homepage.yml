@@ -16,21 +16,21 @@ hero-subtitle:
 hero-banner: /images/banner-25Sep-v1.jpg
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
+#button:
+#  - text: Learn More
+#    url: /who-we-are/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
+  - title: Donate
+    description: 100% of your donations go towards the benefiting organisations supported by President’s Challenge.
+    url: /page-A/
+  - title: VOLUNTEER
+    description: Be a part of President’s Challenge Volunteer Drive and make a difference in someone’s life.
+    #url: https://yahoo.com
+    #external: true
+    url: /page-B/
+  - title: FUND RAISE
+    description: Do you want to give back as an organisation? Partner with us.
     url: /page-A/
 
 resources-title: Resources
