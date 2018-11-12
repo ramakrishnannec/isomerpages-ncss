@@ -35,8 +35,25 @@ The privacy of our donors is very important to us and we do not share or sell th
 
 #### **FUNDING**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+1. I work for a charity in Singapore. How can my organisation apply to be a President’s Challenge benefiting organisation?
+To be considered for a nomination as a President’s Challenge benefiting organisation, your organisation must have attained an Institute of Public Character (IPC) status that remains valid in the financial year when the funds are disbursed. You may apply for IPC status at www.charities.gov.sg.
+ 
+Applications for funding generally open in September for the following year. You can download the application form from our website or contact your respective Sector Administrator for the application details.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+#### **FUNDRAISING**
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+1. Who manages the President's Challenge?
+The main bodies involved in the organisation and administration of President's Challenge are the President's Office, Ministry of Social and Family Development (MSF) and National Council of Social Service (NCSS).  The President's Challenge Secretariat is managed by NCSS and oversees the secretariat duties, fundraising efforts and volunteerism drive under President's Challenge.
+
+2. I am keen to fund raise for President's Challenge. Can you share some ideas?
+Thank you for your interest to raise funds for President's Challenge.  Here are some ideas for you to consider but if you want to know more, drop us a note here 
+- Auction
+- Bake sale or jumble sale
+- Entertainment e.g. concert, play, movie screening
+- Sports e.g. charity walk, marathon, yoga
+- Fun fair
+- Party e.g. charity lunch, dinner, tea party
+- Raffle
+ 
+3. What should I do if I wish to conduct a public fundraising event to raise funds for President's Challenge?
+A House to House and Street Collections licence is required if you are organising a fundraising event or activity that appeals for donations from the public. To apply for the licence, please visit the Singapore Police Force website at www.police.gov.sg.
