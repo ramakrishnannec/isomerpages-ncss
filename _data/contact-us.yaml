@@ -10,7 +10,7 @@ locations:
   # HQ Address [REQUIRED]
   - title: President's Challenge Secretariat
     address: 170 Ghim Moh Road<br>#01-02<br>c/o National Council of Social Service<br>Singapore 279621
-    find-directions: https://maps.google.com/maps?ll=1.312017,103.789093&z=14&t=m&hl=en-US&gl=SG&mapclient=embed&daddr=President%27s%20Challenge%20Secretariat%20170%20Ghim%20Moh%20Rd%20%2301-02%2C%20c%2Fo%20National%20Council%20of%20Social%20Service%20Singapore%20279621@1.3120169,103.7890931
+    find-directions: https://www.google.com/maps/place/National+Council+of+Social+Service/@1.3110517,103.7867444,17z/data=!4m5!3m4!1s0x31da1465952cddbd:0x896b5ee2ccfeb12b!8m2!3d1.3120117!4d103.7891548
   # Operating Hours [OPTIONAL]
     operating-hours:
       - days: Mon - Thu
