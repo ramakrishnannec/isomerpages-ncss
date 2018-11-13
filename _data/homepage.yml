@@ -26,12 +26,10 @@ key-highlights:
     url: /Donate/
   - title: VOLUNTEER
     description: Be a part of President’s Challenge Volunteer Drive and make a difference in someone’s life.
-    #url: https://yahoo.com
-    #external: true
-    url: /page-B/
+    url: /Volunteer/
   - title: FUND RAISE
     description: Do you want to give back as an organisation? Partner with us.
-    url: /page-A/
+    url: /PartnerWithUs/
 
 resources-title: TAKE ACTION
 #resources-subtitle: Be in the know
