@@ -22,7 +22,7 @@ locations:
 
 # Contact Us
 column:
-  - title: If you are interested in organising a fundraising event in support of President’s Challenge or just want to know more about us, drop us a note here or email us at: 
+  - title: If you are interested in organising a fundraising event in support of President’s Challenge or just want to know more about us, drop us a note here or email us at
     content:
     - line: pc_enquiry@ncss.gov.sg (email)
     # If you have an email, put (email) after the actual email
