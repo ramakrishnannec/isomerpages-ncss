@@ -7,11 +7,11 @@ breadcrumb: Donate
 
 ![Donate Banner](/images/Donate-banner_1.jpg "Donate Banner")
 
-###MAKE A DIFFERENCE
+### MAKE A DIFFERENCE
 
-####Help those less fortunate in our communities and make a donation today. The funds raised will make a difference in their lives.
+#### Help those less fortunate in our communities and make a donation today. The funds raised will make a difference in their lives.
 
-####Click [here](https://www.pc.org.sg) to find out about the many organisations we raise funds for, who offer a wide range of services for the people under their care.
+#### Click [here](https://www.pc.org.sg) to find out about the many organisations we raise funds for, who offer a wide range of services for the people under their care.
 
 |**Help the children**|| 
 ![Donate Story 1](/images/Donate-Story1.jpg "Donate Story 1") | **$10** goes a long way in covering books and school fees for disadvantaged children and helps them stay in school.|
