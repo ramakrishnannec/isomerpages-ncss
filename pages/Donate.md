@@ -6,7 +6,7 @@ breadcrumb: Donate
 ---
 
 ##### Help the children 
-![alt text](/images/Donate-Story1.jpg "Logo Title Text 1") {: width="50px !important"; height="50px !important"}
+![alt text](/images/Donate-Story1.jpg "Logo Title Text 1") {: width="50px !important" height="50px !important"}
 **$10** goes a long way in covering books and school fees for disadvantaged children and helps them stay in school. 
 
 
