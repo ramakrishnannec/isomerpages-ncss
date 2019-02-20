@@ -5,8 +5,8 @@ permalink: /Donate/
 breadcrumb: Donate
 ---
 
-![alt text](/images/Donate-Story1.jpg "Logo Title Text 1"){ width=30% }  
 #### Help the children 
+![alt text](/images/Donate-Story1.jpg "Logo Title Text 1"){ :height="50px" width="50px" }  
 **$10** goes a long way in covering books and school fees for disadvantaged children and helps them stay in school. 
 
 |![alt text](/images/person-seeing-doctor.jpg "Logo Title Text 2"){ width=30% } | #### Rising Medical Costs |
