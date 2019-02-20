@@ -5,7 +5,7 @@ permalink: /Donate/
 breadcrumb: Donate
 ---
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](/images/Donate-Story1.jpg "Logo Title Text 1")
 || #### Help the children
 ||**$10** goes a long way in covering books and school fees for disadvantaged children and helps them stay in school. | 
 
