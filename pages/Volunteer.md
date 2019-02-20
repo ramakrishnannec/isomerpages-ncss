@@ -17,7 +17,4 @@ President’s Challenge Volunteer Drive encourages everyone to be more involved 
 #### VOLUNTEERING OPPORTUNITIES
 
 |**Event Details**|**Date**|**Venue**|**Organiser**|
-|stana Open House - Labour Day
-The Istana Grounds is open to the public in celebration of major holidays in Singapore.  President's Challenge provides volunteering opportunities to those who are keen to help out at the open houses as ushers or to assist at the fundraising booths.
-
-Contact: ncss_pc@ncss.gov.sg|1 May 2019|Istana|President's Office & PC Secretariat|
+|stana Open House - Labour Day The Istana Grounds is open to the public in celebration of major holidays in Singapore.  President's Challenge provides volunteering opportunities to those who are keen to help out at the open houses as ushers or to assist at the fundraising booths. Contact: ncss_pc@ncss.gov.sg|1 May 2019|Istana|President's Office & PC Secretariat|
