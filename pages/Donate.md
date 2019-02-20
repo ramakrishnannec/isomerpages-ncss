@@ -5,9 +5,8 @@ permalink: /Donate/
 breadcrumb: Donate
 ---
 
-##### Help the children 
-![PCImage](/images/Donate-Story1.jpg "Logo Title Text 1") {: width="50px !important" height="50px !important"}
-**$10** goes a long way in covering books and school fees for disadvantaged children and helps them stay in school. 
+|**Help the children**|| 
+![PCImage](/images/Donate-Story1.jpg "Logo Title Text 1") | **$10** goes a long way in covering books and school fees for disadvantaged children and helps them stay in school.|
 
 |**Rising Medical Costs**||
 |![alt text](/images/person-seeing-doctor.jpg "Logo Title Text 2") | **$50** helps subsidise the medical costs for the less fortunate such as their doctor visits and medication.| 
