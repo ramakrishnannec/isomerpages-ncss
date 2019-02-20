@@ -18,4 +18,11 @@ breadcrumb: Donate
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/70OmQh3ENLU/0.jpg)](https://www.youtube.com/watch?v=70OmQh3ENLU)
 
 
+Be a part of the President’s Challenge and make someone’s wishes come true.
+Donate to support the 59 benefitting organisations supported in 2018 including those supported under the Empowering For Life (ELF) Fund. 
+Donations to ELF enjoy dollar-for-dollar matching from the Government.
+
+100% of your donations go towards the benefiting organisations we support. 
+Make a difference today!
+
 ![alt text](/images/beneficiary1.jpg "Logo Title Text 3")
