@@ -28,4 +28,4 @@ Donate to support the 59 benefitting organisations supported in 2018 including t
 
 Make a difference today!
 
-![alt text](/images/beneficiary1.jpg "Logo Title Text 3")
+![Donate Now](/images/beneficiary1.jpg "Logo Title Text 3")(https://www.giving.sg/president-s-challenge)
