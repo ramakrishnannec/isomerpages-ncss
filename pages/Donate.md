@@ -17,3 +17,5 @@ breadcrumb: Donate
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/70OmQh3ENLU/0.jpg)](https://www.youtube.com/watch?v=70OmQh3ENLU)
 
+
+![alt text](/images/beneficiary1.jpg "Logo Title Text 3")
