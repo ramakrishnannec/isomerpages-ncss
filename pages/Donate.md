@@ -5,6 +5,8 @@ permalink: /Donate/
 breadcrumb: Donate
 ---
 
+![Donate Banner](/images/Donate-banner_1.jpg "Donate Banner")
+
 |**Help the children**|| 
 ![PCImage](/images/Donate-Story1.jpg "Logo Title Text 1") | **$10** goes a long way in covering books and school fees for disadvantaged children and helps them stay in school.|
 
