@@ -5,9 +5,9 @@ permalink: /Donate/
 breadcrumb: Donate
 ---
 
-![Donate Banner](/images/Donate-banner_1.jpg "Donate Banner")
-
 ### MAKE A DIFFERENCE
+
+![Donate Banner](/images/Donate-banner_1.jpg "Donate Banner")
 
 Help those less fortunate in our communities and make a donation today. The funds raised will make a difference in their lives.
 
