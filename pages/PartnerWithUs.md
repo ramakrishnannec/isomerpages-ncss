@@ -5,10 +5,15 @@ permalink: /PartnerWithUs/
 breadcrumb: PartnerWithUs
 ---
 
-![alt text](./../images/p-w-us6.jpg "Logo Title Text 1")
+### PARTNER WITH US
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/cGVy4rLfwbg/0.jpg)](http://www.youtube.com/watch?v=cGVy4rLfwbg)
+![Partner With Us Banner](/images/p-w-us6.jpg.jpg "Partner With Us Banner")
 
-In 2017, more than 10,000 individuals made a difference by raising funds and volunteering for President's Challenge.
+Every year, supporters of President’s Challenge, people from all walks of life pull together their resources to organise big- to small-scale fundraising events to raise funds for President’s Challenge’s benefiting organisations. This is how the community is making a collective effort towards building a cohesive and caring society.
 
-#### testing
+|**SHARE YOUR SKILLS**|**VOLUNTEER YOUR TIME**|**SHARE YOUR TALENT**|**VOLUNTEER AS A FAMILY**|
+![Volunteer Story 1](/images/Allison2.jpg "Volunteer Story 1")|![Volunteer Story 2](/images/Citi-Sg2.jpg "Volunteer Story 2")|![Volunteer Story 3](/images/Singtel2.jpg "Volunteer Story 3")|![Volunteer Story 4](/images/Joanne_1.jpg "Volunteer Story 4")|
+|The skills that you gain from your work can help a charity organisation operate more effectively.|A small effort brings so much joy. All you need is some time to spare.|Don't hide your talent. Share it for a meaningful cause. Give freely, live fully.|Volunteerism is a good way for families to have fun and feel closer & children learn about compassion.|
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/aimBFH3b3gI/0.jpg)](http://www.youtube.com/watch?v=aimBFH3b3gI)
+
