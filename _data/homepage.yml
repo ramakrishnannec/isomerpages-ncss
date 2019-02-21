@@ -32,6 +32,41 @@ key-highlights:
     description: Do you want to give back as an organisation? Partner with us.
     url: /PartnerWithUs/
 
+# Info Sections
+info-sections:
+  - section-title: Users
+    section-subtitle: Hassle-free registration
+    section-description: We streamline your user registration process by removing your need for password and user management.
+    section-more-button: API References
+    section-more-button-url: /citizens/
+    section-image-path: /images/digital-transformation/govtech-hive.jpg
+  - section-title: Developers
+    section-subtitle: Develop seamlessly
+    section-description: With the NDI platform, app developers only need one client ID to gain access to multiple government services.
+    section-more-button: Stuff
+    section-more-button-url: /citizens/
+    section-image-path: /images/digital-transformation/govtech-hive.jpg
+  - section-title: Users
+    section-subtitle: Hassle-free registration
+    section-description: We streamline your user registration process by removing your need for password and user management.
+    section-more-button: Stuff
+    section-more-button-url: /citizens/
+    section-image-path: /images/digital-transformation/govtech-hive.jpg
+  - section-title: Developers
+    section-subtitle: Develop seamlessly
+    section-description: With the NDI platform, app developers only need one client ID to gain access to multiple government services.
+    section-more-button: API References
+    section-more-button-url: /citizens/
+    section-image-path: /images/digital-transformation/govtech-hive.jpg
+
+# Programmes Section
+# To edit the programme details, go to programmes.yml
+programmes-title: Programmes
+programmes-subtitle: Co-creating for better value
+programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+programmes-more-button: More Programmes
+programmes-more-button-url:
+
 #resources-title: TAKE ACTION
 #resources-subtitle: Be in the know
 #resources-more-button: More Resources
