@@ -35,7 +35,7 @@ Click [here](https://www.pc.org.sg) to find out about the many organisations we 
 #### Help the children
 <table class="table-h">
   <tr>
-    <td rowspan="2"><img src="/images/Donate-Story1.jpg" alt="Donate Story 1"</td>
+        <td rowspan="2"><img src="/images/Donate-Story1.jpg" alt="Donate Story 1"</img></td>
         <td><b>$10</b> goes a long way in covering books and school fees for disadvantaged children and helps them stay in school.</td>
   </tr>
 </table>
@@ -43,9 +43,11 @@ Click [here](https://www.pc.org.sg) to find out about the many organisations we 
 |![Donate Story 1](/images/Donate-Story1.jpg "Donate Story 1")| **$10** goes a long way in covering books and school fees for disadvantaged children and helps them stay in school.| 
 
 #### Rising Medical Costs
+
 |![Donate Story 2](/images/person-seeing-doctor.jpg "Donate Story 2")|**$50** helps subsidise the medical costs for the less fortunate such as their doctor visits and medication.|
 
 #### Help the disabled
+
 |![Donate Story 3](/images/Donate-Story3.jpg "Donate Story 3")|**$100** covers skills training costs so that those with intellectual disabilities can lead independent lives|
 
 Be a part of the President’s Challenge and make someone’s wishes come true.
