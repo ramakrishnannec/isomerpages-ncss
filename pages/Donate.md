@@ -33,6 +33,13 @@ Click [here](https://www.pc.org.sg) to find out about the many organisations we 
 </div>
 
 #### Help the children
+<table class="table-h">
+  <tr>
+    <td rowspan="2"><img src="/images/Donate-Story1.jpg" alt="Donate Story 1"</td>
+        <td><b>$10</b> goes a long way in covering books and school fees for disadvantaged children and helps them stay in school.</td>
+  </tr>
+</table>
+
 |![Donate Story 1](/images/Donate-Story1.jpg "Donate Story 1")| **$10** goes a long way in covering books and school fees for disadvantaged children and helps them stay in school.| 
 
 #### Rising Medical Costs
