@@ -17,3 +17,4 @@ Every year, supporters of President’s Challenge, people from all walks of life
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/aimBFH3b3gI/0.jpg)](http://www.youtube.com/watch?v=aimBFH3b3gI)
 
+The President's Challenge is a movement supported by the kindness and generosity of people from all walks of life, regardless of culture, religion or family background, to help those less fortunate. We are proud to share this video of the President's Challenge 2018, showing how Singaporeans come together to show love, care & support to build a more caring & inclusive society.
