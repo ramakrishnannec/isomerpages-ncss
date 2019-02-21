@@ -1,5 +1,5 @@
 ---
-layout: simple-page
+layout: faq
 permalink: /faq/
 breadcrumb: FAQ
 title: FAQ
