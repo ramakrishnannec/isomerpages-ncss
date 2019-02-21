@@ -39,13 +39,13 @@ info-sections:
     section-description: 100% of your donations go towards the benefiting organisations supported by President’s Challenge.
     section-more-button: DONATE
     section-more-button-url: /Donate/
-    section-image-path: /images/Donate-Story1.jpg
+    section-image-path: /images/little-boy-donating.jpg
   - section-title: 
     section-subtitle: 
     section-description: Be a part of President’s Challenge Volunteer Drive and make a difference in someone’s life.
     section-more-button: VOLUNTEER
     section-more-button-url: /Volunteer/
-    section-image-path: /images/Donate-Story3.jpg
+    section-image-path: /images/volunteer-with-senior.jpg
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
