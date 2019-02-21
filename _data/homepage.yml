@@ -46,14 +46,12 @@ info-sections:
     section-more-button: VOLUNTEER
     section-more-button-url: /Volunteer/
     section-image-path: /images/volunteer-with-senior.jpg
-
-# Programmes Section
-# To edit the programme details, go to programmes.yml
-programmes-title: Programmes
-programmes-subtitle: Co-creating for better value
-programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
-programmes-more-button: More Programmes
-programmes-more-button-url:
+  - section-title: 
+    section-subtitle: 
+    section-description: Do you want to give back as an organisation? Partner with us.
+    section-more-button: FUND RAISE
+    section-more-button-url: /PartnerWithUs/
+    section-image-path: /images/raffles-fundraising.jpg
 
 #resources-title: TAKE ACTION
 #resources-subtitle: Be in the know
