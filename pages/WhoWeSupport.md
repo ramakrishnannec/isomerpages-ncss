@@ -1,7 +1,7 @@
 ---
 layout: simple-page
-title: Donate
-permalink: /Donate/
+title: Who We Support
+permalink: /WhoWeSupport/
 breadcrumb: Donate
 ---
 
