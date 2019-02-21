@@ -11,7 +11,7 @@ breadcrumb: Volunteer
 President’s Challenge Volunteer Drive encourages everyone to be more involved in the community and promote volunteerism as a way of life, making Singapore a more caring and compassionate society. The Volunteer Drive promotes the giving of time and skills.
 
 |**SHARE YOUR SKILLS**|**VOLUNTEER YOUR TIME**|**SHARE YOUR TALENT**|**VOLUNTEER AS A FAMILY**|
-[![Volunteer Story 1](/images/Allison2.jpg "Volunteer Story 1")](#skills-based-volunteering)|[![Volunteer Story 2](/images/Citi-Sg2.jpg "Volunteer Story 2")](#volunteer-your-time)|![Volunteer Story 3](/images/Singtel2.jpg "Volunteer Story 3")|![Volunteer Story 4](/images/Joanne_1.jpg "Volunteer Story 4")|
+[![Volunteer Story 1](/images/Allison2.jpg "Volunteer Story 1")](#skills-based-volunteering)|[![Volunteer Story 2](/images/Citi-Sg2.jpg "Volunteer Story 2")](#volunteer-your-time)|[![Volunteer Story 3](/images/Singtel2.jpg "Volunteer Story 3")](#volunteer-your-time)|![Volunteer Story 4](/images/Joanne_1.jpg "Volunteer Story 4")|
 |The skills that you gain from your work can help a charity organisation operate more effectively.|A small effort brings so much joy. All you need is some time to spare.|Don't hide your talent. Share it for a meaningful cause. Give freely, live fully.|Volunteerism is a good way for families to have fun and feel closer & children learn about compassion.|
 
 #### VOLUNTEERING OPPORTUNITIES
@@ -31,4 +31,4 @@ President’s Challenge Volunteer Drive encourages everyone to be more involved 
 
 #### Help the disabled
 
-|![Donate Story 3](/images/Donate-Story3.jpg "Donate Story 3")|**$100** covers skills training costs so that those with intellectual disabilities can lead independent lives.|
+|![Volunteer Story 3](/images/Singtel2.jpg "Volunteer Story 3")|“The Balloon Man”, as his colleagues fondly call him, has become a familiar sight at the Istana Open House. Mr Teo Ek Thong has been wowing local crowds since he picked up the art of balloon sculpting nine years ago. From realistic Yoshi balloons to smiling Doraemon characters, the delighted expressions on on children’s faces when they receive the product of his painstaking labour constantly encourages him to be the best at what he does.<br><br>Come down to the Istana Open House and pop by the balloon sculpture booth to view the beautiful balloon designs created by Mr Teo and the volunteers of the Singtel Recreation Club.  The Singtel Recreation Club is one of our volunteer partners who work very hard at the open house to raise funds for President's Challenge.  Reach out to us if you are keen to adopt a fundraising booth at the open house.|
