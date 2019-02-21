@@ -18,8 +18,6 @@
     url: /contact-us/
 - title: Who We Support
   url: /simple-page-A/
-- title: Empowering for Life Fund
-  url: /simple-page-B/
 - title: Take Action
   sub-links:
   - title: Donate
@@ -28,3 +26,8 @@
     url: /Volunteer/
   - title: Partner With Us
     url: /simple-page-B/
+- title: Empowering for Life Fund
+  url: /simple-page-B/
+- title: Silver Volunteer Fund
+  url: /simple-page-B/
+
