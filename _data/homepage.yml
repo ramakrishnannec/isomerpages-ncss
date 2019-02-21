@@ -34,17 +34,17 @@ key-highlights:
 
 # Info Sections
 info-sections:
-  - section-title: Users
-    section-subtitle: Hassle-free registration
-    section-description: We streamline your user registration process by removing your need for password and user management.
-    section-more-button: API References
-    section-more-button-url: /citizens/
+  - section-title: 
+    section-subtitle: 
+    section-description: 100% of your donations go towards the benefiting organisations supported by President’s Challenge.
+    section-more-button: DONATE
+    section-more-button-url: /Donate/
     section-image-path: /images/Donate-Story1.jpg
-  - section-title: Developers
-    section-subtitle: Develop seamlessly
-    section-description: With the NDI platform, app developers only need one client ID to gain access to multiple government services.
-    section-more-button: Stuff
-    section-more-button-url: /citizens/
+  - section-title: 
+    section-subtitle: 
+    section-description: Be a part of President’s Challenge Volunteer Drive and make a difference in someone’s life.
+    section-more-button: VOLUNTEER
+    section-more-button-url: /Volunteer/
     section-image-path: /images/Donate-Story3.jpg
 
 # Programmes Section
