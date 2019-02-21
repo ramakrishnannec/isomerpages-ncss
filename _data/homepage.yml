@@ -17,8 +17,8 @@ hero-subtitle: President's Challenge 2019 supports 67 benefitting organisations 
 hero-banner: /images/tuxpi-com-1548843214.jpg
 
 #Call to Action Button
-#button:
-#  - text: Learn More
+button:
+  - text: Learn More
 #    url: /who-we-are/
     
 key-highlights:
