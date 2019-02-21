@@ -29,8 +29,10 @@ Click [here](https://www.pc.org.sg) to find out about the many organisations we 
 |![Donate Story 3](/images/Donate-Story3.jpg "Donate Story 3") | **$100** covers skills training costs so that those with intellectual disabilities can lead independent lives|
 -->
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/70OmQh3ENLU/0.jpg)](https://www.youtube.com/watch?v=70OmQh3ENLU)
-
+<!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/70OmQh3ENLU/0.jpg)](https://www.youtube.com/watch?v=70OmQh3ENLU) -->
+<div class="bp-youtube">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/70OmQh3ENLU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 Be a part of the President’s Challenge and make someone’s wishes come true.
 
