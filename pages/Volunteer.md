@@ -10,6 +10,37 @@ breadcrumb: Volunteer
 
 President’s Challenge Volunteer Drive encourages everyone to be more involved in the community and promote volunteerism as a way of life, making Singapore a more caring and compassionate society. The Volunteer Drive promotes the giving of time and skills.
 
+<table>
+  <tr>
+     <td>
+       <b>SHARE YOUR SKILLS</b>
+     </td>
+     <td>
+       <b>VOLUNTEER YOUR TIME</b>
+     </td>
+     <td>
+       <b>SHARE YOUR TALENT</b>
+     </td>
+     <td>
+       <b>VOLUNTEER AS A FAMILY</b>
+     </td>
+  </tr>
+    <tr>
+     <td>
+       <img src="../images/Allison2.jpg" alt="Volunteer Story 1" />
+     </td>
+     <td>
+       <img src="../images/Citi-Sg2.jpg" alt="Volunteer Story 2" />
+     </td>
+     <td>
+       <img src="../images/Singtel2.jpg" alt="Volunteer Story 3" />
+     </td>
+     <td>
+        <img src="../images/Joanne_1.jpg" alt="Volunteer Story 4" />
+     </td>
+  </tr>
+</table>
+
 |**SHARE YOUR SKILLS**|**VOLUNTEER YOUR TIME**|**SHARE YOUR TALENT**|**VOLUNTEER AS A FAMILY**|
 [![Volunteer Story 1](/images/Allison2.jpg "Volunteer Story 1")](#skills-based-volunteering)|[![Volunteer Story 2](/images/Citi-Sg2.jpg "Volunteer Story 2")](#volunteer-your-time)|[![Volunteer Story 3](/images/Singtel2.jpg "Volunteer Story 3")](#volunteer-your-time)|[![Volunteer Story 4](/images/Joanne_1.jpg "Volunteer Story 4")](#volunteer-with-your-family)|
 |The skills that you gain from your work can help a charity organisation operate more effectively.|A small effort brings so much joy. All you need is some time to spare.|Don't hide your talent. Share it for a meaningful cause. Give freely, live fully.|Volunteerism is a good way for families to have fun and feel closer & children learn about compassion.|
