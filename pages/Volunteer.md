@@ -25,7 +25,7 @@ President’s Challenge Volunteer Drive encourages everyone to be more involved 
        <b>VOLUNTEER AS A FAMILY</b>
      </td>
   </tr>
-    <tr>
+  <tr>
      <td>
        <img src="../images/Allison2.jpg" alt="Volunteer Story 1" />
      </td>
@@ -39,11 +39,22 @@ President’s Challenge Volunteer Drive encourages everyone to be more involved 
         <img src="../images/Joanne_1.jpg" alt="Volunteer Story 4" />
      </td>
   </tr>
+  <tr>
+     <td>
+       The skills that you gain from your work can help a charity organisation operate more effectively.
+     </td>
+     <td>
+       A small effort brings so much joy. All you need is some time to spare.
+     </td>
+     <td>
+       Don’t hide your talent. Share it for a meaningful cause. Give freely, live fully.
+     </td>
+     <td>
+        Volunteerism is a good way for families to have fun and feel closer & children learn about compassion.
+     </td>
+  </tr>
 </table>
 
-|**SHARE YOUR SKILLS**|**VOLUNTEER YOUR TIME**|**SHARE YOUR TALENT**|**VOLUNTEER AS A FAMILY**|
-[![Volunteer Story 1](/images/Allison2.jpg "Volunteer Story 1")](#skills-based-volunteering)|[![Volunteer Story 2](/images/Citi-Sg2.jpg "Volunteer Story 2")](#volunteer-your-time)|[![Volunteer Story 3](/images/Singtel2.jpg "Volunteer Story 3")](#volunteer-your-time)|[![Volunteer Story 4](/images/Joanne_1.jpg "Volunteer Story 4")](#volunteer-with-your-family)|
-|The skills that you gain from your work can help a charity organisation operate more effectively.|A small effort brings so much joy. All you need is some time to spare.|Don't hide your talent. Share it for a meaningful cause. Give freely, live fully.|Volunteerism is a good way for families to have fun and feel closer & children learn about compassion.|
 
 #### VOLUNTEERING OPPORTUNITIES
 
