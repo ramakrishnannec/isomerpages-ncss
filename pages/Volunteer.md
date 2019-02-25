@@ -12,16 +12,16 @@ President’s Challenge Volunteer Drive encourages everyone to be more involved 
 
 <table>
   <tr>
-     <td>
+     <td width="25%">
        <b>SHARE YOUR SKILLS</b>
      </td>
-     <td>
+     <td width="25%">
        <b>VOLUNTEER YOUR TIME</b>
      </td>
-     <td>
+     <td width="25%">
        <b>SHARE YOUR TALENT</b>
      </td>
-     <td>
+     <td width="25%">
        <b>VOLUNTEER AS A FAMILY</b>
      </td>
   </tr>
