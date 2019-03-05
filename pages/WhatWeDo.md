@@ -5,8 +5,4 @@ permalink: /WhatWeDo/
 breadcrumb: What We Do
 ---
 
-### WHO WE SUPPORT
-
-### MAKE A DIFFERENCE
-
-![Donate Banner](/images/Donate-banner_1.jpg "Donate Banner")
+### WHAT WE DO
