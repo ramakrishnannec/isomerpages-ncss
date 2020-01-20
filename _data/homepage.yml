@@ -11,15 +11,19 @@ favicon: /images/favicon.ico
 agency-logo: /images/PCLogo3.svg
 
 # Hero Banner
-hero-title: President's Challenge 2019 Launch
-hero-subtitle: President's Challenge 2019 supports 67 benefitting organisations in various sectors from children in need to mental health services.  Join us as we come together as one to create a better future for those in need.
-#hero-banner: /images/banner-25Sep-v1.jpg
-hero-banner: /images/tuxpi-com-1548843214.jpg
+#hero-title: President's Challenge 2019 Launch
+#hero-subtitle: President's Challenge 2019 supports 67 benefitting organisations in various sectors from children in need to mental health services.  Join us as we come together as one to create a better future for those in need.
+##hero-banner: /images/banner-25Sep-v1.jpg
+#hero-banner: /images/tuxpi-com-1548843214.jpg
+
+hero-title: President's Challenge Appreciation Night 2019
+hero-subtitle: The support received from the community in Singapore has enabled President’s Challenge to meet the changing needs of the vulnerable in Singapore, including more customised and upstream support in skills upgrading and employability.  Thank you to all our donors and volunteers for making a difference.
+hero-banner: /images/tuxpi-com-1575443716_2.jpg
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /WhoWeSupport/
+#button:
+#  - text: Learn More
+#    url: /WhoWeSupport/
     
 key-highlights:
   - title: Donate
