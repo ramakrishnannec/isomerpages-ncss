@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Simple Page B
+title: Empowering for Life Fund
 permalink: /EmpoweringforLifeFund/
 breadcrumb: Empowering for Life Fund
 ---
