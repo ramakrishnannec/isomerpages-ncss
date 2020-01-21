@@ -22,16 +22,16 @@ breadcrumb: Silver Volunteer Fund
   </tr>
   <tr>
      <td>
-       President’s Star Charity by Mediacorp brings together star-power to raise funds for President’s Challenge ...
+       <img src="../images/Allison2.jpg" alt="Volunteer Story 1" />
      </td>
      <td>
-       A small effort brings so much joy. All you need is some time to spare.
+       <img src="../images/Citi-Sg2.jpg" alt="Volunteer Story 2" />
      </td>
      <td>
-       Don't hide your talent. Share it for a meaningful cause. Give freely, live fully.
+       <img src="../images/Singtel2.jpg" alt="Volunteer Story 3" />
      </td>
      <td>
-        Volunteerism is a good way for families to have fun and feel closer & children learn about compassion.
+        <img src="../images/Joanne_1.jpg" alt="Volunteer Story 4" />
      </td>
   </tr>
 </table>
