@@ -19,7 +19,15 @@
 - title: About2
   sub-links:
   - title: What We Do
-    url: /left-nav-one/WhatWeDo/
+    url: /About/WhatWeDo/
+  - title: Milestones
+    url: /About/sub-page-B/
+  - title: Social Enterprise
+    url: /About/sub-page-C/
+  - title: Events
+    url: /About/Events/
+  - title: Contact Us
+    url: /About/contact-us/
 - title: Who We Support
   url: /WhoWeSupport/
 - title: Take Action
