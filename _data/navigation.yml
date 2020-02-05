@@ -28,6 +28,10 @@
     url: /PartnerWithUs/
 - title: Empowering for Life Fund
   url: /EmpoweringforLifeFund/
-- title: Silver Volunteer Fund
-  url: /SilverVolunteerFund/
-
+- title: Inclusive Employment Pledge
+  sub-links:
+  - title: Take the Inclusive Employment Pledge
+    url: /Pledge/
+  - title: Pledge Gallery
+    url: /PledgeGallery/
+  
