@@ -16,18 +16,18 @@
     url: /left-nav-two/sub-page-D/
   - title: Contact Us
     url: /contact-us/
-- title: About2
+- title: Who We Are
   sub-links:
   - title: What We Do
-    url: /About/WhatWeDo/
+    url: /who-we-are/WhatWeDo/
   - title: Milestones
-    url: /About/sub-page-B/
+    url: /who-we-are/sub-page-B/
   - title: Social Enterprise
-    url: /About/sub-page-C/
+    url: /who-we-are/sub-page-C/
   - title: Events
-    url: /About/Events/
+    url: /who-we-are/Events/
   - title: Contact Us
-    url: /About/contact-us/
+    url: /who-we-are/contact-us/
 - title: Who We Support
   url: /WhoWeSupport/
 - title: Take Action
