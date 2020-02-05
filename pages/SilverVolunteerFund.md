@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Silver Volunteer Fund
-permalink: /SilverVolunteerFund/
-breadcrumb: Silver Volunteer Fund
+title: Pledge Gallery
+permalink: /PledgeGallery/
+breadcrumb: Pledge Gallery
 ---
 
 <table>
