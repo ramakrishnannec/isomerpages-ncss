@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: What We Do
-permalink: /left-nav-one/WhatWeDo/
+permalink: /About/WhatWeDo/
 breadcrumb: What We Do
 collection_name: left-nav-one
 ---
