@@ -1,8 +1,9 @@
 ---
-layout: simple-page
-title: PartnerWithUs
-permalink: /PartnerWithUs/
-breadcrumb: PartnerWithUs
+layout: leftnav-page-content
+title: Social Enterprise
+permalink: /who-we-are/social-enterprise/
+breadcrumb: Social Enterprise
+collection_name: left-nav-one
 ---
 
 ### PARTNER WITH US
