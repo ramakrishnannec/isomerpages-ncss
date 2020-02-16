@@ -43,7 +43,7 @@ collection_name: left-nav-one
        <img src="../images/SE-Champion-of-the-Year-(Corporate)_DBS.jpg" alt="DBS/DBS Foundation" />
      </td>
      <td width="25%">
-        <img src="../images/PSE-Champion-of-the-Year-(Individual)_Mr-Don-Wong.jpg" alt="Don Wong" />
+        <img src="../images/SE-Champion-of-the-Year-(Individual)_Mr-Don-Wong.jpg" alt="Don Wong" />
      </td>
   </tr>
   <tr>
