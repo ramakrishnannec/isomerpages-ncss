@@ -8,7 +8,7 @@ collection_name: left-nav-one
 
 ### PARTNER WITH US
 
-![Partner With Us Banner](/images/p-w-us6.jpg "Partner With Us Banner")
+![Presidents Challenge Social Enterprise Award Banner](/images/sea-banner.jpg "Partner With Us Banner")
 
 Every year, supporters of President’s Challenge, people from all walks of life pull together their resources to organise big- to small-scale fundraising events to raise funds for President’s Challenge’s benefiting organisations. This is how the community is making a collective effort towards building a cohesive and caring society.
 
