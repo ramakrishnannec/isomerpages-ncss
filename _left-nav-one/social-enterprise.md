@@ -43,7 +43,7 @@ Every year, supporters of President’s Challenge, people from all walks of life
        <img src="../images/SE-Champion-of-the-Year-(Corporate)_DBS.jpg" alt="DBS/DBS Foundation" />
      </td>
      <td width="25%">
-        <img src="../images/Partner-Story4.jpg" alt="Partner Story 4" />
+        <img src="../images/PSE-Champion-of-the-Year-(Individual)_Mr-Don-Wong.jpg" alt="Don Wong" />
      </td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ Every year, supporters of President’s Challenge, people from all walks of life
        <strong>Social Enterprise Champion of the Year (Corporate): </strong> DBS Foundation, since its inception...
      </td>
      <td>
-        Volunteerism is a good way for families to have fun and feel closer & children learn about compassion.
+        <strong>Social Enterprise Champion of the Year (Individual): </strong> Don Wong is the founder of non...
      </td>
   </tr>
 </table>
