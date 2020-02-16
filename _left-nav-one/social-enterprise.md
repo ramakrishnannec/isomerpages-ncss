@@ -8,9 +8,9 @@ collection_name: left-nav-one
 
 ![Presidents Challenge Social Enterprise Award Banner](/images/sea-banner_2.jpg "Presidents Challenge Social Enterprise Award Banner")
 
-## PRESIDENT’S CHALLENGE SOCIAL ENTERPRISE AWARD
-# We celebrate outstanding social enterprises (SEs) who have made impactful, innovative and sustainable contributions to our community.
-# We hope these awards spark more individuals, particularly our youths, to develop business ventures that also serve social causes.
+### PRESIDENT’S CHALLENGE SOCIAL ENTERPRISE AWARD
+We celebrate outstanding social enterprises (SEs) who have made impactful, innovative and sustainable contributions to our community.
+We hope these awards spark more individuals, particularly our youths, to develop business ventures that also serve social causes.
 
 <!-- |**President’s Star Charity 2018**|**“Start Small Dream Big” project 2018**|**People's Association Community Service Project**|**Raffles Girls’ School’s fundraising booth**|
 ![Partner Story 1](/images/President-s-Star-Charity.jpg "Partner Story 1")|![Partner Story 2](/images/PCF-Eunos_2.jpg "Partner Story 2")|![Partner Story 3](/images/PA.jpg "Partner Story 3")|![Partner Story 4](/images/Partner-Story4.jpg "Partner Story 4")|
