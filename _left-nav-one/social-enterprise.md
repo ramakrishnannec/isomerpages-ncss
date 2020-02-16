@@ -18,7 +18,7 @@ Every year, supporters of President’s Challenge, people from all walks of life
 -->
 
 <table>
-  <tr>
+<!--  <tr>
      <td width="25%">
        <b>President’s Star Charity 2018</b>
      </td>
@@ -31,10 +31,10 @@ Every year, supporters of President’s Challenge, people from all walks of life
      <td width="25%">
        <b>Raffles Girls’ School’s fundraising booth</b>
      </td>
-  </tr>
+  </tr>-->
   <tr>
      <td>
-       <img src="../images/President-s-Star-Charity.jpg" alt="Partner Story 1" />
+       <img src="../images/SE-of-the-Year_Samsui.jpg" alt="Samsui Supplies &amp; Services Pte Ltd" />
      </td>
      <td>
        <img src="../images/PCF-Eunos_2.jpg" alt="Partner Story 2" />
@@ -48,7 +48,7 @@ Every year, supporters of President’s Challenge, people from all walks of life
   </tr>
   <tr>
      <td>
-       President’s Star Charity by Mediacorp brings together star-power to raise funds for President’s Challenge ...
+       <strong>Social Enterprise of the Year: </strong>Samsui Supplies &amp; Services, Initiated by the Soup...
      </td>
      <td>
        A small effort brings so much joy. All you need is some time to spare.
