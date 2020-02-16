@@ -62,4 +62,4 @@ We hope these awards spark more individuals, particularly our youths, to develop
   </tr>
 </table>
 
-Besides the awards above, see the list of finalists for 2019 [HERE](http://www.raise.sg/president-s-challenge-social-enterprise-award.html){target="_blank"}.
+Besides the awards above, see the list of finalists for 2019 [HERE](http://www.raise.sg/president-s-challenge-social-enterprise-award.html){:target="_blank"}.
