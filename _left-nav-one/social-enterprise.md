@@ -37,10 +37,10 @@ Every year, supporters of President’s Challenge, people from all walks of life
        <img src="../images/SE-of-the-Year_Samsui.jpg" alt="Samsui Supplies &amp; Services Pte Ltd" />
      </td>
      <td width="25%">
-       <img src="../images/SE-Startup-of-the-Year_Bantu" alt="Bantu Pte Ltd" />
+       <img src="../images/SE-Startup-of-the-Year_Bantu.jpg" alt="Bantu Pte Ltd" />
      </td>
      <td width="25%">
-       <img src="../images/PA.jpg" alt="Partner Story 3" />
+       <img src="../images/SE-Champion-of-the-Year-(Corporate)_DBS.jpg" alt="DBS/DBS Foundation" />
      </td>
      <td width="25%">
         <img src="../images/Partner-Story4.jpg" alt="Partner Story 4" />
@@ -54,7 +54,7 @@ Every year, supporters of President’s Challenge, people from all walks of life
        <strong>Social Enterprise Start-Up of the Year: </strong> Bantu was recognised for building a proprietary....
      </td>
      <td>
-       Don't hide your talent. Share it for a meaningful cause. Give freely, live fully.
+       <strong>Social Enterprise Champion of the Year (Corporate): </strong> DBS Foundation, since its inception...
      </td>
      <td>
         Volunteerism is a good way for families to have fun and feel closer & children learn about compassion.
