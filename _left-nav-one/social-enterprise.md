@@ -34,16 +34,16 @@ collection_name: left-nav-one
   </tr>-->
   <tr>
      <td width="25%">
-       <img src="../images/SE-of-the-Year_Samsui.jpg" alt="Samsui Supplies &amp; Services Pte Ltd" />
+       <img src="/images/SE-of-the-Year_Samsui.jpg" alt="Samsui Supplies &amp; Services Pte Ltd" />
      </td>
      <td width="25%">
-       <img src="../images/SE-Startup-of-the-Year_Bantu.jpg" alt="Bantu Pte Ltd" />
+       <img src="/images/SE-Startup-of-the-Year_Bantu.jpg" alt="Bantu Pte Ltd" />
      </td>
      <td width="25%">
-       <img src="../images/SE-Champion-of-the-Year-(Corporate)_DBS.jpg" alt="DBS/DBS Foundation" />
+       <img src="/images/SE-Champion-of-the-Year-(Corporate)_DBS.jpg" alt="DBS/DBS Foundation" />
      </td>
      <td width="25%">
-        <img src="../images/SE-Champion-of-the-Year-(Individual)_Mr-Don-Wong.jpg" alt="Don Wong" />
+        <img src="/images/SE-Champion-of-the-Year-(Individual)_Mr-Don-Wong.jpg" alt="Don Wong" />
      </td>
   </tr>
   <tr>
