@@ -6,11 +6,11 @@ breadcrumb: Social Enterprise
 collection_name: left-nav-one
 ---
 
-### PARTNER WITH US
+![Presidents Challenge Social Enterprise Award Banner](/images/sea-banner_2.jpg "Presidents Challenge Social Enterprise Award Banner")
 
-![Presidents Challenge Social Enterprise Award Banner](/images/sea-banner.jpg "Partner With Us Banner")
-
-Every year, supporters of President’s Challenge, people from all walks of life pull together their resources to organise big- to small-scale fundraising events to raise funds for President’s Challenge’s benefiting organisations. This is how the community is making a collective effort towards building a cohesive and caring society.
+##PRESIDENT’S CHALLENGE SOCIAL ENTERPRISE AWARD
+#We celebrate outstanding social enterprises (SEs) who have made impactful, innovative and sustainable contributions to our community.
+#We hope these awards spark more individuals, particularly our youths, to develop business ventures that also serve social causes.</h2>
 
 <!-- |**President’s Star Charity 2018**|**“Start Small Dream Big” project 2018**|**People's Association Community Service Project**|**Raffles Girls’ School’s fundraising booth**|
 ![Partner Story 1](/images/President-s-Star-Charity.jpg "Partner Story 1")|![Partner Story 2](/images/PCF-Eunos_2.jpg "Partner Story 2")|![Partner Story 3](/images/PA.jpg "Partner Story 3")|![Partner Story 4](/images/Partner-Story4.jpg "Partner Story 4")|
