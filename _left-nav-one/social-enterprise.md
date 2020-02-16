@@ -33,16 +33,16 @@ Every year, supporters of President’s Challenge, people from all walks of life
      </td>
   </tr>-->
   <tr>
-     <td>
+     <td width="25%">
        <img src="../images/SE-of-the-Year_Samsui.jpg" alt="Samsui Supplies &amp; Services Pte Ltd" />
      </td>
-     <td>
-       <img src="../images/PCF-Eunos_2.jpg" alt="Partner Story 2" />
+     <td width="25%">
+       <img src="../images/SE-Startup-of-the-Year_Bantu" alt="Bantu Pte Ltd" />
      </td>
-     <td>
+     <td width="25%">
        <img src="../images/PA.jpg" alt="Partner Story 3" />
      </td>
-     <td>
+     <td width="25%">
         <img src="../images/Partner-Story4.jpg" alt="Partner Story 4" />
      </td>
   </tr>
@@ -51,7 +51,7 @@ Every year, supporters of President’s Challenge, people from all walks of life
        <strong>Social Enterprise of the Year: </strong>Samsui Supplies &amp; Services, Initiated by the Soup...
      </td>
      <td>
-       A small effort brings so much joy. All you need is some time to spare.
+       <strong>Social Enterprise Start-Up of the Year: </strong> Bantu was recognised for building a proprietary....
      </td>
      <td>
        Don't hide your talent. Share it for a meaningful cause. Give freely, live fully.
