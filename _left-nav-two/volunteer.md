@@ -29,16 +29,16 @@ President’s Challenge Volunteer Drive encourages everyone to be more involved 
   </tr>
   <tr>
      <td>
-       <img src="../images/Allison2.jpg" alt="Volunteer Story 1" />
+       <img src="/images/Allison2.jpg" alt="Volunteer Story 1" />
      </td>
      <td>
-       <img src="../images/Citi-Sg2.jpg" alt="Volunteer Story 2" />
+       <img src="/images/Citi-Sg2.jpg" alt="Volunteer Story 2" />
      </td>
      <td>
-       <img src="../images/Singtel2.jpg" alt="Volunteer Story 3" />
+       <img src="/images/Singtel2.jpg" alt="Volunteer Story 3" />
      </td>
      <td>
-        <img src="../images/Joanne_1.jpg" alt="Volunteer Story 4" />
+        <img src="/images/Joanne_1.jpg" alt="Volunteer Story 4" />
      </td>
   </tr>
   <tr>
