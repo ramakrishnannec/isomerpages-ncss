@@ -15,13 +15,13 @@ Come and make a difference! Check out what our partners are doing to support Pre
 <table>
   <tr>
      <td width="33.3%">
-       <img src="/images/Allison2.jpg" alt="Volunteer Story 1" />
+       <img src="/images/IMG-20190720-WA0018v1.jpg" alt="President’s Challenge PULSE! Sports Fiesta 2019" />
      </td>
      <td width="33.3%">
-       <img src="/images/Citi-Sg2.jpg" alt="Volunteer Story 2" />
+       <img src="/images/PCF-Eunos_1.jpg" alt="Start Small Dream Big (SSDB) 2018" />
      </td>
      <td width="33.3%">
-       <img src="/images/Singtel2.jpg" alt="Volunteer Story 3" />
+       <img src="/images/President-s-Challenge-Appreciation-Night.jpg" alt="President's Challenge Appreciation Night 2018" />
      </td>
   </tr>
   <tr>
