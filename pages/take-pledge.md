@@ -1,8 +1,9 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Take the Inclusive Employment Pledge
-permalink: /EmpoweringforLifeFund/
+permalink: /inclusive-employment-pledge/take-pledge
 breadcrumb: Take the Inclusive Employment Pledge
+collection_name: left-nav-three
 ---
 
 <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/5d8345c2fab36e00124c1ef5">here</a>.</div>
