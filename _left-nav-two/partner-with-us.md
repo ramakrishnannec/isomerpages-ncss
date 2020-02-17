@@ -1,8 +1,9 @@
 ---
-layout: simple-page
-title: PartnerWithUs
-permalink: /PartnerWithUs/
-breadcrumb: PartnerWithUs
+layout: leftnav-page-content
+title: Partner With Us
+permalink: /take-action/partner-with-us/
+breadcrumb: Partner With Us
+collection_name: left-nav-two
 ---
 
 ### PARTNER WITH US
