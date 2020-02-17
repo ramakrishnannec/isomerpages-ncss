@@ -1,8 +1,9 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Pledge Gallery
-permalink: /PledgeGallery/
+permalink: /inclusive-employment-pledge/pledge-gallery
 breadcrumb: Pledge Gallery
+collection_name: left-nav-three
 ---
 
 <table>
