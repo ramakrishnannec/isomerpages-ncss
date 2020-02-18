@@ -47,4 +47,6 @@ collections:
     output: true
   left-nav-three:
     output: true
+  left-nav-four:
+    output: true
 resources_name: resource-room
