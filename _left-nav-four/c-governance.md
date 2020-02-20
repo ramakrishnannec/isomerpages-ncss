@@ -17,7 +17,7 @@ collection_name: left-nav-four
 
 #### Audit Statements
 [2017 Audit Statement](/files/2017-Audit-Statement.pdf){:target="_blank"} <br>
-[2016 Audit Statement](/files/2016-audit-statement.pdf{:target="_blank"}) <br>
+[2016 Audit Statement](/files/2016-audit-statement.pdf){:target="_blank"} <br>
 [2015 Audit Statement](/files/2015-audit-statement_1.pdf){:target="_blank"} <br>
 [2014 Audit Statement](/files/2014-audit-statement_1.pdf){:target="_blank"} <br>
 [2013 Audit Statements](/files/PC2013-Audit-statement_2.pdf){:target="_blank"}
