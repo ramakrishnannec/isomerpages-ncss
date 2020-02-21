@@ -35,9 +35,7 @@ It is the President's call to the nation to do their part to build a more caring
 
 </table>
 
-<div class="bp-youtube">
-      <iframe width="700" height="419" src="https://youtu.be//nY-GEQh3_l4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+<iframe width="700" height="419" src="https://www.youtube.com/embed/nY-GEQh3_l4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Initiated by former President S R Nathan in 2000, President's Challenge represents the coming together of people from all walks of life to help the less fortunate. In 2012, under the leadership of President Tony Tan Keng Yam, President's Challenge was expanded to go beyond fundraising, by including volunteerism and social entrepreneurship.
 
