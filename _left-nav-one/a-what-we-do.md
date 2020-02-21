@@ -23,7 +23,7 @@ It is the President's call to the nation to do their part to build a more caring
 <tr>
 <td>(/images/wwd_fundraising.jpg "Fund Raising")</td>
 <td>(/images/wwd_caring.jpg "Caring")</td>
-<td> (/images/wwd_celebrating.jpg "Celebrating") </td>
+<td>(/images/wwd_celebrating.jpg "Celebrating") </td>
 </tr>
 
 
