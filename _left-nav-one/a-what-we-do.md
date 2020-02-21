@@ -14,9 +14,9 @@ It is the President's call to the nation to do their part to build a more caring
 
 <table>
 <tr>
-<td><center><strong>FUNDRAISING</strong></center></td>
-<td><center><strong>CARING</strong></center></td>
-<td><center><strong>CELEBRATING</strong></center></td>
+<td align="center"><strong>FUNDRAISING</strong></td>
+<td align="center><strong>CARING</strong></td>
+<td align="center><strong>CELEBRATING</strong></td>
 </tr>
 
 <tr>
