@@ -16,16 +16,14 @@ It is the President's call to the nation to do their part to build a more caring
 <tr>
 <td>FUNDRAISING</td>
 <td>CARING</td>
-<td> CELEBRATING </td>
+<td>CELEBRATING </td>
 </tr>
-
 
 <tr>
-<td>(/images/wwd_fundraising.jpg "Fund Raising")</td>
-<td>(/images/wwd_caring.jpg "Caring")</td>
-<td>(/images/wwd_celebrating.jpg "Celebrating") </td>
+<td>![Fund Raising](/images/wwd_fundraising.jpg "Fund Raising")</td>
+<td>![Caring](/images/wwd_caring.jpg "Caring")</td>
+<td>![Celebrating](/images/wwd_celebrating.jpg "Celebrating") </td>
 </tr>
-
 
 <tr>
 <td>The President’s Challenge brings people from all walks of life together to raise funds for the less fortunate.</td>
