@@ -20,9 +20,15 @@ It is the President's call to the nation to do their part to build a more caring
 </tr>
 
 <tr>
-<td>![Fund Raising](/images/wwd_fundraising.jpg "Fund Raising")</td>
-<td>![Caring](/images/wwd_caring.jpg "Caring")</td>
-<td>![Celebrating](/images/wwd_celebrating.jpg "Celebrating") </td>
+<td>
+  <img src="/images/wwd_fundraising.jpg" alt="Fund Raising"/>
+</td>
+<td>
+  <img src="/images/wwd_caring.jpg" alt="Caring"/>
+</td>  
+<td>
+  <img src="/images/wwd_celebrating.jpg" alt="Celebrating"/>
+</td>    
 </tr>
 
 <tr>
