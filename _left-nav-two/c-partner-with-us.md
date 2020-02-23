@@ -34,16 +34,16 @@ Every year, supporters of President’s Challenge, people from all walks of life
   </tr>
   <tr>
      <td>
-       <img src="../images/President-s-Star-Charity.jpg" alt="Partner Story 1" />
+       <img src="/images/President-s-Star-Charity.jpg" alt="Partner Story 1" />
      </td>
      <td>
-       <img src="../images/PCF-Eunos_2.jpg" alt="Partner Story 2" />
+       <img src="/images/PCF-Eunos_2.jpg" alt="Partner Story 2" />
      </td>
      <td>
-       <img src="../images/PA.jpg" alt="Partner Story 3" />
+       <img src="/images/PA.jpg" alt="Partner Story 3" />
      </td>
      <td>
-        <img src="../images/Partner-Story4.jpg" alt="Partner Story 4" />
+        <img src="/images/Partner-Story4.jpg" alt="Partner Story 4" />
      </td>
   </tr>
   <tr>
