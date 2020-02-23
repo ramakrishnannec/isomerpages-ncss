@@ -42,5 +42,4 @@ The Empowering For Life Fund supports vulnerable groups through skills upgrading
   </tr>
 </table>
 
-<!--[![YouTube Link](https://img.youtube.com/vi/aimBFH3b3gI/0.jpg)](https://www.youtube.com/watch?v=aimBFH3b3gI)-->
-[![YouTube Link](https://img.youtube.com/vi/w1hGcNaUIEM/0.jpg)](https://www.youtube.com/watch?v=w1hGcNaUIEM)
+<iframe width="700" height="419" src="https://www.youtube.com/embed/OmLc8SvR_dc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
