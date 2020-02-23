@@ -53,4 +53,4 @@ Empower someone's life for the better by donating to President's Challenge's Emp
 100% of the donations for the Empowering For Life Fund goes towards the organisations we support.
 
 
-
+![Donate Banner](/images/Family-1230-x-400.jpg "Donate Banner")
