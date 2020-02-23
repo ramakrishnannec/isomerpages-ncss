@@ -53,4 +53,6 @@ Empower someone's life for the better by donating to President's Challenge's Emp
 100% of the donations for the Empowering For Life Fund goes towards the organisations we support.
 
 
-![Donate Banner](/images/Family-1230-x-400.jpg "Donate Banner")
+[![Donate Banner](/images/Family-1230-x-400.jpg "Donate Banner")](https://www.giving.sg/president-s-challenge/empower)
+
+###### Photo and Video Credits: Centre for Seniors, ABLE, Autism Resource Centre, NTUC, Mediacorp and Daughters of Tomorrow
