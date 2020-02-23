@@ -51,4 +51,4 @@ ELF will focus on supporting customised, dedicated services to the most vulnerab
 
 Since 2000, President’s Challenge has raised more than $180 million for its benefitting organisations. Every dollar donated to President’s Challenge goes directly to the benefitting organisations, thanks to our Challenge sponsors Singapore Pools and Singapore Totalisator Board, which provide grants to cover the operating costs of President’s Challenge.
 
-##### Photo Credits: CapitaLand, Singapore Polytechnic, YMCA SIngapore, Singapore Centre for Social Enterprise (raiSE)
+###### Photo Credits: CapitaLand, Singapore Polytechnic, YMCA SIngapore, Singapore Centre for Social Enterprise (raiSE)
