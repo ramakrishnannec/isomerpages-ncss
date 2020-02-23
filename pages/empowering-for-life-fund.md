@@ -43,3 +43,14 @@ The Empowering For Life Fund supports vulnerable groups through skills upgrading
 </table>
 
 <iframe width="700" height="419" src="https://www.youtube.com/embed/OmLc8SvR_dc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime"
+
+Make a difference today and help the vulnerable bounce back from setbacks and stay adaptable.  
+
+Empower someone's life for the better by donating to President's Challenge's Empowering For Life Fund.  All donations to the Empowering For Life Fund have a dollar-to-dollar matching by the government, capped at $10 million.
+
+100% of the donations for the Empowering For Life Fund goes towards the organisations we support.
+
+
+
