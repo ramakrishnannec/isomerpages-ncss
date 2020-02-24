@@ -8,7 +8,7 @@ collection_name: left-nav-one
 
 ### EVENTS
 
-![Volunteer Banner](/images/Volunteer-banner_1.jpg "Volunteer Banner")
+![Event Top Banner](/images/event-top-banner.jpg "Event Top Banner")
 
 Come and make a difference! Check out what our partners are doing to support President's Challenge and the community.
 
@@ -41,5 +41,3 @@ Come and make a difference! Check out what our partners are doing to support Pre
 #### UPCOMING EVENTS
 
 |**Event Details**|**Date**|**Venue**|**Organiser**|
-|Istana Open House - Labour Day <br> The Istana Grounds is open to the public in celebration of major holidays in Singapore.  President's Challenge provides volunteering opportunities to those who are keen to help out at the open houses as ushers or to assist at the fundraising booths. <br> Contact: ncss_pc@ncss.gov.sg|1 May 2019|Istana|President's Office & PC Secretariat|
-|Istana Open House - Hari Raya Puasa <br> The Istana Grounds is open to the public in celebration of major holidays in Singapore.  President's Challenge provides volunteering opportunities to those who are keen to help out at the open houses as ushers or to assist at the fundraising booths. <br> Contact: ncss_pc@ncss.gov.sg|5 June 2019|Istana|President's Office & PC Secretariat|
