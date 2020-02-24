@@ -8,14 +8,17 @@ collection_name: left-nav-one
 
 #### Year 2000 - How We Started 
 
-The late S R Nathan initiated President’s Challenge in 2000 shortly after assuming the Presidency. The social service sector was always something very close to his heart and he decided to help raise funds for this sector and place a spotlight on those in need. When Mr Nathan stepped down from office after 12 years as President of Singapore, the movement he started had raised more than $100 million and benefitted more than 500 programmes in social service organisations that reach out to needy children, families, seniors, disabled and other social service endeavours.
+| ![SR Nathan](/images/Milestones-Nathan.jpg "President Nathan") |
+The late S R Nathan initiated President’s Challenge in 2000 shortly after assuming the Presidency. The social service sector was always something very close to his heart and he decided to help raise funds for this sector and place a spotlight on those in need. When Mr Nathan stepped down from office after 12 years as President of Singapore, the movement he started had raised more than $100 million and benefitted more than 500 programmes in social service organisations that reach out to needy children, families, seniors, disabled and other social service endeavours. |
 
 
 #### Year 2012 - Moving Beyond  
 
 President Tony Tan Keng Yam continued President’s Challenge in 2012. He announced his plans to expand the scope of President’s Challenge beyond fundraising. Two initiatives were shared – the President’s Challenge Volunteer Drive and the President’s Challenge Social Enterprise Award. These new initiatives encourage people from all walks of life to not only give money but to also give their time and talent, using their business skills to help the less fortunate.
 
-#### Year 2015 - 15th anniversary
+#### Year 2015 - 15th Anniversary
+
+![15th Anniversary](/images/15Anniversary.jpg "15th Anniversary")
 
 President’s Challenge celebrated its 15th anniversary on March 2015 at the President’s Challenge 15th Anniversary Commemorative Dinner held at the Istana. During the event, President Tony Tan recognised 32 organisations and individuals who made special contributions to the causes supported by President’s Challenge through the years. Dr Tan also highlighted the importance of establishing a strong community in nation-building. President’s Challenge would now seek to play a bigger role in nurturing stronger communities by expanding support for programmes beyond the social service sector and to encourage all ages to get involved in community work.
 
