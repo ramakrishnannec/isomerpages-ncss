@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Sub Page B
+title: Milestones
 permalink: /left-nav-one/Milestones/
 breadcrumb: Milestones
 collection_name: left-nav-one
