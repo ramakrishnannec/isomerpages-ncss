@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Milestones
-permalink: /left-nav-one/Milestones/
+permalink: /left-nav-one/milestones/
 breadcrumb: Milestones
 collection_name: left-nav-one
 ---
