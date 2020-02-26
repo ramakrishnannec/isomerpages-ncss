@@ -16,8 +16,9 @@ The late S R Nathan initiated President’s Challenge in 2000 shortly after assu
 
 
 #### Year 2012 - Moving Beyond  
+![15th Anniversary](/images/15Anniversary.jpg "15th Anniversary")
 
-Ram President Tony Tan Keng Yam continued President’s Challenge in 2012. He announced his plans to expand the scope of President’s Challenge beyond fundraising. Two initiatives were shared – the President’s Challenge Volunteer Drive and the President’s Challenge Social Enterprise Award. These new initiatives encourage people from all walks of life to not only give money but to also give their time and talent, using their business skills to help the less fortunate.
+President Tony Tan Keng Yam continued President’s Challenge in 2012. He announced his plans to expand the scope of President’s Challenge beyond fundraising. Two initiatives were shared – the President’s Challenge Volunteer Drive and the President’s Challenge Social Enterprise Award. These new initiatives encourage people from all walks of life to not only give money but to also give their time and talent, using their business skills to help the less fortunate.
 
 #### Year 2015 - 15th Anniversary
 
