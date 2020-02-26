@@ -12,6 +12,11 @@ President's Challenge is a movement supported by the kindness and generosity of 
 
 It is the President's call to the nation to do their part to build a more caring and inclusive society.
 
+
+![SR Nathan](/images/Milestones-Nathan.jpg "SR Nathan"){:height="36px" width="36px"}
+President's Challenge is a movement supported by the kindness and generosity of people from all walks of life, regardless of culture, religion or family background, to help those less fortunate.
+
+
 <table>
 <tr>
 <td align="center"><strong>FUNDRAISING</strong></td>
