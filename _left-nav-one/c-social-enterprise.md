@@ -19,17 +19,7 @@ We hope these awards spark more individuals, particularly our youths, to develop
 
 
 
-|[![Samsui Supplies &amp; Services Pte Ltd](/images/SE-of-the-Year_Samsui.jpg "Samsui Supplies &amp; Services Pte Ltd")](#tagOne)
-|[![Bantu Pte Ltd](/images/SE-Startup-of-the-Year_Bantu.jpg "Bantu Pte Ltd")](#tagTwo)
-|[![PA Community Service Project](/images/SE-Champion-of-the-Year-(Corporate)_DBS.jpg "DBS/DBS Foundation")](#tagThree)
-|[![Don Wong](/images/SE-Champion-of-the-Year-(Individual)_Mr-Don-Wong.jpg "Don Wong")](#tagFour)
-|
-| **Social Enterprise of the Year: ** Samsui Supplies &amp; Services, Initiated by the Soup...
-| **Social Enterprise Start-Up of the Year: **  Bantu was recognised for building a proprietary....
-| **Social Enterprise Champion of the Year (Corporate): ** DBS Foundation, since its inception...
-| **Social Enterprise Champion of the Year (Individual):** Don Wong is the founder of non...
-|
- 
+|[![Samsui Supplies &amp; Services Pte Ltd](/images/SE-of-the-Year_Samsui.jpg "Samsui Supplies &amp; Services Pte Ltd")](#tagOne)|[![Bantu Pte Ltd](/images/SE-Startup-of-the-Year_Bantu.jpg "Bantu Pte Ltd")](#tagTwo)|[![PA Community Service Project](/images/SE-Champion-of-the-Year-(Corporate)_DBS.jpg "DBS/DBS Foundation")](#tagThree)|[![Don Wong](/images/SE-Champion-of-the-Year-(Individual)_Mr-Don-Wong.jpg "Don Wong")](#tagFour)|| **Social Enterprise of the Year: ** Samsui Supplies &amp; Services, Initiated by the Soup...| **Social Enterprise Start-Up of the Year: **  Bantu was recognised for building a proprietary....| **Social Enterprise Champion of the Year (Corporate): ** DBS Foundation, since its inception...| **Social Enterprise Champion of the Year (Individual):** Don Wong is the founder of non...|
 
  
 
