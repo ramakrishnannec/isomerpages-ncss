@@ -27,13 +27,12 @@ Every year, our community outreach and fundraising campaign selects a large numb
 |[![YMCA](/images/WWD_1_YMCA.jpg "YMCA")](#tagOne)|[![Deaf Sports Association ](/images/WWD_2_Alex_Chiew_Badminton.jpg "Deaf Sports Association ")](#tagTwo)|[![Daughters](/images/WWD_3_Daughter.jpg "Daughters")](#tagThree)|[![Food from the Heart](/images/WWD_4_FoodFromHeart.jpg "Food from the Heart")](#tagFour)|
 |-------------|--|-------------|-------------|
 |YMCA of Singapore equips out-of-school youths and youths-at-risk with skills for future employment|Deaf Sports Association (Singapore) develops the deaf community’s passion in sports|Daughters of Tomorrow supports underprivileged women to be financially-independent|Food from the Heart alleviates hunger through its food distribution programmes|
-|
-
+ 
 
 |[![YMCA](/images/WWD_1_YMCA.jpg "YMCA")](#tagOne)|[![Deaf Sports Association ](/images/WWD_2_Alex_Chiew_Badminton.jpg "Deaf Sports Association ")](#tagTwo)|[![Daughters](/images/WWD_3_Daughter.jpg "Daughters")](#tagThree)|[![Food from the Heart](/images/WWD_4_FoodFromHeart.jpg "Food from the Heart")](#tagFour)|
 |-------------|--|-------------|-------------|
 |Breakthrough Missions provides rehabilitation and skills upgrading for ex-offenders to re-integrate into...|Club HEAL runs rehabilitation programmes for people with mental health conditions and empowers them|Methodist Welfare Services' Bethany Nursing Home provides crucial eldercare services|NTUC-U Care Fund provides customised skills to lift-up low-income families|
-|
+ 
 
 
 
