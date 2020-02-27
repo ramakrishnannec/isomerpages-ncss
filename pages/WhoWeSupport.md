@@ -54,9 +54,8 @@ Sarinah is a Singaporean mom trying to raise 2 daughters, one of whom has leukem
 With DOT’s support, she got encouragement from a Befriender, and practical support navigating her way to job interviews. DOT eventually discovered her passion in cooking and bridged Sarinah to a kitchen assistant job with an empathetic employer. Since December 2018, she has found new confidence in her job and is now a happy contributor to our F&B industry and a local food establishment the Coconut Club.|
 
 
-|[![Food from the Heart](/images/WWD_4_FoodFromHeart.jpg "Food from the Heart")]|## Food from the Heart alleviates hunger through its food distribution programmes
-
-> Single mother Siti Aidah Abdullah, 48, bears the responsibility of supporting her five teenage children alone alongside battling against stage 4 leukemia. She is constantly worried about her next meal and depends heavily on food donations. The family often goes to bed hungry.
+|[![Food from the Heart](/images/WWD_4_FoodFromHeart.jpg "Food from the Heart")]|## Food from the Heart alleviates hunger through its food distribution programmes|
+|> Single mother Siti Aidah Abdullah, 48, bears the responsibility of supporting her five teenage children alone alongside battling against stage 4 leukemia. She is constantly worried about her next meal and depends heavily on food donations. The family often goes to bed hungry.
 
 Food from the Heart supports Siti with consistent food rations comprising fresh fruit, eggs and bread, as well as non-perishable food items like rice, canned food and cooking oil through its Community Food Pack programme. Siti also received items from the charity’s launch of its Pop-Up Fresh Produce Market on 20 March 2019. She chose to use the items economically and acknowledged the quality of the food, “We didn’t have many other ingredients at home, so we steamed the fish for dinner that night. It was fresh and tasted good with just soy sauce.”|
 
