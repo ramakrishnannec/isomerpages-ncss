@@ -6,13 +6,9 @@ breadcrumb: Milestones
 collection_name: left-nav-one
 ---
 
-#### Year 2000 - How We Started 
 
-<table><tr><td>
- <img src="/images/Milestones-Nathan.jpg" width="80px"> 
- </td>
- <td>
-The late S R Nathan initiated President’s Challenge in 2000 shortly after assuming the Presidency. The social service sector was always something very close to his heart and he decided to help raise funds for this sector and place a spotlight on those in need. When Mr Nathan stepped down from office after 12 years as President of Singapore, the movement he started had raised more than $100 million and benefitted more than 500 programmes in social service organisations that reach out to needy children, families, seniors, disabled and other social service endeavours. </td></tr></table>
+|How We Started (Year:2000)|
+|[![SR Nathan](/images/Milestones-Nathan.jpg){:width="50%"}]|The late S R Nathan initiated President’s Challenge in 2000 shortly after assuming the Presidency. The social service sector was always something very close to his heart and he decided to help raise funds for this sector and place a spotlight on those in need. When Mr Nathan stepped down from office after 12 years as President of Singapore, the movement he started had raised more than $100 million and benefitted more than 500 programmes in social service organisations that reach out to needy children, families, seniors, disabled and other social service endeavours.|
 
 
 #### Year 2012 - Moving Beyond  
