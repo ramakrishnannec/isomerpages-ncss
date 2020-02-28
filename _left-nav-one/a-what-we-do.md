@@ -13,32 +13,12 @@ President's Challenge is a movement supported by the kindness and generosity of 
 It is the President's call to the nation to do their part to build a more caring and inclusive society.
 
 
-<table>
-<tr>
-<td align="center"><strong>FUNDRAISING</strong></td>
-<td align="center"><strong>CARING</strong></td>
-<td align="center"><strong>CELEBRATING</strong></td>
-</tr>
+|FUNDRAISING|CARING|CELEBRATING|
+|-----|-----|-----|
+|![Fund Raising](/images/wwd_fundraising.jpg){: style="width:80px;"}(#1-fund-raising)|![Caring](/images/wwd_caring.jpg)(#2-caring)|![Celebrating](/images/wwd_celebrating.jpg)(#3-celebrating)|
+|-----|-----|-----|
+|The President’s Challenge brings people from all walks of life together to raise funds for the less fortunate.|The President’s Challenge Volunteer Drive encourages everyone to give their time and talent to help ...|The President’s Challenge Social Enterprise Award celebrates the achievements of innovative business ... |
 
-<tr>
-<td> 
-  <img src="/images/wwd_fundraising.jpg" alt="Fund Raising"/>
-</td>
-<td>
-  <img src="/images/wwd_caring.jpg" alt="Caring"/>
-</td>  
-<td>
-  <img src="/images/wwd_celebrating.jpg" alt="Celebrating"/>
-</td>    
-</tr>
-
-<tr>
-<td>The President’s Challenge brings people from all walks of life together to raise funds for the less fortunate.</td>
-<td>The President’s Challenge Volunteer Drive encourages everyone to give their time and talent to help ...</td>
-<td>The President’s Challenge Social Enterprise Award celebrates the achievements of innovative business ... </td>
-</tr>
-
-</table>
 
 <iframe width="700" height="419" src="https://www.youtube.com/embed/nY-GEQh3_l4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -56,7 +36,7 @@ Since 2000, President’s Challenge has raised more than $180 million for its be
 
 
 
-### 1 Fundraising
+### 1 Fund Raising
 President’s Challenge brings people from all walks of life together to raise funds for the less fortunate. By raising funds, you will be encouraging more people to give back to the community.  
 
 Want to fundraise but not sure what do to? Click [here] (https://www.pc.org.sg/partnerwithus.aspx)  for some ideas or [contact us] (https://www.pc.org.sg/contactus.aspx) for more ideas.
