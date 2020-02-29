@@ -7,6 +7,10 @@ collection_name: left-nav-one
 ---
 
 
+
+
+
+
 Stage | Direct Products | ATP Yields
 ----: | --------------: | ---------:
 Glycolysis | 2 ATP ||
