@@ -46,6 +46,8 @@ The Empowering For Life Fund supports vulnerable groups through skills upgrading
 
 #### "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime"
 
+[![Donate Banner](/images/Family-1230-x-400.jpg "Donate Banner")](https://www.giving.sg/president-s-challenge/empower)
+
 Make a difference today and help the vulnerable bounce back from setbacks and stay adaptable.  
 
 Empower someone's life for the better by donating to President's Challenge's Empowering For Life Fund.  All donations to the Empowering For Life Fund have a dollar-to-dollar matching by the government, capped at $10 million.
@@ -53,6 +55,16 @@ Empower someone's life for the better by donating to President's Challenge's Emp
 100% of the donations for the Empowering For Life Fund goes towards the organisations we support.
 
 
-[![Donate Banner](/images/Family-1230-x-400.jpg "Donate Banner")](https://www.giving.sg/president-s-challenge/empower)
 
-###### Photo and Video Credits: Centre for Seniors, ABLE, Autism Resource Centre, NTUC, Mediacorp and Daughters of Tomorrow
+### Donate via Cheque×
+For cheque donations, please issue to "President's Challenge ELF" and mail to:
+
+President's Challenge Secretariat
+National Council of Social Service (NCSS)
+170 Ghim Moh Road #01-02
+Singapore 279621
+ 
+* Please provide us with your name, NRIC and contact number if you wish to receive a tax deduction for your donation.
+
+
+###### Photo and Video Credits: *Centre for Seniors, ABLE, Autism Resource Centre, NTUC, Mediacorp and Daughters of Tomorrow*
