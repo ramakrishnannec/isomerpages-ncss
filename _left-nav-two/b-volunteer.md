@@ -29,7 +29,7 @@ President’s Challenge Volunteer Drive encourages everyone to be more involved 
 
 <table>
  <tr>
-  <td><img src="/images/Allison2.jpg" alt="Volunteer Story 1" height="300px"></td>
+  <td><img src="/images/Allison2.jpg" alt="Volunteer Story 1" width="400"></td>
   <td> From IT skills to food handling practices, 36 corporate volunteers committed over 184 hours in pro bon service to help eight President's Challenge beneficiaries in the 'Done In A Day 2016' programme curated by Empact in support of the President's Challenge Volunteer Drive. <br><br>Public relations agency Allison+Partners, shared their skills and knowledge in media relations to help Trybe, a youth organisation who wanted to reach out to more people and have its work featured in online and print publications.  In another event, ABR Holdings which runs Swensen's shared food handling practices to the South Central Community Family Service Centre which runs a community kitchen.
   </td>
  </tr>
