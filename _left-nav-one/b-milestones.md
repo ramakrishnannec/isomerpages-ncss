@@ -38,5 +38,5 @@ At the President's Challenge 2018 Launch, President Halimah Yacob announced the 
 
 ELF will focus on supporting customised, dedicated services to the most vulnerable groups and facilitate their integration into society. The programmes that it funds will handhold the most disadvantaged people on their journeys to improve their circumstances. The aim is to help them bounce back quickly from setbacks and stay adaptable.|
 
-:camera_flash:
+
 ###### Photo Credits: *MCI*
