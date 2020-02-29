@@ -27,22 +27,25 @@ The President's Challenge is a movement supported by the kindness and generosity
 
 ### Star Charity
 
-<table><tr><td colspan="2"></td>
-  <tr><td> <img src="/images/Partner_President_StarCharity.jpg" width="300px"> President’s Star Charity 2018</td><td> President’s Star Charity by Mediacorp brings together star-power to raise funds for President’s Challenge. In 2018, Singapore's landmark charity event was helmed by President Halimah Yacob and she was joined by Eason Chan and local artiste Zoe Tay in the President’s Star Charity 2018.</td></tr></table>
+<table> 
+  <tr><td> <img src="/images/Partner_President_StarCharity.jpg" width="300px"> </td><td> 
+    President’s Star Charity 2018<br>
+   President’s Star Charity by Mediacorp brings together star-power to raise funds for President’s Challenge. In 2018, Singapore's landmark charity event was helmed by President Halimah Yacob and she was joined by Eason Chan and local artiste Zoe Tay in the President’s Star Charity 2018.</td></tr></table>
 
 ### Start Small Dream Big
 
-<table><tr><td colspan="2"> “Start Small Dream Big” project 2018</td>
-  <tr><td> <img src="/images/Partner_PCF.jpg" width="300px"> </td><td>The “Start Small Dream Big” project initiated by the Early Childhood Development Agency (ECDA) is an annual series of fundraising and volunteer activities. It was launched in 2015 as part of SG50 and the 15th anniversary of President's Challenge. Participating centres design and implement community service projects for children over a period of six months. Over the years, the pre-schoolers have spent more than one milliion hours on community projects in total. These projects include food donation drives or fundraising for charity organisations and elderly homes to befriending those with disabilities and special needs.</td></tr></table>
+<table> 
+  <tr><td> <img src="/images/Partner_PCF.jpg" width="300px"> </td><td> “Start Small Dream Big” project 2018 <br>The “Start Small Dream Big” project initiated by the Early Childhood Development Agency (ECDA) is an annual series of fundraising and volunteer activities. It was launched in 2015 as part of SG50 and the 15th anniversary of President's Challenge. Participating centres design and implement community service projects for children over a period of six months. Over the years, the pre-schoolers have spent more than one milliion hours on community projects in total. These projects include food donation drives or fundraising for charity organisations and elderly homes to befriending those with disabilities and special needs.</td></tr></table>
 
 ### National Junior College
 
-<table><tr><td colspan="2">National Junior College's volunteers making Teachers' Day cards </td>
+<table> 
   <tr><td> <img src="/images/Partner_NJC_Teachers.jpg" width="300px"> </td><td> 
+   National Junior College's volunteers making Teachers' Day cards <br>
 Volunteers from National Junior College expressed their gratitude towards their teachers by making Teacher’s Day cards with the children supported by Kampung Senang Charity and Education Foundation.</td></tr></table>
 
 ### Charity Iftar
 
-<table><tr><td colspan="2">Charity Iftar</td>
+<table> 
   <tr><td> <img src="/images/Partner_PA.jpg" width="300px"> </td><td> 
-Charity Iftar – Berita Harian organised the Ramadan charity iftar (breaking of the fast) for 150 service users from various races and religions and raised funds for President’s Challenge.</td></tr></table>
+Charity Iftar <br> Berita Harian organised the Ramadan charity iftar (breaking of the fast) for 150 service users from various races and religions and raised funds for President’s Challenge.</td></tr></table>
