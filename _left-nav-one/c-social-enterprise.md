@@ -51,3 +51,5 @@ Social Enterprise Champion of the Year (Individual): Don Wong is the founder of 
 Through his help and mentorship, many individuals have been inspired and gone on to set up their own social enterprises.
 
 Besides the awards above, see the list of finalists for 2019 [HERE](http://www.raise.sg/president-s-challenge-social-enterprise-award.html){:target="_blank"}.
+
+###### Photo Credits: *raiSE Singapore*
