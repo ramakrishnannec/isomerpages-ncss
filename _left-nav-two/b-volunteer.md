@@ -152,5 +152,5 @@ When IBM reached out to their staff to encourage them to volunteer for President
  </tr>
 </table> 
 
-##### Photo Credits: 
-> People’s Association, Kwong Wai Shiu Hospital, Tsao Foundation, Filos Community Services Ltd, TOUCH Community Services, St Hilda's Community Services, Empact
+###### Photo Credits: *People’s Association, Kwong Wai Shiu Hospital, Tsao Foundation, Filos Community Services Ltd, TOUCH Community Services, St Hilda's Community Services, Empact*
+ 
