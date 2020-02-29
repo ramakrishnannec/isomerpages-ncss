@@ -38,12 +38,8 @@
     url: /take-action/volunteer/
   - title: Partner With Us
     url: /take-action/partner-with-us/
-- title: Funds
-  sub-links:
-  - title: Empowering for Life Fund
-    url: /funds/empowering-for-life-fund/
-  - title: Volunteer
-    url: /funds/silver-volunteer-fund  /
+- title: Empowering for Life Fund
+  url: /funds/empowering-for-life-fund/
 - title: Employment Pledge
   sub-links:
   - title: Take the Inclusive Employment Pledge
@@ -60,5 +56,4 @@
     url: /quick-links/governance/
   - title: Media
     url: /resource-room/
-  - title: sitemap
-    url: /quick-links/sitemap/
+ 
