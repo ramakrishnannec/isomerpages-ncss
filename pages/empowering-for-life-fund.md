@@ -11,7 +11,7 @@ breadcrumb: Empowering for Life Fund
 
 The Empowering For Life Fund supports vulnerable groups through skills upgrading, capacity-building and employment. The fund will focus on supporting customised, dedicated services to the most vulnerable groups and facilitate their integration into society and handhold them on their journeys to improve their circumstances.
 
-| [![Centre for Seniors](/images/EFL_seniors.jpg)](#centre-for-seniors) | [![Metta Welfare Association](/images/EFL_HengShen.jpg)](#metta-welfare-association) | [![Providing an ideal environment](/images/EFL_Jeremy.jpg)](#providing-an-ideal-environment) | [![Supporting the physically challenged](/images/EFL_Square.jpg)](#supporting-the-physically-challenged) |
+| [![Leveraging on the strengths](/images/EFL_seniors.jpg)](#leveraging-on-the-strengths) | [![Metta Welfare Association](/images/EFL_HengShen.jpg)](#metta-welfare-association) | [![Providing an ideal environment](/images/EFL_Jeremy.jpg)](#providing-an-ideal-environment) | [![Supporting the physically challenged](/images/EFL_Square.jpg)](#supporting-the-physically-challenged) |
 |-----------------------|-----------------------|-----------------------|-----------------------|
 | Leveraging on the strengths of seniors and adults with special needs to achieve meaningful employment. | Metta Welfare Association supports youths with special needs to achieve their dreams with life skills that... | Providing an ideal environment for people with autism to learn new skills for employment | Supporting the physically challenged with the aim of community reintegration and gainful employment |
  
