@@ -59,7 +59,7 @@ Contact: Ms Soon at soongk@kwsh.org.sg or visit [www.kwsh.org.sg](www.kwsh.org.s
  <tr><td>Date</td>  <td>  On-going programme after the training course </td></tr>
  <tr><td>Venue</td>  <td> Tsao Foundation, 298 Tiong Bahru Road #15-01, Central Plaza </td></tr>
  <tr><td>Organiser</td>  <td> Hua Mei Centre for Successful Ageing, Tsao Foundation </td></tr>
- <tr><td><img src="/images/Volunteer_Tsao_Foundation.jpg" alt="Para-Counselling Programme"  width="200px"> </td>  
+ <tr><td  width="30%"><img src="/images/Volunteer_Tsao_Foundation.jpg" alt="Para-Counselling Programme"  width="200px"> </td>  
   <td>  Para-Counselling Programme
   
 Seeking volunteers 40 years and above to bring joy to the lives of lonely and frail seniors. Volunteers undergo an interview session, and a three-day training course, after which, they are assigned to the community with the guidance of trained counsellors. Volunteers should also be able to attend monthly learning sessions conducted by these counsellors.
@@ -122,7 +122,7 @@ Contact: Mr Dexter Wong at 6345 0054, dexter@sthildascsc.org.sg or visit [www.st
 
 <table width="100%">
 <tr>
-<td width="40%"><img src="/images/Citi-Sg2.jpg" alt="Volunteer Story 2" width="300px"></td>
+<td width="30%"><img src="/images/Citi-Sg2.jpg" alt="Volunteer Story 2" width="300px"></td>
   <td align="justify">Meet Rajesh Ramanan, one of the volunteers who brought the residents of Society for the Aged Sick for a 'makan' session to celebrate Father's Day. Rajesh has worked with Citi Singapore for 17 years and he calls Singapore his new home. The event made him realize that we all need to carve out time from our busy schedules to spend time with family and community elders.<br><br>Let us leave you with some wise words from Rajesh: “A small effort brings so much of joy. Citi volunteering is a great opportunity to interact with the local community. It is now our turn, we must not forget to return. We need to show them you care. All you need is some time to spare.”
   </td>
  </tr>
@@ -134,7 +134,7 @@ Contact: Mr Dexter Wong at 6345 0054, dexter@sthildascsc.org.sg or visit [www.st
 
 <table width="100%">
 <tr>
-<td width="40%"><img src="/images/Singtel2.jpg" alt="Volunteer Story 3" width="300px"></td>
+<td width="30%"><img src="/images/Singtel2.jpg" alt="Volunteer Story 3" width="300px"></td>
   <td align="justify">
 “The Balloon Man”, as his colleagues fondly call him, has become a familiar sight at the Istana Open House. Mr Teo Ek Thong has been wowing local crowds since he picked up the art of balloon sculpting nine years ago. From realistic Yoshi balloons to smiling Doraemon characters, the delighted expressions on on children’s faces when they receive the product of his painstaking labour constantly encourages him to be the best at what he does.<br><br>Come down to the Istana Open House and pop by the balloon sculpture booth to view the beautiful balloon designs created by Mr Teo and the volunteers of the Singtel Recreation Club.  The Singtel Recreation Club is one of our volunteer partners who work very hard at the open house to raise funds for President's Challenge.  Reach out to us if you are keen to adopt a fundraising booth at the open house.
      </td>
@@ -145,7 +145,7 @@ Contact: Mr Dexter Wong at 6345 0054, dexter@sthildascsc.org.sg or visit [www.st
  
 <table width="100%">
 <tr>
-<td width="40%"><img src="/images/Joanne_1.jpg" alt="Volunteer Story 4" width="300px"></td>
+<td width="30%"><img src="/images/Joanne_1.jpg" alt="Volunteer Story 4" width="300px"></td>
   <td align="justify">
 When IBM reached out to their staff to encourage them to volunteer for President's Challenge at the Istana open house in 2016, Joanne decided to bring her son along.  Since then, they have been regular volunteers at the drinks stall.<br><br>"Volunteering at the Istana open house has benefitted not just myself, but also my son who has gained confidence in interacting with others." says Joanne.
      </td>
