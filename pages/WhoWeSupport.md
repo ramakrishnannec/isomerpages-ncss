@@ -11,73 +11,65 @@ breadcrumb: Donate
 
 Every year, our community outreach and fundraising campaign selects a large number of benefitting organisations to support and raise funds for so that they can focus on their mission and cause.  President's Challenge's support covers various sectors from children & family services, healthcare & eldercare, disability services and rehabilitation of ex-offenders.
 
-<!--
-|**Help the children**|**Rising Medical Costs**|**Help the disabled**|
-![Donate Story 1](/images/Donate-Story1.jpg "Donate Story 1")|![Donate Story 2](/images/person-seeing-doctor.jpg "Donate Story 2")|![Donate Story 3](/images/Donate-Story3.jpg "Donate Story 3")|  
-| **$10** goes a long way in covering books and school fees for disadvantaged children and helps them stay in school.|**$50** helps subsidise the medical costs for the less fortunate such as their doctor visits and medication.| **$100** covers skills training costs so that those with intellectual disabilities can lead independent lives|
-
-
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/70OmQh3ENLU/0.jpg)](https://www.youtube.com/watch?v=70OmQh3ENLU)
--->
-
+ 
 #### MAKE A DIFFERENCE TODAY
 
 [![Donate Now](/images/beneficiary1.jpg "Donate Now")](https://www.giving.sg/president-s-challenge)
 
 
-|[![YMCA](/images/WWD_1_YMCA.jpg "YMCA")](#tagOne)|[![Deaf Sports Association](/images/WWD_2_Alex_Chiew_Badminton.jpeg "Deaf Sports Association")](#tagTwo)|[![Daughters](/images/WWD_3_Daughter.png "Daughters")](#tagThree)|[![Food from the Heart](/images/WWD_4_FoodFromHeart.jpg "Food from the Heart")](#tagFour)|
+|[![YMCA](/images/WWD_1_YMCA.jpg "YMCA")](#ymca-of-singapore)|[![Deaf Sports Association](/images/WWD_2_Alex_Chiew_Badminton.jpeg "Deaf Sports Association")](#deaf-sports-association)|[![Daughters](/images/WWD_3_Daughter.png "Daughters")](#daughters-of-tomorrow)|[![Food from the Heart](/images/WWD_4_FoodFromHeart.jpg "Food from the Heart")](#food-from-the-heart)|
 |-------------|--|-------------|-------------|
 |YMCA of Singapore equips out-of-school youths and youths-at-risk with skills for future employment|Deaf Sports Association (Singapore) develops the deaf community’s passion in sports|Daughters of Tomorrow supports underprivileged women to be financially-independent|Food from the Heart alleviates hunger through its food distribution programmes|
  
 
-|[![Breakthrough_Missions](/images/WWD_5_Breakthrough_Missions.jpg "Breakthrough_Missions")](#tagFive)|[![ClubHeal](/images/WWD_6_ClubHeal.jpg "ClubHeal")](#tagSix)|[![MdmYee](/images/WWD_7_BNH_MdmYee.jpg "MdmYee")](#tagSeven)|[![NTUC](/images/WWD_8_NTUC.jpg "NTUC")](#tagEight)|
+|[![Breakthrough_Missions](/images/WWD_5_Breakthrough_Missions.jpg "Breakthrough_Missions")](#breakthrough-missions)|[![ClubHeal](/images/WWD_6_ClubHeal.jpg "ClubHeal")](#club-heal)|[![MdmYee](/images/WWD_7_BNH_MdmYee.jpg "MdmYee")](#methodist-Welfare-Service)|[![NTUC](/images/WWD_8_NTUC.jpg "NTUC")](#ntuc-union-care)|
 |-------------|--|-------------|-------------|
 |Breakthrough Missions provides rehabilitation and skills upgrading for ex-offenders to re-integrate into...|Club HEAL runs rehabilitation programmes for people with mental health conditions and empowers them|Methodist Welfare Services' Bethany Nursing Home provides crucial eldercare services|NTUC-U Care Fund provides customised skills to lift-up low-income families|
  
 
-### YMCA of Singapore equips out-of-school youths and youths-at-risk with skills for future employment 
+### YMCA of Singapore 
+##### YMCA of Singapore equips out-of-school youths and youths-at-risk with skills for future employment 
 Once without purpose, 17-year-old Aleeya now executes multiple responsibilities at One Loaf Coffee. Having lost interest in school, she was referred to the YMCA Project Bridge Vocational and Soft Skills Programme (VaSSP), where she learned latte art and operations-related skills in the Café Experience course. With her newfound confidence, she looks forward to running her own business one day.
 
 
- 
-### Deaf Sports Association (Singapore) provides the deaf community opportunities to develop their passion in sports
+### Deaf Sports Association
+##### Deaf Sports Association (Singapore) provides the deaf community opportunities to develop their passion in sports
 27-year-old Alex Chiew is one of the deaf athletes in the Training & Development Programme under Deaf Sports Association (Singapore). He started playing badminton with his family since young and has developed passion for the sport ever since. He continued to play badminton competitively in local competitions, such as DSA’s annual National Deaf Games, where he participated three times and gained immense experiences. With years of training and determination, Alex performed well and received a chance to participate in Asia Pacific and World Deaf Badminton Championships in 2018 and 2019 respectively, which he felt honoured to be representing Singapore for the international games.
 
 
-
-### Daughters of Tomorrow supports underprivileged women to be financially independent
+### Daughters of Tomorrow
+##### Daughters of Tomorrow supports underprivileged women to be financially independent
 Sarinah is a Singaporean mom trying to raise 2 daughters, one of whom has leukemia on her husband’s limited income. She had much difficulty finding a job after being a homemaker for 11 years, and had little confidence as her literacy in English is low, and she also needed time during the day to care for her sick child. 
 
 With DOT’s support, she got encouragement from a Befriender, and practical support navigating her way to job interviews. DOT eventually discovered her passion in cooking and bridged Sarinah to a kitchen assistant job with an empathetic employer. Since December 2018, she has found new confidence in her job and is now a happy contributor to our F&B industry and a local food establishment the Coconut Club. 
 
 
-
-### Food from the Heart alleviates hunger through its food distribution programmes
+### Food from the Heart
+##### Food from the Heart alleviates hunger through its food distribution programmes
 Single mother Siti Aidah Abdullah, 48, bears the responsibility of supporting her five teenage children alone alongside battling against stage 4 leukemia. She is constantly worried about her next meal and depends heavily on food donations. The family often goes to bed hungry.
 
 Food from the Heart supports Siti with consistent food rations comprising fresh fruit, eggs and bread, as well as non-perishable food items like rice, canned food and cooking oil through its Community Food Pack programme. Siti also received items from the charity’s launch of its Pop-Up Fresh Produce Market on 20 March 2019. She chose to use the items economically and acknowledged the quality of the food, “We didn’t have many other ingredients at home, so we steamed the fish for dinner that night. It was fresh and tasted good with just soy sauce.”
 
 
-
-### Breakthrough Missions provides rehabilitation and skills upgrading for ex-offenders to re-integrate into the community
+### Breakthrough Missions
+##### Breakthrough Missions provides rehabilitation and skills upgrading for ex-offenders to re-integrate into the community
 Pee Kong Eng, 58 years old, is one of the ex-drug offenders who has joined the rehabilitation program of Breakthrough Missions. He had lived a life of crime since young and was imprisoned 5 times. He was almost sentenced to death under the Singapore drug law; instead he was sentenced to 23 years of jail. After release from prison in 2007, he has stayed in Breakthrough Missions where he is strengthened holistically and equipped with the necessary skills for re-integrating into the community. At Breakthrough Café, he now humbly washes dishes and waiting tables.
  
 Kong Eng is one of the many ex-offenders who have benefitted greatly from the programme and we hope to reach out to even more ex-offenders like him.  With the brand new washers and refrigerators, our residents can wash their clothes without worry of frequent breakdowns of the machines. Our kitchen staff can also stock up fresh produce without fear of spoiled food.  
 
 
-
-### Club HEAL runs rehabilitation programmes for people with mental health conditions and empowers them as mentors to give back to society.
+###  Club HEAL
+##### Club HEAL runs rehabilitation programmes for people with mental health conditions and empowers them as mentors to give back to society.
 Diagnosed with depression, 66 year old Carlina Hutabarat A discovered a second home at Club HEAL where she joined the rehabilitation programme and found the activities meaningful and uplifting.  Now, she is a peer volunteer in Club HEAL, guiding other peers in handicraft work and pottery.  She has graduated from "Our HEALing Voice", a programme in which she learned to view people with mental health issues as having the potential to improve their lives.  She also learned how to guide peers to take steps towards recovery and give them support.  Carlina is trully empowered.
 
 
-
-### Methodist Welfare Service's Bethany Nursing Home provides crucial eldercare services  
+### Methodist Welfare Service
+##### Methodist Welfare Service's Bethany Nursing Home provides crucial eldercare services  
 Madam Yee Choon How, 79, came under the care of MWS Bethany Nursing Home - Choa Chu Kang in 2016. Bedridden and mentally impaired by a nasty fall, she has since made remarkable recovery, thanks to her husband's unconditional love, the nurses' care and the rehabilitative therapy she received.  TO do even more and better for our residents, the Home embarked on a new care re-modelling initiative in late 2018. Besides transforming the space to provide more privacy and give residents greater autonomy, dementia-friendly care facilities will be built to cater for the growing number of residents with dementia.
 
 
-
-### NTUC-U Care Fund provides customised skills to lift-up low-income families
+### NTUC Union Care
+##### NTUC-U Care Fund provides customised skills to lift-up low-income families
 
 Mdm Joanna Yap has been working as a part-time assistant teacher since her divorce. For the sake of her two daughters one of which has special needs, she traded-in her high-flying career to spend more time with them. As a union member and U Care beneficiary, she and her 2 children had the opportunity to participate in the *NTUC-U Care Fund’s* LIFT-UP programmes. The family had attended a hands-on workshop which made their learning exciting and presented an enjoyable family bonding time. She acknowledged that the exposure to these activities empowered them and looked forward to more opportunities that will help upskill them as a family to enable them do better in life.
 
