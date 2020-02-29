@@ -24,10 +24,19 @@ President’s Challenge Volunteer Drive encourages everyone to be more involved 
 |Istana Open House - Labour Day <br> The Istana Grounds is open to the public in celebration of major holidays in Singapore.  President's Challenge provides volunteering opportunities to those who are keen to help out at the open houses as ushers or to assist at the fundraising booths. <br> Contact: ncss_pc@ncss.gov.sg|1 May 2019|Istana|President's Office & PC Secretariat|
 |Istana Open House - Hari Raya Puasa <br> The Istana Grounds is open to the public in celebration of major holidays in Singapore.  President's Challenge provides volunteering opportunities to those who are keen to help out at the open houses as ushers or to assist at the fundraising booths. <br> Contact: ncss_pc@ncss.gov.sg|5 June 2019|Istana|President's Office & PC Secretariat|
 
-| Date | Flexible timing |
-| Venue	| Food from the Heart 130 Joo Seng Rd #03-01 Singapore 368357 |
-| Organiser	| Food from the Heart |
-| Event Details | Share Your Skills Programme
+
+<table>
+ <tr> <td>Date</td> 
+ <td> Flexible timing </td></tr>
+ 
+  <tr> <td>Venue</td> 
+ <td>Food from the Heart 130 Joo Seng Rd #03-01 Singapore 368357  </td></tr>
+ 
+  <tr> <td>Organiser</td> 
+ <td> Food from the Heart </td></tr>
+ 
+  <tr> <td>Event Details</td> 
+ <td> Share Your Skills Programme
 Looking for passionate volunteers with specialised skills to support our programmes.  Together, we can make a difference in the lives of our 40,300 beneficiaries.
 
 Specialised volunteer roles that we need assistance with:
@@ -38,8 +47,9 @@ Specialised volunteer roles that we need assistance with:
 
 If you are interested in any of these roles or would like to offer a skill not listed here, please contact Bryan at bryan@foodheart.org, or call 6958 8854 and we will get in touch with you shortly.
 
-Please visit [www.foodfromtheheart.sg](www.foodfromtheheart.sg) for more details. |
-
+Please visit [www.foodfromtheheart.sg](www.foodfromtheheart.sg) for more details. </td></tr>
+ </table>
+  
 #### Skills Based Volunteering
 
 <table width="100%">
