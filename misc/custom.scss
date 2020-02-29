@@ -4,6 +4,9 @@
 
 @charset "utf-8";
 
+
+
+
 // HLB brand colors
 $primary: #6031b6;
 $secondary: #4372d6;
@@ -31,6 +34,18 @@ $desktop: 960px + (2 * $gap) !default;
     	@content
 	}
 }
+
+body {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 12px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  padding: 30px;
+  color: #333;
+}
+
 
 // Background
 .bg{
