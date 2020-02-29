@@ -33,9 +33,4 @@ The President’s Challenge PULSE! Sports Fiesta 2019, led by youth volunteers f
 President Halimah Yacob hosted an appreciation night to thank the organisations and individuals, who have stepped forward and contributed to President’s Challenge in 2018. 
 
 
-##### Photo Credits: PCF-Eunos Blk 629
-
-
-### UPCOMING EVENTS
-
-|**Event Details**|**Date**|**Venue**|**Organiser**|
+###### Photo Credits: *PCF-Eunos Blk 629*
