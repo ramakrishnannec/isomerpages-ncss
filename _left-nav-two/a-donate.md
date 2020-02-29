@@ -65,3 +65,6 @@ National Council of Social Service (NCSS)
 Singapore 279621
  
 * Please provide us with your name, NRIC and contact number if you wish to receive a tax deduction for your donation.
+
+
+###### Photo Credits: *Singapore Polytechnic, pexels.com*
