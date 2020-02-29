@@ -13,10 +13,10 @@ collection_name: left-nav-two
 Every year, supporters of President’s Challenge, people from all walks of life pull together their resources to organise big- to small-scale fundraising events to raise funds for President’s Challenge’s benefiting organisations. This is how the community is making a collective effort towards building a cohesive and caring society.
  
 
-| **President’s Star Charity 2018** | **“Start Small Dream Big” project 2018 ** | **People's Association Community Service Project** | **Raffles Girls’ School’s fundraising booth** | 
+| **President’s Star Charity 2018** | **“Start Small Dream Big” project 2018** | **People's Association Community Service Project** | **Raffles Girls’ School’s fundraising booth** | 
 |-----------------|-----------------|-----------------|-----------------|
 | [![President-s-Star-Charity](/images/President-s-Star-Charity.jpg)(#star-charity) | [![Start Small Dream Big](/images/PCF-Eunos_2.jpg)(#start-small-dream-big) | [![National Junior College](/images/PA.jpg)(#national-junior-college) | [![Charity Iftar](/images/Partner-Story4.jpg)(#charity-iftar) | 
-| Don't hide your talent. Share it for a meaningful cause. Give freely, live fully. |    Volunteerism is a good way for families to have fun and feel closer & children learn about compassion. |
+| Don't hide your talent. Share it for a meaningful cause. Give freely, live fully. |    Volunteerism is a good way for families to have fun and feel closer & children learn about compassion. | Volunteers from National Junior College expressed their gratitude towards their teachers by making ... | Berita Harian organised the Ramadan charity iftar (breaking of the fast) for 150 service users from various... | 
  
 
 <!--[![YouTube Link](https://img.youtube.com/vi/aimBFH3b3gI/0.jpg)](https://www.youtube.com/watch?v=aimBFH3b3gI)-->
