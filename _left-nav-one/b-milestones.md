@@ -7,6 +7,19 @@ collection_name: left-nav-one
 ---
 
 
+Stage | Direct Products | ATP Yields
+----: | --------------: | ---------:
+Glycolysis | 2 ATP ||
+^^ | 2 NADH | 3--5 ATP |
+Pyruvaye oxidation | 2 NADH | 5 ATP |
+Citric acid cycle | 2 ATP ||
+^^ | 6 NADH | 15 ATP |
+^^ | 2 FADH2 | 3 ATP |
+**30--32** ATP |||
+[Net ATP yields per hexose]
+
+
+
 |           How We Started (Year:2000)        ||
 ------|-----
 ![SR Nathan](/images/Milestones-Nathan.jpg){:width="150px"}|The late S R Nathan initiated President’s Challenge in 2000 shortly after assuming the Presidency. The social service sector was always something very close to his heart and he decided to help raise funds for this sector and place a spotlight on those in need. When Mr Nathan stepped down from office after 12 years as President of Singapore, the movement he started had raised more than $100 million and benefitted more than 500 programmes in social service organisations that reach out to needy children, families, seniors, disabled and other social service endeavours.
