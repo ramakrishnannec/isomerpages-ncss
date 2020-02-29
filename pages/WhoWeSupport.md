@@ -89,4 +89,4 @@ Madam Yee Choon How, 79, came under the care of MWS Bethany Nursing Home - Choa 
 Mdm Joanna Yap has been working as a part-time assistant teacher since her divorce. For the sake of her two daughters one of which has special needs, she traded-in her high-flying career to spend more time with them. As a union member and U Care beneficiary, she and her 2 children had the opportunity to participate in the *NTUC-U Care Fund’s* LIFT-UP programmes. The family had attended a hands-on workshop which made their learning exciting and presented an enjoyable family bonding time. She acknowledged that the exposure to these activities empowered them and looked forward to more opportunities that will help upskill them as a family to enable them do better in life.
 
 
-
+###### Photo Credits : *YMCA of Singapore, Deaf Sports Association (Singapore), Daughters of Tomorrow, Food from the Heart, Dyslexia Association of Singapore, Handicaps Welfare Association, Methodist Welfare Services, SPD*
