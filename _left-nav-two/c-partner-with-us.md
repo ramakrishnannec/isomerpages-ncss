@@ -51,5 +51,4 @@ Volunteers from National Junior College expressed their gratitude towards their 
 Charity Iftar <br> Berita Harian organised the Ramadan charity iftar (breaking of the fast) for 150 service users from various races and religions and raised funds for President’s Challenge.</td></tr></table>
 
 
-##### Photo Credits: 
-> MCI, Mediacorp, PCF-Eunos Blk 629, Heartware Network, Berita Harian
+###### Photo Credits: *MCI, Mediacorp, PCF-Eunos Blk 629, Heartware Network, Berita Harian*
