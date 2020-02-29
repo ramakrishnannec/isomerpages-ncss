@@ -49,3 +49,6 @@ The President’s Challenge Volunteer Drive encourages everyone to give their ti
 The President’s Challenge Social Enterprise Award celebrates the achievements of innovative business models who have made significant sustained contributions to help our community.
 
 [Learn more] (https://www.pc.org.sg/socialenterprise.aspx)
+
+:camera_flash:
+###### Photo Credits: *CapitaLand, Singapore Polytechnic, YMCA SIngapore, Singapore Centre for Social Enterprise (raiSE)*
