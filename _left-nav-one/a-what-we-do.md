@@ -50,5 +50,4 @@ The President’s Challenge Social Enterprise Award celebrates the achievements 
 
 [Learn more] (https://www.pc.org.sg/socialenterprise.aspx)
 
-:camera_flash:
 ###### Photo Credits: *CapitaLand, Singapore Polytechnic, YMCA SIngapore, Singapore Centre for Social Enterprise (raiSE)*
