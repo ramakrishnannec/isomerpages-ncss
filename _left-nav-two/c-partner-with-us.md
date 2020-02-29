@@ -15,7 +15,7 @@ Every year, supporters of President’s Challenge, people from all walks of life
 
 | **President’s Star Charity 2018** | **“Start Small Dream Big” project 2018** | **People's Association Community Service Project** | **Raffles Girls’ School’s fundraising booth** | 
 |-----------------|-----------------|-----------------|-----------------|
-| [![President-s-Star-Charity](/images/President-s-Star-Charity.jpg)(#star-charity) | [![Start Small Dream Big](/images/PCF-Eunos_2.jpg)(#start-small-dream-big) | [![National Junior College](/images/PA.jpg)(#national-junior-college) | [![Charity Iftar](/images/Partner-Story4.jpg)(#charity-iftar) | 
+| [![President-s-Star-Charity](/images/President-s-Star-Charity.jpg)](#star-charity) | [![Start Small Dream Big](/images/PCF-Eunos_2.jpg)](#start-small-dream-big) | [![National Junior College](/images/PA.jpg)](#national-junior-college) | [![Charity Iftar](/images/Partner-Story4.jpg)](#charity-iftar) | 
 | Don't hide your talent. Share it for a meaningful cause. Give freely, live fully. |    Volunteerism is a good way for families to have fun and feel closer & children learn about compassion. | Volunteers from National Junior College expressed their gratitude towards their teachers by making ... | Berita Harian organised the Ramadan charity iftar (breaking of the fast) for 150 service users from various... | 
  
 
