@@ -11,27 +11,15 @@ collection_name: left-nav-one
 
 
 
-Stage | Direct Products | ATP Yields
-----: | --------------: | ---------:
-Glycolysis | 2 ATP ||
-^^ | 2 NADH | 3--5 ATP |
-Pyruvaye oxidation | 2 NADH | 5 ATP |
-Citric acid cycle | 2 ATP ||
-^^ | 6 NADH | 15 ATP |
-^^ | 2 FADH2 | 3 ATP |
-**30--32** ATP |||
-[Net ATP yields per hexose]
 
-
-
-|           How We Started (Year:2000)        ||
-------|-----
-![SR Nathan](/images/Milestones-Nathan.jpg){:width="150px"}|The late S R Nathan initiated President’s Challenge in 2000 shortly after assuming the Presidency. The social service sector was always something very close to his heart and he decided to help raise funds for this sector and place a spotlight on those in need. When Mr Nathan stepped down from office after 12 years as President of Singapore, the movement he started had raised more than $100 million and benefitted more than 500 programmes in social service organisations that reach out to needy children, families, seniors, disabled and other social service endeavours.
+||          How We Started (Year:2000)        |
+|------|-----|
+|![SR Nathan](/images/Milestones-Nathan.jpg){:width="100%"}|The late S R Nathan initiated President’s Challenge in 2000 shortly after assuming the Presidency. The social service sector was always something very close to his heart and he decided to help raise funds for this sector and place a spotlight on those in need. When Mr Nathan stepped down from office after 12 years as President of Singapore, the movement he started had raised more than $100 million and benefitted more than 500 programmes in social service organisations that reach out to needy children, families, seniors, disabled and other social service endeavours.|
 
 
 |Year 2012 - Moving Beyond  (Yeear 2012)||
-------|-----
-President Tony Tan Keng Yam continued President’s Challenge in 2012. He announced his plans to expand the scope of President’s Challenge beyond fundraising. Two initiatives were shared – the President’s Challenge Volunteer Drive and the President’s Challenge Social Enterprise Award. These new initiatives encourage people from all walks of life to not only give money but to also give their time and talent, using their business skills to help the less fortunate.|![Tony Tan Keng Yam](/images/Milestones-Nathan.jpg){:width="200px"}
+|------|-----|
+|President Tony Tan Keng Yam continued President’s Challenge in 2012. He announced his plans to expand the scope of President’s Challenge beyond fundraising. Two initiatives were shared – the President’s Challenge Volunteer Drive and the President’s Challenge Social Enterprise Award. These new initiatives encourage people from all walks of life to not only give money but to also give their time and talent, using their business skills to help the less fortunate.|![Tony Tan Keng Yam](/images/Milestones-Nathan.jpg){:width="100%"}|
 
 
 |Year 2015 - 15th Anniversary|
@@ -44,6 +32,6 @@ President Tony Tan Keng Yam continued President’s Challenge in 2012. He announ
 
 |   Year 2018     ||
 |-------------|------------------|
-|![SR Nathan](/images/Milestones-Nathan.jpg){:width="150px"}|Over the past 17 years, the President’s Challenge focus has been on creating a culture of giving, not just in monetary sense but also in time and skills. These efforts are important and should continue but as the social service landscape in Singapore changes, President’s Challenge will also have to evolve with the changing needs.Going forward, President Halimah Yacob hopes for Singaporeans to look into more customised and upstream support, to be able to help the most vulnerable amongst us and change their circumstances. As the old saying goes, it is “better to teach one to fish than to merely give him a fish”. Whether it is through skills upgrading, capacity-building or empowerment, it is the President’s hope that together we can bring about more sustained changes to the lives of those we impact.|
+|![SR Nathan](/images/Milestones-Nathan.jpg){:width=100%"}|Over the past 17 years, the President’s Challenge focus has been on creating a culture of giving, not just in monetary sense but also in time and skills. These efforts are important and should continue but as the social service landscape in Singapore changes, President’s Challenge will also have to evolve with the changing needs.Going forward, President Halimah Yacob hopes for Singaporeans to look into more customised and upstream support, to be able to help the most vulnerable amongst us and change their circumstances. As the old saying goes, it is “better to teach one to fish than to merely give him a fish”. Whether it is through skills upgrading, capacity-building or empowerment, it is the President’s hope that together we can bring about more sustained changes to the lives of those we impact.|
 |At the President's Challenge 2018 Launch, President Halimah Yacob announced the new "Empowering for Life Fund" (ELF), a fund supporting vulnerable groups through skills upgrading, capacity-building and employment. Donations to ELF will receive dollar-to-dollar matching from the Government. This means that over the next five years, $20 million will be set aside for ELF programmes under the President's Challenge.|
 |ELF will focus on supporting customised, dedicated services to the most vulnerable groups and facilitate their integration into society. The programmes that it funds will handhold the most disadvantaged people on their journeys to improve their circumstances. The aim is to help them bounce back quickly from setbacks and stay adaptable.|
