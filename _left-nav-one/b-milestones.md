@@ -37,3 +37,6 @@ collection_name: left-nav-one
 At the President's Challenge 2018 Launch, President Halimah Yacob announced the new *"Empowering for Life Fund" (ELF)*, a fund supporting vulnerable groups through skills upgrading, capacity-building and employment. Donations to ELF will receive dollar-to-dollar matching from the Government. This means that over the next five years, $20 million will be set aside for ELF programmes under the President's Challenge.
 
 ELF will focus on supporting customised, dedicated services to the most vulnerable groups and facilitate their integration into society. The programmes that it funds will handhold the most disadvantaged people on their journeys to improve their circumstances. The aim is to help them bounce back quickly from setbacks and stay adaptable.|
+
+:camera_flash:
+###### Photo Credits: *MCI*
