@@ -8,13 +8,13 @@ collection_name: left-nav-one
 
 
 |           How We Started (Year:2000)        ||
-|------|-----|
-|![SR Nathan](/images/Milestones-Nathan.jpg){:width="150px"}|The late S R Nathan initiated President’s Challenge in 2000 shortly after assuming the Presidency. The social service sector was always something very close to his heart and he decided to help raise funds for this sector and place a spotlight on those in need. When Mr Nathan stepped down from office after 12 years as President of Singapore, the movement he started had raised more than $100 million and benefitted more than 500 programmes in social service organisations that reach out to needy children, families, seniors, disabled and other social service endeavours.|
+------|-----
+![SR Nathan](/images/Milestones-Nathan.jpg){:width="150px"}|The late S R Nathan initiated President’s Challenge in 2000 shortly after assuming the Presidency. The social service sector was always something very close to his heart and he decided to help raise funds for this sector and place a spotlight on those in need. When Mr Nathan stepped down from office after 12 years as President of Singapore, the movement he started had raised more than $100 million and benefitted more than 500 programmes in social service organisations that reach out to needy children, families, seniors, disabled and other social service endeavours.
 
 
 |Year 2012 - Moving Beyond  (Yeear 2012)||
-|------|-----|
-|President Tony Tan Keng Yam continued President’s Challenge in 2012. He announced his plans to expand the scope of President’s Challenge beyond fundraising. Two initiatives were shared – the President’s Challenge Volunteer Drive and the President’s Challenge Social Enterprise Award. These new initiatives encourage people from all walks of life to not only give money but to also give their time and talent, using their business skills to help the less fortunate.|![Tony Tan Keng Yam](/images/Milestones-Nathan.jpg){:width="200px"}|
+------|-----
+President Tony Tan Keng Yam continued President’s Challenge in 2012. He announced his plans to expand the scope of President’s Challenge beyond fundraising. Two initiatives were shared – the President’s Challenge Volunteer Drive and the President’s Challenge Social Enterprise Award. These new initiatives encourage people from all walks of life to not only give money but to also give their time and talent, using their business skills to help the less fortunate.|![Tony Tan Keng Yam](/images/Milestones-Nathan.jpg){:width="200px"}
 
 
 |Year 2015 - 15th Anniversary|
