@@ -115,25 +115,29 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
 - [Morning Star Community Services](https://www.morningstar.org.sg/)
 - [PPIS - Persatuan Pemudi Islam Singapura](https://ppis.sg/)
 - [PERTAPIS Children&#39;s Home](http://pertapis.org.sg/pertapis-childrens-home/)
-- [Singapore Council of Women&#39;s Organisations (SCWO)](#https://www.scwo.org.sg/)
+- [Singapore Council of Women&#39;s Organisations (SCWO)](https://www.scwo.org.sg/)
 - [Singapore Red Cross Society](https://www.redcross.sg/)
-- [Social Health Growth (SHG)](#https://www.socialhealthgrowth.org/)
+- [Social Health Growth (SHG)](https://www.socialhealthgrowth.org/)
 - [YMCA of Singapore](http://www.ymca.org.sg/)
 - [NTUC-U Care](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare)
 
  ### Disability List
  
-[Singapore Red Cross Society](#https://www.redcross.sg/)
-[Social Health Growth (SHG)](#https://www.socialhealthgrowth.org/)
-[YMCA of Singapore](#http://www.ymca.org.sg/)
-[NTUC-U Care](#https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare)
+ - [Autism Association (Singapore)](https://www.autismlinks.org.sg/) 
+ - [AWWA Ltd](https://www.awwa.org.sg/) 
+ - [Cerebral Palsy Alliance Singapore](http://cpas.org.sg/) 
+ - [Down Syndrome Association (Singapore)](http://www.downsyndrome-singapore.org/) 
+ - [Very Special Arts Limited](https://www.vsa.org.sg/)
+
 
  ### Eldercare List
  
-[Singapore Red Cross Society](#https://www.redcross.sg/)
-[Social Health Growth (SHG)](#https://www.socialhealthgrowth.org/)
-[YMCA of Singapore](#http://www.ymca.org.sg/)
-[NTUC-U Care](#https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare)
+ - [Blossom Seeds Limited](https://www.blossomseeds.sg/)
+ - [Caregiving Welfare Association](http://www.cwa.org.sg/)
+ - [Empower Ageing Limited](http://www.empower.org.sg/)
+ - [Methodist Welfare Services](https://mws.sg/)
+ - [O&#39;Joy Care Services](https://ojoywebsite.wixsite.com/ojoy)
+ - [Tzu Chi Foundation (Singapore)](https://www.tzuchi.org.sg/en/)
 
  ### Mental Health Services 
 
