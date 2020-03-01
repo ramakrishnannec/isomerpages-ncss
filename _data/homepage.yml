@@ -58,6 +58,11 @@ info-sections:
     section-image-path: /images/raffles-fundraising.jpg
 
  
+# Resources Section
+resources-title: Media
+resources-subtitle: Be in the know
+resources-more-button: More Media
+resources-more-button-url: /media/
 
 
 
