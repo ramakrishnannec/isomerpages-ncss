@@ -38,16 +38,16 @@ Since 2000, President’s Challenge has raised more than $180 million for its be
 ### Fund Raising
 President’s Challenge brings people from all walks of life together to raise funds for the less fortunate. By raising funds, you will be encouraging more people to give back to the community.  
 
-Want to fundraise but not sure what do to? Click [here](https://www.pc.org.sg/partnerwithus.aspx)  for some ideas or [contact us](https://www.pc.org.sg/contactus.aspx) for more ideas.
+Want to fundraise but not sure what do to? Click [here](/take-action/partner-with-us/)  for some ideas or [contact us](/who-we-are/contact-us/) for more ideas.
 
 ### Create Caring
 The President’s Challenge Volunteer Drive encourages everyone to give their time and talent to help and care for those in need and to create a caring and inclusive society. Since 2012, when the volunteer drive was launched, thousands have come forward to volunteer in various ways.  
 
-[Learn more](https://www.pc.org.sg/volunteer.aspx)
+[Learn more](/take-action/volunteer/)
 
 #### Award Celebration
 The President’s Challenge Social Enterprise Award celebrates the achievements of innovative business models who have made significant sustained contributions to help our community.
 
-[Learn more](https://www.pc.org.sg/socialenterprise.aspx)
+[Learn more](/who-we-are/social-enterprise/)
 
 ###### Photo Credits: *CapitaLand, Singapore Polytechnic, YMCA SIngapore, Singapore Centre for Social Enterprise (raiSE)*
