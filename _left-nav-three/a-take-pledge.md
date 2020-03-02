@@ -33,5 +33,5 @@ C)	Implement supportive employment policies for employees with disabilities
 </td></tr>
 <tr><td>For persons with disabilities, employment helps in their social inclusion, personal development, financial independence and overall well-being, thus enabling them to lead more enriching and fulfilling lives. 
 For employers, the community of persons with disabilities presents a largely untapped pool of talent, skills and experience. The employment of persons with disabilities will also inject positive workplace diversity in the organisation. So, pledge your inclusive support today!</td></tr>
-<tr><td>[PLEDGE NOW](https://form.gov.sg/#!/)</td></tr>
+<tr><td>[PLEDGE NOW](https://form.gov.sg/#!/5e4a00425cb1370011a1d85c)</td></tr>
 </table>
