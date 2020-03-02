@@ -5,9 +5,9 @@ breadcrumb: FAQ
 title: FAQ
 ---
 
-### **FAQ**
+# **FAQ**
 
-#### **DONATIONS**
+## **DONATIONS**
  
 #### 1. What percentage of my donation goes to the charities supported by President’s Challenge?  
 > 100% of donations to President's Challenge go towards the supported charities chosen by the President’s Challenge.  
@@ -33,7 +33,7 @@ title: FAQ
 #### 8. Does President’s Challenge sell, rent or trade donor information (eg. mailing and email addresses and phone numbers) to other agencies? 
 > The privacy of our donors is very important to us and we do not share or sell this information. 
 
-#### **FUNDING**
+## **FUNDING**
 
 #### 1. I work for a charity in Singapore. How can my organisation apply to be a President’s Challenge benefiting organisation?
 > To be considered for a nomination as a President’s Challenge benefiting organisation, your organisation must have attained an Institute of Public Character (IPC) status that remains valid in the financial year when the funds are disbursed. You may apply for IPC status at www.charities.gov.sg.
@@ -163,7 +163,7 @@ The application forms for PC and PC-ELF are different. Hence, agencies are requi
 > The agency is also required to submit the programme’s certified income and expenditure statement, as well as its annual audited financial statements at its earliest availability. The audited financial statement should classify the PC-ELF funds as a restricted fund. If the Programme is receiving different sources of funding for the purposes of operating the Programme, it should be itemised and disclosures on the funding should be included.
 
 
-#### **FUNDRAISING**
+## **FUNDRAISING**
 
 #### 1. Who manages the President's Challenge?
 > The main bodies involved in the organisation and administration of President's Challenge are the President's Office, Ministry of Social and Family Development (MSF) and National Council of Social Service (NCSS).  The President's Challenge Secretariat is managed by NCSS and oversees the secretariat duties, fundraising efforts and volunteerism drive under President's Challenge. |
