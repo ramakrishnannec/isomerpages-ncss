@@ -99,7 +99,7 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
 | [Rehabilitation](#rehabilitation-list)  |
 | [Sports](#sports-list)  |
 | [Cross Sectors](#cross-sectors)  |
-| [Others](#other-list) |
+| [Others](#others-list) |
 | [Empowering for Life Fund](#empowering-for-life-fund) |
 
 
