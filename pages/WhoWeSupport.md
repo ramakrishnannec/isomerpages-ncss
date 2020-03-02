@@ -104,8 +104,7 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
 
 
 
-
- ### Children Youth and Family
+### Children Youth and Family
 
 - [AMP - Association of Muslim Professionals](https://www.amp.org.sg/)
 - [AWARE - Association of Women for Action and Research](https://www.aware.org.sg/)
@@ -124,7 +123,7 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
 - [NTUC-U Care](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare)
 
 
- ### Disability List
+### Disability List
  
  - [Autism Association (Singapore)](https://www.autismlinks.org.sg/) 
  - [AWWA Ltd](https://www.awwa.org.sg/) 
@@ -132,9 +131,7 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
  - [Down Syndrome Association (Singapore)](http://www.downsyndrome-singapore.org/) 
  - [Very Special Arts Limited](https://www.vsa.org.sg/)
 
-
-
- ### Eldercare List
+### Eldercare List
  
  - [Blossom Seeds Limited](https://www.blossomseeds.sg/)
  - [Caregiving Welfare Association](http://www.cwa.org.sg/)
@@ -143,14 +140,14 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
  - [O&#39;Joy Care Services](https://ojoywebsite.wixsite.com/ojoy)
  - [Tzu Chi Foundation (Singapore)](https://www.tzuchi.org.sg/en/)
 
- ### Mental Health Services 
+### Mental Health Services 
 
 - [AMKFSC Community Services Ltd](https://www.amkfsc.org.sg/)
 - [Club HEAL](http://www.clubheal.org.sg/)
  
  
  
- ### Health care 
+### Health care 
 
 - [St Andrew's Mission Hospital](https://www.samh.org.sg/)
 - [Apex Harmony Lodge](http://www.apexharmony.org.sg/)
@@ -164,10 +161,9 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
 - [Adventist Nursing & Rehabilitation Centre](http://anrc.org.sg/)
  
  
- 
- ### Rehabilitation List 
+### Rehabilitation List 
 
- - [HEB-Ashram](https://heb.org.sg/our-subsidiaries/heb-ashram/)
+- [HEB-Ashram](https://heb.org.sg/our-subsidiaries/heb-ashram/)
 - [Breakthrough Missions](http://www.breakthroughmissions.org.sg/)
 - [Pertapis Halfway House](http://pertapis.org.sg/pertapis-halfway-house/)
 - [Teen Challenge (Singapore)](https://www.teenchallenge.org.sg/)
@@ -178,16 +174,13 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
 - [Singapore Anti-Narcotics Association (SANA)](https://www.sana.org.sg/)
 
 
-
- ### Sports List
+### Sports List
 
 - [Singapore National Paralympic Council](http://www.snpc.org.sg/)
 - [Lawn Bowls Association for the Disabled (Singapore)](http://parabowlsingapore.org/)
 - [Deaf Sports Association (Singapore)](https://dsa.org.sg/)
 
-
-
- ### Cross Sectors 
+### Cross Sectors 
  
 - [Community Chest](https://www.comchest.sg/)
 - [Blessed Grace Social Services Limited](https://www.bgss.org.sg/)
@@ -197,15 +190,11 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
 - [Kampung Senang Charity and Education Foundation](https://www.kampungsenang.org/)
 - [Singapore Art Museum](https://www.singaporeartmuseum.sg/)
 
-
-
- ### Others List
+### Others List
  
  - [Silver Volunteer Fund](https://www.pc.org.sg/SilverVolunteerFund)
 
-
-
- ### Empowering for Life Fund
+### Empowering for Life Fund
 
 - [TOUCH Community Services](https://www.touch.org.sg/)     
 - [Singapore Disability Sports Council](https://sdsc.org.sg/)
@@ -216,7 +205,4 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
 - [Yayasan Mendaki](https://www.mendaki.org.sg/) 
 
  
-
-
-
 ###### Photo Credits : *YMCA of Singapore, Deaf Sports Association (Singapore), Daughters of Tomorrow, Food from the Heart, Dyslexia Association of Singapore, Handicaps Welfare Association, Methodist Welfare Services, SPD*
