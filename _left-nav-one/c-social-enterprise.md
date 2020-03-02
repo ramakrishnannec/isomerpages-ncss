@@ -19,7 +19,7 @@ We hope these awards spark more individuals, particularly our youths, to develop
 
 
 
-|[![Samsui Supplies &amp; Services Pte Ltd](/images/SE-of-the-Year_Samsui.jpg "Samsui Supplies &amp; Services Pte Ltd")](#samsui supplies-and-services-pte-ltd)|[![Bantu Pte Ltd](/images/SE-Startup-of-the-Year_Bantu.jpg "Bantu Pte Ltd")](#bantu-pte-ltd)|[![PA Community Service Project](/images/SE-Champion-of-the-Year-(Corporate)_DBS.jpg "DBS/DBS Foundation")](#DBS/DBS-Foundation)|[![Don Wong](/images/SE-Champion-of-the-Year-(Individual)_Mr-Don-Wong.jpg "Don Wong")](#don-wong)|
+|[![Samsui Supplies &amp; Services Pte Ltd](/images/SE-of-the-Year_Samsui.jpg "Samsui Supplies &amp; Services Pte Ltd")](#samsui supplies-and-services-pte-ltd)|[![Bantu Pte Ltd](/images/SE-Startup-of-the-Year_Bantu.jpg "Bantu Pte Ltd")](#bantu-pte-ltd)|[![PA Community Service Project](/images/SE-Champion-of-the-Year-(Corporate)_DBS.jpg "DBS/DBS Foundation")](#dbs-foundation)|[![Don Wong](/images/SE-Champion-of-the-Year-(Individual)_Mr-Don-Wong.jpg "Don Wong")](#don-wong)|
 | **Social Enterprise of the Year:** Samsui Supplies &amp; Services, Initiated by the Soup...| **Social Enterprise Start-Up of the Year:**  Bantu was recognised for building a proprietary....| **Social Enterprise Champion of the Year (Corporate):** DBS Foundation, since its inception...| **Social Enterprise Champion of the Year (Individual):** Don Wong is the founder of non...|
 
  
@@ -39,7 +39,7 @@ Social Enterprise Start-Up of the Year: Bantu was recognised for building a prop
 To date, the platform has helped 70 social organisations to manage a total of over 12,000 volunteers across more than 500 projects, while reducing administrative time by 10 percent.
 
 
-#### DBS/DBS Foundation
+#### DBS Foundation
 
 Social Enterprise Champion of the Year (Corporate): DBS Foundation, since its inception in 2014, has nurtured over 300 social enterprises through awareness building activities, funding support, capacity building initiatives, and access to lower banking fees. The Foundation has since dedicated S$12.8 million to social enterprise grant disbursement and programme support to facilitate the sector’s continued development in Singapore. 
 
