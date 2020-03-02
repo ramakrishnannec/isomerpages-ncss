@@ -91,7 +91,7 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
 
 | BENEFITTING ORGANISATIONS |
 |-------------|
-| [Children, Youth & Family](#Children-youth-and-family) |
+| [Children, Youth & Family](#children-youth-and-family) |
 | [Disability](#disability-list)  |
 | [Eldercare](#eldercare-list)  |
 | [Mental Health Services](#mental-health-services)   |
@@ -145,64 +145,75 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
 
  ### Mental Health Services 
 
-[Singapore Red Cross Society](#https://www.redcross.sg/)
-[Social Health Growth (SHG)](#https://www.socialhealthgrowth.org/)
-[YMCA of Singapore](#http://www.ymca.org.sg/)
-[NTUC-U Care](#https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare)
+- [AMKFSC Community Services Ltd](https://www.amkfsc.org.sg/)
+- [Club HEAL](http://www.clubheal.org.sg/)
  
  
  
  ### Health care 
 
-[Singapore Red Cross Society](#https://www.redcross.sg/)
-[Social Health Growth (SHG)](#https://www.socialhealthgrowth.org/)
-[YMCA of Singapore](#http://www.ymca.org.sg/)
-[NTUC-U Care](#https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare)
+- [St Andrew's Mission Hospital](https://www.samh.org.sg/)
+- [Apex Harmony Lodge](http://www.apexharmony.org.sg/)
+- [Alzheimer's Disease Association](https://alz.org.sg/)
+- [All Saints Home](https://allsaintshome.org.sg/)
+- [Assisi Hospice](http://www.assisihospice.org.sg/)
+- [Sian Chay Medical Institution](https://www.sianchay.org.sg/en/)
+- [Diabetes Singapore](https://www.diabetes.org.sg/)
+- [HCA Hospice Care](https://www.hca.org.sg/)
+- [Singhealth Fund (KKH)] 
+- [Adventist Nursing & Rehabilitation Centre](http://anrc.org.sg/)
  
  
  
  ### Rehabilitation List 
 
-[Singapore Red Cross Society](#https://www.redcross.sg/)
-[Social Health Growth (SHG)](#https://www.socialhealthgrowth.org/)
-[YMCA of Singapore](#http://www.ymca.org.sg/)
-[NTUC-U Care](#https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare)
+ - [HEB-Ashram](https://heb.org.sg/our-subsidiaries/heb-ashram/)
+- [Breakthrough Missions](http://www.breakthroughmissions.org.sg/)
+- [Pertapis Halfway House](http://pertapis.org.sg/pertapis-halfway-house/)
+- [Teen Challenge (Singapore)](https://www.teenchallenge.org.sg/)
+- [Yellow Ribbon Fund (YRF)](https://www.yellowribbon.org.sg/yellow-ribbon-fund)
+- [Singapore After-Care Association (SACA)](http://www.saca.org.sg/)
+- [WE CARE Community Services (WCCS)](http://www.wecare.org.sg/)
+- [iC@re Hub Ltd](http://www.icarehub.org.sg/)
+- [Singapore Anti-Narcotics Association (SANA)](https://www.sana.org.sg/)
 
 
 
  ### Sports List
- 
-[Singapore Red Cross Society](#https://www.redcross.sg/)
-[Social Health Growth (SHG)](#https://www.socialhealthgrowth.org/)
-[YMCA of Singapore](#http://www.ymca.org.sg/)
-[NTUC-U Care](#https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare)
+
+- [Singapore National Paralympic Council](http://www.snpc.org.sg/)
+- [Lawn Bowls Association for the Disabled (Singapore)](http://parabowlsingapore.org/)
+- [Deaf Sports Association (Singapore)](https://dsa.org.sg/)
 
 
 
  ### Cross Sectors 
  
-[Singapore Red Cross Society](#https://www.redcross.sg/)
-[Social Health Growth (SHG)](#https://www.socialhealthgrowth.org/)
-[YMCA of Singapore](#http://www.ymca.org.sg/)
-[NTUC-U Care](#https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare)
+- [Community Chest](https://www.comchest.sg/)
+- [Blessed Grace Social Services Limited](https://www.bgss.org.sg/)
+- [FaithActs](https://www.faithacts.org.sg/)
+- [Filos Community Services](http://www.filos.sg/)
+- [HOPE Worldwide (Singapore)](https://www.hopewwsea.org/)
+- [Kampung Senang Charity and Education Foundation](https://www.kampungsenang.org/)
+- [Singapore Art Museum](https://www.singaporeartmuseum.sg/)
 
 
 
  ### Others List
  
-[Singapore Red Cross Society](#https://www.redcross.sg/)
-[Social Health Growth (SHG)](#https://www.socialhealthgrowth.org/)
-[YMCA of Singapore](#http://www.ymca.org.sg/)
-[NTUC-U Care](#https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare)
+ - [Silver Volunteer Fund](https://www.pc.org.sg/SilverVolunteerFund)
 
 
 
  ### Empowering for Life Fund
 
-[Singapore Red Cross Society](#https://www.redcross.sg/)
-[Social Health Growth (SHG)](#https://www.socialhealthgrowth.org/)
-[YMCA of Singapore](#http://www.ymca.org.sg/)
-[NTUC-U Care](#https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare)
+- [TOUCH Community Services](https://www.touch.org.sg/)     
+- [Singapore Disability Sports Council](https://sdsc.org.sg/)
+- [Singapore Anglican Community Services](http://sacs.org.sg/) 
+- [Lutheran Community Care Services](https://lccs.org.sg/)  
+- [Pertapis Halfway House](http://pertapis.org.sg/pertapis-halfway-house/)  
+- [Centre for Seniors](http://www.centreforseniors.org.sg/wps/portal/centreforseniors/home) 
+- [Yayasan Mendaki](https://www.mendaki.org.sg/) 
 
  
 
