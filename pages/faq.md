@@ -38,13 +38,13 @@ title: FAQ
 #### 1. I work for a charity in Singapore. How can my organisation apply to be a President’s Challenge benefiting organisation?
 > To be considered for a nomination as a President’s Challenge benefiting organisation, your organisation must have attained an Institute of Public Character (IPC) status that remains valid in the financial year when the funds are disbursed. You may apply for IPC status at www.charities.gov.sg.
  
-Applications for funding generally open in September for the following year. You can download the application form from our website or contact your respective Sector Administrator for the application details.
+> Applications for funding generally open in September for the following year. You can download the application form from our website or contact your respective Sector Administrator for the application details.
 
 
 #### 2. What is the President’s Challenge Empowering for Life Fund?
 > At the President’s Challenge 2018 launch, President Halimah rallied for more customised support to empower the vulnerable in society, focusing in area of employment. To support such efforts, $20m is set aside over the next 5 years, through funds raised by President’s Challenge (PC) and a matching amount from Ministry of Finance (MOF), for a new President’s Challenge Empowering for Life Fund (PC ELF).
 
-The PC-ELF will run from 2018 – 2022.
+> The PC-ELF will run from 2018 – 2022.
 
 
 #### 3. What is the difference between PC and PC-ELF?   
@@ -107,6 +107,7 @@ The PC-ELF will run from 2018 – 2022.
 	</tbody>
 </table>   
 
+> Agencies are also strongly encouraged to review the Guidelines stated in Section A of the application forms of the two funds.
   
 
 #### 4. When is the application window for PC-ELF?
