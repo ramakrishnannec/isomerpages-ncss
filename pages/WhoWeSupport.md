@@ -89,21 +89,10 @@ Madam Yee Choon How, 79, came under the care of MWS Bethany Nursing Home - Choa 
 Mdm Joanna Yap has been working as a part-time assistant teacher since her divorce. For the sake of her two daughters one of which has special needs, she traded-in her high-flying career to spend more time with them. As a union member and U Care beneficiary, she and her 2 children had the opportunity to participate in the *NTUC-U Care Fund’s* LIFT-UP programmes. The family had attended a hands-on workshop which made their learning exciting and presented an enjoyable family bonding time. She acknowledged that the exposure to these activities empowered them and looked forward to more opportunities that will help upskill them as a family to enable them do better in life.
 
 
-| BENEFITTING ORGANISATIONS |
-|-------------|
-| [Children, Youth & Family](#children-youth-and-family) |
-| [Disability](#disability-list)  |
-| [Eldercare](#eldercare-list)  |
-| [Mental Health Services](#mental-health-services)   |
-| [Healthcare](#health-care)  |
-| [Rehabilitation](#rehabilitation-list)  |
-| [Sports](#sports-list)  |
-| [Cross Sectors](#cross-sectors)  |
-| [Others](#other-list) |
-| [Empowering for Life Fund](#empowering-for-life-fund) |
 
 
 
+### NTUC Union Care
 ### Children Youth and Family
 
 - [AMP - Association of Muslim Professionals](https://www.amp.org.sg/)
@@ -204,5 +193,18 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
 - [Centre for Seniors](http://www.centreforseniors.org.sg/wps/portal/centreforseniors/home) 
 - [Yayasan Mendaki](https://www.mendaki.org.sg/) 
 
+
+| BENEFITTING ORGANISATIONS |
+|-------------|
+| [Children, Youth & Family](#children-youth-and-family) |
+| [Disability](#disability-list)  |
+| [Eldercare](#eldercare-list)  |
+| [Mental Health Services](#mental-health-services)   |
+| [Healthcare](#health-care)  |
+| [Rehabilitation](#rehabilitation-list)  |
+| [Sports](#sports-list)  |
+| [Cross Sectors](#cross-sectors)  |
+| [Others](#other-list) |
+| [Empowering for Life Fund](#empowering-for-life-fund) |
  
 ###### Photo Credits : *YMCA of Singapore, Deaf Sports Association (Singapore), Daughters of Tomorrow, Food from the Heart, Dyslexia Association of Singapore, Handicaps Welfare Association, Methodist Welfare Services, SPD*
