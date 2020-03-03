@@ -53,10 +53,10 @@ Make a difference today!
 ### Donate via Cheque
 
 For cheque donations, please issue to "President's Challenge" and mail to:
-President's Challenge Secretariat
-National Council of Social Service (NCSS)
-170 Ghim Moh Road #01-02
-Singapore 279621
+President's Challenge Secretariat  
+National Council of Social Service (NCSS)  
+170 Ghim Moh Road #01-02  
+Singapore 279621  
  
 * Please provide us with your name, NRIC and contact number if you wish to receive a tax deduction for your donation.
 
