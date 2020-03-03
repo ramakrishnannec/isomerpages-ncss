@@ -41,13 +41,11 @@ Make a difference to the lives of our beneficiaries.  Donate now.
 [![Donate Now](/images/beneficiary1.jpg "Donate Now")](https://www.giving.sg/president-s-challenge)
 
 Be a part of the President’s Challenge and make someone’s wishes come true.
-
 Donate to support the 59 benefitting organisations supported in 2018 including those supported under the Empowering For Life (ELF) Fund. 
 
 **Donations to ELF enjoy dollar-for-dollar matching from the Government.**
 
 100% of your donations go towards the benefiting organisations we support. 
-
 Make a difference today!
 
 
@@ -55,13 +53,9 @@ Make a difference today!
 ### Donate via Cheque
 
 For cheque donations, please issue to "President's Challenge" and mail to:
-
 President's Challenge Secretariat
-
 National Council of Social Service (NCSS)
-
 170 Ghim Moh Road #01-02
-
 Singapore 279621
  
 * Please provide us with your name, NRIC and contact number if you wish to receive a tax deduction for your donation.
