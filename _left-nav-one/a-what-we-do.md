@@ -15,9 +15,9 @@ It is the President's call to the nation to do their part to build a more caring
 
 <table width="100%" cellpadding="10px" cellspacing="10px">
 <tr><td>FUNDRAISING</td><td>CARING</td><td>CELEBRATING</td></tr>
-<tr><td><a href="#tag1"><img src=/images/wwd_fundraising.jpg" style="width:200px"></a></td>
-<td><a href="#tag2"><img src=/images/wwd_caring.jpg" style="width:200px"></a></td>
-<td><a href="#tag3"><img src=/images/wwd_celebrating.jpg" style="width:200px"></a></td></tr>
+<tr><td><a href="#tag1"><img src="/images/wwd_fundraising.jpg" style="width:200px;"></a></td>
+<td><a href="#tag2"><img src="/images/wwd_caring.jpg" style="width:200px"></a></td>
+<td><a href="#tag3"><img src="/images/wwd_celebrating.jpg" style="width:200px"></a></td></tr>
 <tr><td>The President’s Challenge brings people from all walks of life together to raise funds for the less fortunate.<br> <a href="#tag1">See more</a> </td>
 <td>The President’s Challenge Volunteer Drive encourages everyone to give their time and talent to help<br><a href="#tag2">See more</a></td>
 <td>The President’s Challenge Social Enterprise Award celebrates the achievements of innovative business<br><a href="#tag3">See more</a></td></tr>
@@ -38,21 +38,21 @@ Since 2000, President’s Challenge has raised more than $180 million for its be
 </table>
 
 <table width="100%" cellpadding="10px" cellspacing="10px">
-<tr><td id="tag1"><img src=/images/wwd_fundraising.jpg" style="width:200px"></a></td>
+<tr><td id="tag1"><img src="/images/wwd_fundraising.jpg" style="width:200px"></a></td>
 <td>Fund Raising <br><br>
 President’s Challenge brings people from all walks of life together to raise funds for the less fortunate. By raising funds, you will be encouraging more people to give back to the community.
 
 Want to fundraise but not sure what do to? Click [here](/take-action/partner-with-us/)  for some ideas or [contact us](/who-we-are/contact-us/) for more ideas.
 </td></tr>
 
-<tr><td id="tag3"><a href="#tag3"><img src=/images/wwd_celebrating.jpg" style="width:200px"></a></td>
+<tr><td id="tag3"><a href="#tag3"><img src="/images/wwd_celebrating.jpg" style="width:200px"></a></td>
 <td>Create Caring<br><br>
 The President’s Challenge Volunteer Drive encourages everyone to give their time and talent to help and care for those in need and to create a caring and inclusive society. Since 2012, when the volunteer drive was launched, thousands have come forward to volunteer in various ways.  
 
 [Learn more](/take-action/volunteer/)
 </td></tr>
 
-<tr><td id="tag2"><a href="#tag2"><img src=/images/wwd_caring.jpg" style="width:200px"></a></td>
+<tr><td id="tag2"><a href="#tag2"><img src="/images/wwd_caring.jpg" style="width:200px"></a></td>
 <td>Award Celebration<br><br>
 The President’s Challenge Social Enterprise Award celebrates the achievements of innovative business models who have made significant sustained contributions to help our community.
 
