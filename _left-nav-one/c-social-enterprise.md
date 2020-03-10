@@ -49,5 +49,9 @@ To date, the platform has helped 70 social organisations to manage a total of ov
 <br><br>
 Through his help and mentorship, many individuals have been inspired and gone on to set up their own social enterprises.
 <br><br>
-Besides the awards above, see the list of finalists for 2019 <a href="http://www.raise.sg/president-s-challenge-social-enterprise-award.html" target="_blank">Click here</a><br><br>
+
 </td></tr></table> 
+
+
+<table width="100%" cellpadding="10px" cellspacing="10px"><tr><td>
+ Besides the awards above, see the list of finalists for 2019 <a href="http://www.raise.sg/president-s-challenge-social-enterprise-award.html" target="_blank">Click here</a><br><br></td></tr></table> 
