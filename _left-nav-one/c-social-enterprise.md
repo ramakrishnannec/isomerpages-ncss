@@ -25,12 +25,12 @@ We hope these awards spark more individuals, particularly our youths, to develop
 <td> <b>Social Enterprise Champion of the Year (Individual):</b>  Don Wong is the founder of non <a href="#tag4">See Details</a></td></tr>
 </table>
 
-<h5>Photo Credits: *raiSE Singapore*</h5>
+<h7><i>Photo Credits: *raiSE Singapore*</i></h7>
 
 <table width="100%" cellpadding="10px" cellspacing="10px">
 <tr>
 <td id="tag1" width="200px"> <img src="/images/SE-of-the-Year_Samsui.jpg" alt="Samsui Supplies & Services Pte Ltd" style="width:200px"></a></td>
-<td></b>Social Enterprise of the Year: </b>
+<td><b>Social Enterprise of the Year: </b>
 <br><br>
 Samsui Supplies & Services, initiated by the Soup Restaurant Group in 2013, provides training and employment to 100 inmates, ex-offenders, and persons with disabilities who prepare more than 1,800,000 nutritious meals for the elderly service users residing in nursing homes.
 <br><br>
