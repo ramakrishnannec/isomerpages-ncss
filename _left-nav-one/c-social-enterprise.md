@@ -19,10 +19,10 @@ We hope these awards spark more individuals, particularly our youths, to develop
 <td><a href="#tag2"><img src="/images/SE-Startup-of-the-Year_Bantu.jpg" alt="Bantu Pte Ltd" style="width:200px"></a></td>
 <td><a href="#tag3"><img src="/images/SE-Champion-of-the-Year-(Corporate)_DBS.jpg" alt="Social Enterprise Champion of the Year (Corporate)" style="width:200px"></a></td> 
 <td><a href="#tag4"><img src="/images/SE-Champion-of-the-Year-(Individual)_Mr-Don-Wong.jpg" alt="Social Enterprise Champion of the Year (Individual)" style="width:200px"></a></td></tr>
-<tr><td><b>Social Enterprise of the Year: </b> Samsui Supplies& Services, Initiated by the Soup ... <br><br><a href="#tag1">See Details</a></td> 
-<td><b>Social Enterprise Start-Up of the Year:</b> Bantu was recognised for building a proprietary ... <br><br><a href="#tag2">See Details</a></td>
-<td><b>Social Enterprise Champion of the Year (Corporate):</b>  DBS Foundation, since its inception ... <br><br> <a href="#tag3">See Details</a></td>
-<td><b>Social Enterprise Champion of the Year (Individual):</b>  Don Wong is the founder of non ... <br><br><a href="#tag4">See Details</a></td></tr>
+<tr><td><b>Social Enterprise of the Year: </b> Samsui Supplies& Services, Initiated by the Soup ... <br><a href="#tag1">See Details</a></td> 
+<td><b>Social Enterprise Start-Up of the Year:</b> Bantu was recognised for building a proprietary ...  <br><a href="#tag2">See Details</a></td>
+<td><b>Social Enterprise Champion of the Year (Corporate):</b>  DBS Foundation, since its inception ...  <br> <a href="#tag3">See Details</a></td>
+<td><b>Social Enterprise Champion of the Year (Individual):</b>  Don Wong is the founder of non ... <br><a href="#tag4">See Details</a></td></tr>
 </table>
 
 <h7><i>Photo Credits: *raiSE Singapore*</i></h7>
