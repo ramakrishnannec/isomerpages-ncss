@@ -49,24 +49,24 @@ Every year, our community outreach and fundraising campaign selects a large numb
 <table cellpadding="10px" cellspacing="10px" width="100%">
 <tr>
 	<td width="200px" id="tag1"><img src="/images/WWD_1_YMCA.jpg" alt="" style="width:200px"></td>
-	<td>YMCA of Singapore equips out-of-school youths and youths-at-risk with skills for future employment<br><Br>
+	<td><b>YMCA of Singapore equips out-of-school youths and youths-at-risk with skills for future employment</b><br><Br>
 Once without purpose, 17-year-old Aleeya now executes multiple responsibilities at One Loaf Coffee. Having lost interest in school, she was referred to the YMCA Project Bridge Vocational and Soft Skills Programme (VaSSP), where she learned latte art and operations-related skills in the Café Experience course. With her newfound confidence, she looks forward to running her own business one day.</td>
 </tr>
 <tr>
 	<td width="200px" id="tag2"><img src="/images/WWD_2_Alex_Chiew_Badminton.jpeg" alt="" style="width:200px"></td>
-	<td>Deaf Sports Association (Singapore) provides the deaf community opportunities to develop their passion in sports<br><Br>
+	<td><b>Deaf Sports Association (Singapore) provides the deaf community opportunities to develop their passion in sports</b><br><Br>
 27-year-old Alex Chiew is one of the deaf athletes in the Training & Development Programme under Deaf Sports Association (Singapore). He started playing badminton with his family since young and has developed passion for the sport ever since. He continued to play badminton competitively in local competitions, such as DSA’s annual National Deaf Games, where he participated three times and gained immense experiences. With years of training and determination, Alex performed well and received a chance to participate in Asia Pacific and World Deaf Badminton Championships in 2018 and 2019 respectively, which he felt honoured to be representing Singapore for the international games.</td>
 </tr>
 <tr>
 	<td width="200px" id="tag3"><img src="/images/WWD_3_Daughter.png" alt="" style="width:200px"></td>
-	<td>Daughters of Tomorrow supports underprivileged women to be financially independent<br><BR>
+	<td><b>Daughters of Tomorrow supports underprivileged women to be financially independent</b><br><BR>
 Sarinah is a Singaporean mom trying to raise 2 daughters, one of whom has leukemia on her husband’s limited income. She had much difficulty finding a job after being a homemaker for 11 years, and had little confidence as her literacy in English is low, and she also needed time during the day to care for her sick child.<br><BR>
 
 With DOT’s support, she got encouragement from a Befriender, and practical support navigating her way to job interviews. DOT eventually discovered her passion in cooking and bridged Sarinah to a kitchen assistant job with an empathetic employer. Since December 2018, she has found new confidence in her job and is now a happy contributor to our F&B industry and a local food establishment the Coconut Club.</td>
 </tr>
 <tr>
 	<td width="200px" id="tag4"><img src="/images/WWD_4_FoodFromHeart.jpg" alt="" style="width:200px"></td>
-	<td>Food from the Heart alleviates hunger through its food distribution programmes<br><BR>
+	<td><b>Food from the Heart alleviates hunger through its food distribution programmes</b><br><BR>
 Single mother Siti Aidah Abdullah, 48, bears the responsibility of supporting her five teenage children alone alongside battling against stage 4 leukemia. She is constantly worried about her next meal and depends heavily on food donations. The family often goes to bed hungry.<br><BR>
 
 Food from the Heart supports Siti with consistent food rations comprising fresh fruit, eggs and bread, as well as non-perishable food items like rice, canned food and cooking oil through its Community Food Pack programme. Siti also received items from the charity’s launch of its Pop-Up Fresh Produce Market on 20 March 2019. She chose to use the items economically and acknowledged the quality of the food, “We didn’t have many other ingredients at home, so we steamed the fish for dinner that night. It was fresh and tasted good with just soy sauce.”</td>
