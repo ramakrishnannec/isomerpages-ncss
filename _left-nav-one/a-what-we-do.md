@@ -13,8 +13,7 @@ President's Challenge is a movement supported by the kindness and generosity of 
 It is the President's call to the nation to do their part to build a more caring and inclusive society.
 
 
-<table width="100%" cellpadding="10px" cellspacing="10px">
-  <tr><td align="center"><h4>FUNDRAISING</h4></td><td align="center"><h4>CARING</h4></td><td align="center"><h4>CELEBRATING</h4></td></tr>
+<table width="100%" cellpadding="10px" cellspacing="10px"><tr><td align="center"><h4>FUNDRAISING</h4></td><td align="center"><h4>CARING</h4></td><td align="center"><h4>CELEBRATING</h4></td></tr>
 <tr><td><a href="#tag1"><img src="/images/wwd_fundraising.jpg" style="width:200px;"></a></td>
 <td><a href="#tag2"><img src="/images/wwd_caring.jpg" style="width:200px"></a></td>
 <td><a href="#tag3"><img src="/images/wwd_celebrating.jpg" style="width:200px"></a></td></tr>
@@ -22,6 +21,8 @@ It is the President's call to the nation to do their part to build a more caring
 <td>The President’s Challenge Volunteer Drive encourages everyone to give their time and talent to help<br><a href="#tag2">See more</a></td>
 <td>The President’s Challenge Social Enterprise Award celebrates the achievements of innovative business<br><a href="#tag3">See more</a></td></tr>
 </table>
+
+
 ###### Photo Credits: CapitaLand, Singapore Polytechnic, YMCA SIngapore, Singapore Centre for Social Enterprise (raiSE)
 
 <iframe width="700" height="419" src="https://www.youtube.com/embed/nY-GEQh3_l4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
