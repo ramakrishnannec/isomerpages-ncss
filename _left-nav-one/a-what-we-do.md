@@ -27,7 +27,7 @@ It is the President's call to the nation to do their part to build a more caring
 <iframe width="700" height="419" src="https://www.youtube.com/embed/nY-GEQh3_l4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-<table width="100%" cellpadding="10px" cellspacing="10px"><tr><td>Initiated by former President S R Nathan in 2000, President's Challenge represents the coming together of people from all walks of life to help the less fortunate. In 2012, under the leadership of President Tony Tan Keng Yam, President's Challenge was expanded to go beyond fundraising, by including volunteerism and social entrepreneurship.  <br><br>
+<table width="100%" cellpadding="10px" cellspacing="10px"><tr><td align="justify">Initiated by former President S R Nathan in 2000, President's Challenge represents the coming together of people from all walks of life to help the less fortunate. In 2012, under the leadership of President Tony Tan Keng Yam, President's Challenge was expanded to go beyond fundraising, by including volunteerism and social entrepreneurship.  <br><br>
   
 In 2015, Dr Tony Tan launched the President’s Challenge Silver Volunteer Fund, a fund which aims to encourage seniors to volunteer their time and age actively. Donations help charities supported by the fund to curate new or expand existing volunteer programmes, recruit volunteers through volunteer management systems, and train and recognise volunteers. President’s Challenge hopes to raise $10 million out of the $40 million needed by 2019 and the Silver Volunteer Fund aims to recruit an additional 50,000 senior volunteers by 2030. <br><br>
 
@@ -61,5 +61,4 @@ The President’s Challenge Social Enterprise Award celebrates the achievements 
 
 <a href="/who-we-are/social-enterprise/">Learn more</a>
 </td></tr>
-
 </table>
