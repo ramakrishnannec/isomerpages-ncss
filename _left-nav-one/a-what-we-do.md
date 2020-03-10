@@ -14,7 +14,7 @@ It is the President's call to the nation to do their part to build a more caring
 
 
 <table width="100%" cellpadding="10px" cellspacing="10px">
-  <tr><td align="center"><h2>FUNDRAISING</h2></td><td align="center"><h2>CARING</h2></td align="center"><td><h2>CELEBRATING</h2></td></tr>
+  <tr><td align="center"><h4>FUNDRAISING</h4></td><td align="center"><h4>CARING</h4></td><td align="center"><h4>CELEBRATING</h4></td></tr>
 <tr><td><a href="#tag1"><img src="/images/wwd_fundraising.jpg" style="width:200px;"></a></td>
 <td><a href="#tag2"><img src="/images/wwd_caring.jpg" style="width:200px"></a></td>
 <td><a href="#tag3"><img src="/images/wwd_celebrating.jpg" style="width:200px"></a></td></tr>
