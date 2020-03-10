@@ -14,7 +14,7 @@ Come and make a difference! Check out what our partners are doing to support Pre
 
 
 <table width="100%" cellpadding="10px" cellspacing="10px"> <tr>
-<td><a href="#tag1"><img src="/images//images/IMG-20190720-WA0018v1.jpg" alt="President’s Challenge PULSE! Sports Fiesta 2019" style="width:200px"></a></td>
+<td><a href="#tag1"><img src="/images/IMG-20190720-WA0018v1.jpg" alt="President’s Challenge PULSE! Sports Fiesta 2019" style="width:200px"></a></td>
 <td><a href="#tag2"><img src="/images/PCF-Eunos_1.jpg" alt="Start Small Dream Big (SSDB) 2018" style="width:200px"></a></td>
 <td><a href="#tag3"><img src="/images/President-s-Challenge-Appreciation-Night.jpg" alt="President's Challenge Appreciation Night 2018" style="width:200px"></a></td></tr>
 <tr><td>The President’s Challenge PULSE! Sports Fiesta 2019, led by youth volunteers from the PA Youth Movement.<br> <a href="#tag1">See Details</a></td> 
@@ -25,7 +25,7 @@ Come and make a difference! Check out what our partners are doing to support Pre
 
 
 
-<table width="100%" cellpadding="10px" cellspacing="10px"><tr><td> <img src="/images//images/IMG-20190720-WA0018v1.jpg" alt="President’s Challenge PULSE! Sports Fiesta 2019" style="width:200px"></td>
+<table width="100%" cellpadding="10px" cellspacing="10px"><tr><td> <img src="/images/IMG-20190720-WA0018v1.jpg" alt="President’s Challenge PULSE! Sports Fiesta 2019" style="width:200px"></td>
 <td>The President’s Challenge PULSE! Sports Fiesta 2019, led by youth volunteers from the PA Youth Movement, brings fellow youths together and encourages them to give back to the community. By leveraging the energy of youth volunteers, President’s Challenge hopes to harness the collective efforts of everyone to provide an ecosystem of support to the vulnerable groups in the community.<BR><BR></td></tr>
  
 <tr><td> <img src="/images/PCF-Eunos_1.jpg" alt="Start Small Dream Big (SSDB) 2018" style="width:200px"> </td>
