@@ -42,7 +42,7 @@ Since 2000, President’s Challenge has raised more than $180 million for its be
 
 <table width="100%" cellpadding="10px" cellspacing="10px">
 <tr><td id="tag1" width="200px"><img src="/images/wwd_fundraising.jpg" style="width:200px"></td>
-<td align="justify">Fund Raising <br><br>
+  <td align="justify"><b>FUNDRAISING</b> <br><br>
 President’s Challenge brings people from all walks of life together to raise funds for the less fortunate. By raising funds, you will be encouraging more people to give back to the community.
 
 Want to fundraise but not sure what do to? <a href="/take-action/partner-with-us/">Click here</a>  for some ideas or 
@@ -50,14 +50,14 @@ Want to fundraise but not sure what do to? <a href="/take-action/partner-with-us
 </td></tr>
 
 <tr><td id="tag2" width="200px"> <img src="/images/wwd_caring.jpg" style="width:200px"> </td>
-<td align="justify">Create Caring<br><br>
+  <td align="justify"><b>CARING</b><br><br>
 The President’s Challenge Volunteer Drive encourages everyone to give their time and talent to help and care for those in need and to create a caring and inclusive society. Since 2012, when the volunteer drive was launched, thousands have come forward to volunteer in various ways.  
 
 <a href="/take-action/volunteer/">Learn more</a>
 </td></tr>
 
 <tr><td id="tag3" width="200px"> <img src="/images/wwd_celebrating.jpg" style="width:200px"> </td>
-<td align="justify">Award Celebration<br><br>
+  <td align="justify"><b>CELEBRATING</b><br><br>
 The President’s Challenge Social Enterprise Award celebrates the achievements of innovative business models who have made significant sustained contributions to help our community.
 
 <a href="/who-we-are/social-enterprise/">Learn more</a>
