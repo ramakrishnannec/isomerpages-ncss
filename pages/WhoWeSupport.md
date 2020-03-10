@@ -73,24 +73,24 @@ Food from the Heart supports Siti with consistent food rations comprising fresh 
 </tr>
 <tr>
 	<td width="200px" id="tag5"><img src="/images/WWD_5_Breakthrough_Missions.jpg" alt="" style="width:200px"></td>
-	<td>Breakthrough Missions provides rehabilitation and skills upgrading for ex-offenders to re-integrate into the community<br><BR>
+	<td><b>Breakthrough Missions provides rehabilitation and skills upgrading for ex-offenders to re-integrate into the community</b><br><BR>
 Pee Kong Eng, 58 years old, is one of the ex-drug offenders who has joined the rehabilitation program of Breakthrough Missions. He had lived a life of crime since young and was imprisoned 5 times. He was almost sentenced to death under the Singapore drug law; instead he was sentenced to 23 years of jail. After release from prison in 2007, he has stayed in Breakthrough Missions where he is strengthened holistically and equipped with the necessary skills for re-integrating into the community. At Breakthrough Café, he now humbly washes dishes and waiting tables.<br><BR>
 
 Kong Eng is one of the many ex-offenders who have benefitted greatly from the programme and we hope to reach out to even more ex-offenders like him. With the brand new washers and refrigerators, our residents can wash their clothes without worry of frequent breakdowns of the machines. Our kitchen staff can also stock up fresh produce without fear of spoiled food.</td>
 </tr>
 <tr>
 	<td width="200px" id="tag6"><img src="/images/WWD_6_ClubHeal.jpg" alt="" style="width:200px"></td>
-	<td>Club HEAL runs rehabilitation programmes for people with mental health conditions and empowers them as mentors to give back to society.<br><BR>
+	<td><b>Club HEAL runs rehabilitation programmes for people with mental health conditions and empowers them as mentors to give back to society.</b><br><BR>
 Diagnosed with depression, 66 year old Carlina Hutabarat A discovered a second home at Club HEAL where she joined the rehabilitation programme and found the activities meaningful and uplifting. Now, she is a peer volunteer in Club HEAL, guiding other peers in handicraft work and pottery. She has graduated from "Our HEALing Voice", a programme in which she learned to view people with mental health issues as having the potential to improve their lives. She also learned how to guide peers to take steps towards recovery and give them support. Carlina is trully empowered.</td>
 </tr>
 <tr>
 	<td width="200px" id="tag7"><img src="/images/WWD_7_BNH_MdmYee.jpg" alt="" style="width:200px"></td>
-	<td>Methodist Welfare Service's Bethany Nursing Home provides crucial eldercare services<br><BR>
+	<td><b>Methodist Welfare Service's Bethany Nursing Home provides crucial eldercare services</b><br><BR>
 Madam Yee Choon How, 79, came under the care of MWS Bethany Nursing Home - Choa Chu Kang in 2016. Bedridden and mentally impaired by a nasty fall, she has since made remarkable recovery, thanks to her husband's unconditional love, the nurses' care and the rehabilitative therapy she received. TO do even more and better for our residents, the Home embarked on a new care re-modelling initiative in late 2018. Besides transforming the space to provide more privacy and give residents greater autonomy, dementia-friendly care facilities will be built to cater for the growing number of residents with dementia.</td>
 </tr>
 <tr>
 	<td width="200px" id="tag8"><img src="/images/WWD_8_NTUC.jpg" alt="" style="width:200px"></td>
-	<td>NTUC-U Care Fund provides customised skills to lift-up low-income families<br><BR>
+	<td><b>NTUC-U Care Fund provides customised skills to lift-up low-income families</b><br><BR>
 Mdm Joanna Yap has been working as a part-time assistant teacher since her divorce. For the sake of her two daughters one of which has special needs, she traded-in her high-flying career to spend more time with them. As a union member and U Care beneficiary, she and her 2 children had the opportunity to participate in the NTUC-U Care Fund’s LIFT-UP programmes. The family had attended a hands-on workshop which made their learning exciting and presented an enjoyable family bonding time. She acknowledged that the exposure to these activities empowered them and looked forward to more opportunities that will help upskill them as a family to enable them do better in life.</td>
 </tr>
 </table>
