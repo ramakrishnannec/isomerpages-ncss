@@ -19,10 +19,10 @@ Every year, supporters of President’s Challenge, people from all walks of life
 <td width="25%"><b>People's Association Community Service Project</b></td>
 <td width="25%"><b>Raffles Girls’ School’s fundraising booth</b></td>
 </tr><tr>
-<td align="center"><a href="#tagP1"> <img src="/images/President-s-Star-Charity.jpg" style="width:200px;height:200px;" alt="President-s-Star-Charity" border="0"> </td>
-<td align="center"><a href="#tagP2"> <img src="/images/PCF-Eunos_2.jpg" style="width:200px;height:200px;" alt="Start Small Dream Big" border="0"> </td>
-<td align="center"><a href="#tagP3"> <img src="/images/PA.jpg" style="width:200px;height:200px;" alt="National Junior College" border="0"> </td>
-<td align="center"><a href="#tagP4"> <img src="/images/Partner-Story4.jpg" style="width:200px;height:200px;" alt="Charity Iftar" border="0"> </td>
+<td align="center"><a href="#tagP1"> <img src="/images/President-s-Star-Charity.jpg" style="width:200px;height:200px;" alt="President-s-Star-Charity" border="0"> </a></td>
+<td align="center"><a href="#tagP2"> <img src="/images/PCF-Eunos_2.jpg" style="width:200px;height:200px;" alt="Start Small Dream Big" border="0"></a> </td>
+<td align="center"><a href="#tagP3"> <img src="/images/PA.jpg" style="width:200px;height:200px;" alt="National Junior College" border="0"> </a></td>
+<td align="center"><a href="#tagP4"> <img src="/images/Partner-Story4.jpg" style="width:200px;height:200px;" alt="Charity Iftar" border="0"></a> </td>
 </tr>
 <tr><td>Don't hide your talent. Share it for a meaningful cause. Give freely, live fully.<br> <a href="#tagP1">See Details</a></td>
 <td>Volunteerism is a good way for families to have fun and feel closer & children learn about compassion. <br> <a href="#tagP2">See Details</a></td>
