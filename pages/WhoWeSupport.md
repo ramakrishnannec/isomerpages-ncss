@@ -19,10 +19,10 @@ Every year, our community outreach and fundraising campaign selects a large numb
 
 <table cellpadding="10px" cellspacing="10px" width="100%">
 <tr>
-	<td><a href="#tag1"><img src="/images/WWD_1_YMCA.jpg" alt="" style="width:200px"></a></td>
-	<td><a href="#tag2"><img src="/images/WWD_2_Alex_Chiew_Badminton.jpeg" alt="" style="width:200px"></a></td>
-	<td><a href="#tag3"><img src="/images/WWD_3_Daughter.png" alt="" style="width:200px"></a></td>
-	<td><a href="#tag4"><img src="/images/WWD_4_FoodFromHeart.jpg" alt="" style="width:200px"></a></td>
+	<td><a href="#tag1"><img src="/images/WWD_1_YMCA.jpg" style="width:200px" alt="YMCS" ></a></td>
+	<td><a href="#tag2"><img src="/images/WWD_2_Alex_Chiew_Badminton.jpeg" style="width:200px"alt="Alex_Chiew_Badminton" ></a></td>
+	<td><a href="#tag3"><img src="/images/WWD_3_Daughter.png" style="width:200px" alt="Daughter" ></a></td>
+	<td><a href="#tag4"><img src="/images/WWD_4_FoodFromHeart.jpg" style="width:200px" alt="Food from Heart" ></a></td>
 </tr>
 <tr>
 	<td>YMCA of Singapore equips out-of-school youths and youths-at-risk with skills for future employment <br><a href="#tag1">See Details</a></td>
@@ -31,10 +31,10 @@ Every year, our community outreach and fundraising campaign selects a large numb
 	<td>Food from the Heart alleviates hunger through its food distribution programmes<br><a href="#tag4">See Details</a></td>
 </tr>
 <tr>
-	<td><a href="#tag5"><img src="/images/WWD_5_Breakthrough_Missions.jpg" alt="" style="width:200px"></a></td>
-	<td><a href="#tag6"><img src="/images/WWD_6_ClubHeal.jpg" alt="" style="width:200px"></a></td>
-	<td><a href="#tag7"><img src="/images/WWD_7_BNH_MdmYee.jpg" alt="" style="width:200px"></a></td>
-	<td><a href="#tag8"><img src="/images/WWD_8_NTUC.jpg" alt="" style="width:200px"></a></td>
+	<td><a href="#tag5"><img src="/images/WWD_5_Breakthrough_Missions.jpg" style="width:200px" alt="Breakthrough Missions" ></a></td>
+	<td><a href="#tag6"><img src="/images/WWD_6_ClubHeal.jpg" style="width:200px" alt="Club Heal" ></a></td>
+	<td><a href="#tag7"><img src="/images/WWD_7_BNH_MdmYee.jpg" style="width:200px" alt="Mdm Yee" ></a></td>
+	<td><a href="#tag8"><img src="/images/WWD_8_NTUC.jpg" style="width:200px" alt="NTUC"></a></td>
 </tr>
 <tr>
 	<td>Breakthrough Missions provides rehabilitation and skills upgrading for ex-offenders to re-integrate into...<br><a href="#tag5">See Details</a></td>
