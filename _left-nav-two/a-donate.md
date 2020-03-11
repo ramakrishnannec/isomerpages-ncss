@@ -18,6 +18,7 @@ Click [here](/whowesupport.md) to find out about the many organisations we raise
 <tr><td width="33%" align="center"> <img src="/images/Donate-Story1.jpg" style="width:200px;height:200px;" alt="" border="0"> </td>
 <td width="34%" align="center"> <img src="/images/person-seeing-doctor.jpg" style="width:200px;height:200px;" alt="" border="0"> </td>
 <td width="33%" align="center"> <img src="/images/Donate-Story3.jpg" style="width:200px;height:200px;" alt="" border="0"> </td></tr>
+<tr><td><b>$10</b> goes a long way in covering books and school fees for disadvantaged children and helps them stay in school.</td>
 <td><b>$50</b> helps subsidise the medical costs for the less fortunate such as their doctor visits and medication.</td>
 <td><b>$100</b> covers skills training costs so that those with intellectual disabilities can lead independent lives.</td></tr></table>
  
