@@ -12,20 +12,26 @@ collection_name: left-nav-two
 
 President’s Challenge Volunteer Drive encourages everyone to be more involved in the community and promote volunteerism as a way of life, making Singapore a more caring and compassionate society. The Volunteer Drive promotes the giving of time and skills.
 
-
 <table width="100%" cellpadding="10px" cellspacing="10px" border="0">
-<tr><td  width="25%"><b>SHARE YOUR SKILLS</b></td>
+<tr>
+<td width="25%"><b>SHARE YOUR SKILLS</b></td>
 <td width="25%"><b>VOLUNTEER YOUR TIME</b></td>
 <td width="25%"><b>SHARE YOUR TALENT</b></td>
-<td width="25%"><b>VOLUNTEER AS A FAMILY</b></td></tr>
-<tr><td width="25%" align="center"><a href="#tagV1"> <img src="/images/Allison2.jpg" style="width:200px;height:200px;" alt="Skills Based Volunteering" border="0"></td>
+<td width="25%"><b>VOLUNTEER AS A FAMILY</b></td>
+</tr>
+<tr>
+<td width="25%" align="center"><a href="#tagV1"> <img src="/images/Allison2.jpg" style="width:200px;height:200px;" alt="Skills Based Volunteering" border="0"></td>
 <td width="25%" align="center"><a href="#tagV2"> <img src="/images/Citi-Sg2.jpg" style="width:200px;height:200px;" alt="Volunteer Your Time" border="0"> </td>
 <td width="25%" align="center"><a href="#tagV3"> <img src="/images/Singtel2.jpg" style="width:200px;height:200px;" alt="Help the disabled" border="0"> </td>
-<td width="25%" align="center"><a href="#tagV4"> <img src="/images/Joanne_1.jpg" style="width:200px;height:200px;" alt="Volunteer with your family" border="0"> </td></tr>
-<tr><td>The skills that you gain from your work can help a charity organisation operate more effectively. <br><a href="#tagV1">See Details</a></td>
+<td width="25%" align="center"><a href="#tagV4"> <img src="/images/Joanne_1.jpg" style="width:200px;height:200px;" alt="Volunteer with your family" border="0"> </td>
+</tr>
+<tr>
+<td>The skills that you gain from your work can help a charity organisation operate more effectively. <br><a href="#tagV1">See Details</a></td>
 <td>A small effort brings so much joy. All you need is some time to spare. <br><a href="#tagV1">See Details</a></td>
 <td>Don’t hide your talent. Share it for a meaningful cause. Give freely, live fully.<br> <a href="#tagV1">See Details</a></td>
-<td>Volunteerism is a good way for families to have fun and feel closer & children learn about compassion.<br> <a href="#tagV1">See Details</a></td></tr></table>
+<td>Volunteerism is a good way for families to have fun and feel closer & children learn about compassion.<br> <a href="#tagV1">See Details</a></td>
+</tr>
+</table>
 
 
 #### VOLUNTEERING OPPORTUNITIES
