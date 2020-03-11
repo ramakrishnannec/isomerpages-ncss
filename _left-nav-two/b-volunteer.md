@@ -20,10 +20,10 @@ President’s Challenge Volunteer Drive encourages everyone to be more involved 
 <td width="25%"><b>VOLUNTEER AS A FAMILY</b></td>
 </tr>
 <tr>
-<td width="25%" align="center"><a href="#tagV1"> <img src="/images/Allison2.jpg" style="width:200px;height:200px;" alt="Skills Based Volunteering" border="0"></td>
-<td width="25%" align="center"><a href="#tagV2"> <img src="/images/Citi-Sg2.jpg" style="width:200px;height:200px;" alt="Volunteer Your Time" border="0"> </td>
-<td width="25%" align="center"><a href="#tagV3"> <img src="/images/Singtel2.jpg" style="width:200px;height:200px;" alt="Help the disabled" border="0"> </td>
-<td width="25%" align="center"><a href="#tagV4"> <img src="/images/Joanne_1.jpg" style="width:200px;height:200px;" alt="Volunteer with your family" border="0"> </td>
+<td width="25%" align="center"><a href="#tagV1"> <img src="/images/Allison2.jpg" style="width:200px;height:200px;" alt="Skills Based Volunteering" border="0"></a></td>
+<td width="25%" align="center"><a href="#tagV2"> <img src="/images/Citi-Sg2.jpg" style="width:200px;height:200px;" alt="Volunteer Your Time" border="0"> </a></td>
+<td width="25%" align="center"><a href="#tagV3"> <img src="/images/Singtel2.jpg" style="width:200px;height:200px;" alt="Help the disabled" border="0"></a> </td>
+<td width="25%" align="center"><a href="#tagV4"> <img src="/images/Joanne_1.jpg" style="width:200px;height:200px;" alt="Volunteer with your family" border="0"> </a></td>
 </tr>
 <tr>
 <td>The skills that you gain from your work can help a charity organisation operate more effectively. <br><a href="#tagV1">See Details</a></td>
