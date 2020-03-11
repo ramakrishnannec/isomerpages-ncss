@@ -19,10 +19,10 @@ Every year, our community outreach and fundraising campaign selects a large numb
 
 <table cellpadding="10px" cellspacing="10px" width="100%">
 <tr>
-	<td><a href="#tag1"><img src="/images/WWD_1_YMCA.jpg" style="width:200px" alt="YMCS" ></a></td>
-	<td><a href="#tag2"><img src="/images/WWD_2_Alex_Chiew_Badminton.jpeg" style="width:200px"alt="Alex_Chiew_Badminton" ></a></td>
-	<td><a href="#tag3"><img src="/images/WWD_3_Daughter.png" style="width:200px" alt="Daughter" ></a></td>
-	<td><a href="#tag4"><img src="/images/WWD_4_FoodFromHeart.jpg" style="width:200px" alt="Food from Heart" ></a></td>
+	<td><a href="#tag1"><img src="/images/WWD_1_YMCA.jpg" width="150px" alt="YMCS" ></a></td>
+	<td><a href="#tag2"><img src="/images/WWD_2_Alex_Chiew_Badminton.jpeg" width="150px"  alt="Alex_Chiew_Badminton" ></a></td>
+	<td><a href="#tag3"><img src="/images/WWD_3_Daughter.png" width="150px"  alt="Daughter" ></a></td>
+	<td><a href="#tag4"><img src="/images/WWD_4_FoodFromHeart.jpg" width="150px"  alt="Food from Heart" ></a></td>
 </tr>
 <tr>
 	<td>YMCA of Singapore equips out-of-school youths and youths-at-risk with skills for future employment <br><a href="#tag1">See Details</a></td>
