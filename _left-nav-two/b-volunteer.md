@@ -119,47 +119,28 @@ Gardening with Friends provides an avenue for seniors 55 years and above to volu
 Contact: Mr Dexter Wong at 6345 0054, dexter@sthildascsc.org.sg or visit [www.sthildascsc.org.sg](www.sthildascsc.org.sg)</td></tr>
 </table>
      
-  
-#### Skills Based Volunteering
+ 
 
-<table width="100%" id="tagV1">
-<tr>
-<td width="40%"><img src="/images/Allison2.jpg" alt="Volunteer Story 1" width="300px"></td>
+<table width="100%" >
+<tr id="tagV1">
+<td width="30%"><img src="/images/Allison2.jpg" alt="Volunteer Story 1" style="width:200px;height:200px;"></td>
   <td align="justify"> From IT skills to food handling practices, 36 corporate volunteers committed over 184 hours in pro bon service to help eight President's Challenge beneficiaries in the 'Done In A Day 2016' programme curated by Empact in support of the President's Challenge Volunteer Drive. <br><br>Public relations agency Allison+Partners, shared their skills and knowledge in media relations to help Trybe, a youth organisation who wanted to reach out to more people and have its work featured in online and print publications.  In another event, ABR Holdings which runs Swensen's shared food handling practices to the South Central Community Family Service Centre which runs a community kitchen.
   </td>
  </tr>
-</table> 
-
-
-
-#### Volunteer Your Time
-
-<table width="100%" id="tagV2">
-<tr>
-<td width="30%"><img src="/images/Citi-Sg2.jpg" alt="Volunteer Story 2" width="300px"></td>
+ <tr id="tagV2">
+<td width="30%"><img src="/images/Citi-Sg2.jpg" alt="Volunteer Story 2" style="width:200px;height:200px;"></td>
   <td align="justify">Meet Rajesh Ramanan, one of the volunteers who brought the residents of Society for the Aged Sick for a 'makan' session to celebrate Father's Day. Rajesh has worked with Citi Singapore for 17 years and he calls Singapore his new home. The event made him realize that we all need to carve out time from our busy schedules to spend time with family and community elders.<br><br>Let us leave you with some wise words from Rajesh: “A small effort brings so much of joy. Citi volunteering is a great opportunity to interact with the local community. It is now our turn, we must not forget to return. We need to show them you care. All you need is some time to spare.”
   </td>
  </tr>
-</table> 
-
- 
-
-#### Help the disabled
-
-<table width="100%" id="tagV3">
-<tr>
-<td width="30%"><img src="/images/Singtel2.jpg" alt="Volunteer Story 3" width="300px"></td>
+ <tr id="tagV3">
+<td width="30%"><img src="/images/Singtel2.jpg" alt="Volunteer Story 3" style="width:200px;height:200px;"></td>
   <td align="justify">
 “The Balloon Man”, as his colleagues fondly call him, has become a familiar sight at the Istana Open House. Mr Teo Ek Thong has been wowing local crowds since he picked up the art of balloon sculpting nine years ago. From realistic Yoshi balloons to smiling Doraemon characters, the delighted expressions on on children’s faces when they receive the product of his painstaking labour constantly encourages him to be the best at what he does.<br><br>Come down to the Istana Open House and pop by the balloon sculpture booth to view the beautiful balloon designs created by Mr Teo and the volunteers of the Singtel Recreation Club.  The Singtel Recreation Club is one of our volunteer partners who work very hard at the open house to raise funds for President's Challenge.  Reach out to us if you are keen to adopt a fundraising booth at the open house.
      </td>
  </tr>
-</table> 
-
-#### Volunteer with your family
  
-<table width="100%" id="tagV4">
-<tr>
-<td width="30%"><img src="/images/Joanne_1.jpg" alt="Volunteer Story 4" width="300px"></td>
+<tr id="tagV4">
+<td width="30%"><img src="/images/Joanne_1.jpg" alt="Volunteer Story 4" style="width:200px;height:200px;"></td>
   <td align="justify">
 When IBM reached out to their staff to encourage them to volunteer for President's Challenge at the Istana open house in 2016, Joanne decided to bring her son along.  Since then, they have been regular volunteers at the drinks stall.<br><br>"Volunteering at the Istana open house has benefitted not just myself, but also my son who has gained confidence in interacting with others." says Joanne.
      </td>
