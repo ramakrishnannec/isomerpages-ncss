@@ -35,9 +35,10 @@ President’s Challenge Volunteer Drive encourages everyone to be more involved 
 #### VOLUNTEERING OPPORTUNITIES
 
 <table>
+ <tr> <td>Organiser</td>  <td><b> Food from the Heart</b> </td></tr>
  <tr> <td>Date</td>  <td> Flexible timing </td></tr>
  <tr> <td>Venue</td>  <td>Food from the Heart 130 Joo Seng Rd #03-01 Singapore 368357  </td></tr>
- <tr> <td>Organiser</td>  <td> Food from the Heart </td></tr>
+
  <tr> <td width="30%">
   <img src="/images/Volunteer_FFTH_OfficialLogo.png" alt="Share Your Skills Programme" width="200px">
   </td>  <td> Share Your Skills Programme
@@ -57,9 +58,10 @@ Please visit [www.foodfromtheheart.sg](www.foodfromtheheart.sg) for more details
 </table>
  <BR><BR>
 <table>
+	<tr><td>Organiser</td>  <td><b>Kwong Wai Shui Hospital </b> </td></tr>
  <tr><td>Date</td>  <td> Every Tuesday, 1:30pm to 4:30pm  </td></tr>
  <tr><td>Venue</td>  <td> Kwong Wai Shiu Hospital, 705 Serangoon Road </td></tr>
- <tr><td>Organiser</td>  <td>Kwong Wai Shui Hospital  </td></tr>
+ 
  <tr><td width="30%"> <img src="/images/Volunteer_Kopitiam.jpg" alt="Kopitiam"  width="200px">  </td>  <td>  Kopitiam
  
 The Kopitiam Diaries Programme
