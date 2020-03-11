@@ -16,26 +16,29 @@ Click [here](/whowesupport.md) to find out about the many organisations we raise
 
 |[![Donate Story 1](/images/Donate-Story1.jpg "Donate Story 1")](#help-the-children)|[![Donate Story 2](/images/person-seeing-doctor.jpg "Donate Story 2")](#rising-medical-costs)|[![Donate Story 3](/images/Donate-Story3.jpg "Donate Story 3")](#help-the-disabled)|  
 | **$10** goes a long way in covering books and school fees for disadvantaged children and ...|**$50** helps subsidise the medical costs for the less fortunate such as their doctor visits ...| **$100** covers skills training costs so those with intellectual disabilities can lead ...|
+
+
+
+<table width="100%" cellpadding="10px" cellspacing="10px" border="0">
+<tr>
+	<td width="33%" align="center"> <img src="" style="width:200px;height:200px;" alt="" border="0"> </td>
+	<td width="34%" align="center"> <img src="" style="width:200px;height:200px;" alt="" border="0"> </td>
+	<td width="33%" align="center"> <img src="" style="width:200px;height:200px;" alt="" border="0"> </td>
+</tr>
+<tr>
+	<td><b>$10</b> goes a long way in covering books and school fees for disadvantaged children and helps them stay in school.</td>
+	<td><b>$50</b> helps subsidise the medical costs for the less fortunate such as their doctor visits and medication.</td>
+	<td><b>$100</b> covers skills training costs so that those with intellectual disabilities can lead independent lives.</td>
+</tr>
+</table>
+
  
 
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/TmRRl--HJ6k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-#### Help the children
-
-|![Donate Story 1](/images/Donate-Story1.jpg "Donate Story 1")| **$10** goes a long way in covering books and school fees for disadvantaged children and helps them stay in school.| 
-
-#### Rising Medical Costs
-
-|![Donate Story 2](/images/person-seeing-doctor.jpg "Donate Story 2")|**$50** helps subsidise the medical costs for the less fortunate such as their doctor visits and medication.|
-
-#### Help the disabled
-
-|![Donate Story 3](/images/Donate-Story3.jpg "Donate Story 3")|**$100** covers skills training costs so that those with intellectual disabilities can lead independent lives.|
-
-
-
+ 
 Make a difference to the lives of our beneficiaries.  Donate now.  
 [![Donate Now](/images/beneficiary1.jpg "Donate Now")](https://www.giving.sg/president-s-challenge)
 
@@ -48,7 +51,6 @@ Donate to support the 59 benefitting organisations supported in 2018 including t
 Make a difference today!  
 
 
-
 ### Donate via Cheque
 
 For cheque donations, please issue to "President's Challenge" and mail to:  
@@ -58,6 +60,5 @@ National Council of Social Service (NCSS)
 Singapore 279621  
  
 * Please provide us with your name, NRIC and contact number if you wish to receive a tax deduction for your donation.
-
 
 ###### Photo Credits: *Singapore Polytechnic, pexels.com*
