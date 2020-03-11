@@ -41,20 +41,20 @@ The President's Challenge is a movement supported by the kindness and generosity
 
 <table width="100%" id="tagP1"> 
   <tr><td width="25%">  <img src="/images/Partner_President_StarCharity.jpg" width="300px"> </td><td> 
-    President’s Star Charity 2018<br>
+   <b> President’s Star Charity 2018</b><br>
    President’s Star Charity by Mediacorp brings together star-power to raise funds for President’s Challenge. In 2018, Singapore's landmark charity event was helmed by President Halimah Yacob and she was joined by Eason Chan and local artiste Zoe Tay in the President’s Star Charity 2018.</td></tr></table>
 <br><BR>
 <table width="100%" id="tagP2"> 
-  <tr><td width="25%">  <img src="/images/Partner_PCF.jpg" width="300px"> </td><td> “Start Small Dream Big” project 2018 <br>The “Start Small Dream Big” project initiated by the Early Childhood Development Agency (ECDA) is an annual series of fundraising and volunteer activities. It was launched in 2015 as part of SG50 and the 15th anniversary of President's Challenge. Participating centres design and implement community service projects for children over a period of six months. Over the years, the pre-schoolers have spent more than one milliion hours on community projects in total. These projects include food donation drives or fundraising for charity organisations and elderly homes to befriending those with disabilities and special needs.</td></tr></table>
+  <tr><td width="25%">  <img src="/images/Partner_PCF.jpg" width="300px"> </td><td><b>“Start Small Dream Big” project 2018</b> <br>The “Start Small Dream Big” project initiated by the Early Childhood Development Agency (ECDA) is an annual series of fundraising and volunteer activities. It was launched in 2015 as part of SG50 and the 15th anniversary of President's Challenge. Participating centres design and implement community service projects for children over a period of six months. Over the years, the pre-schoolers have spent more than one milliion hours on community projects in total. These projects include food donation drives or fundraising for charity organisations and elderly homes to befriending those with disabilities and special needs.</td></tr></table>
 <br><BR>
 <table width="100%"  id="tagP3"> 
-  <tr><td width="25%">  <img src="/images/Partner_NJC_Teachers.jpg" width="300px"> </td><td> 
-   National Junior College's volunteers making Teachers' Day cards <br>
+  <tr><td width="25%">  <img src="/images/Partner_NJC_Teachers.jpg" width="300px"> </td><td> <b>
+   National Junior College's volunteers making Teachers' Day cards</b> <br>
 Volunteers from National Junior College expressed their gratitude towards their teachers by making Teacher’s Day cards with the children supported by Kampung Senang Charity and Education Foundation.</td></tr></table>
 <br><BR>
 <table width="100%"  id="tagP4"> 
-  <tr><td width="25%"> <img src="/images/Partner_PA.jpg" width="300px"> </td><td> 
-Charity Iftar <br> Berita Harian organised the Ramadan charity iftar (breaking of the fast) for 150 service users from various races and religions and raised funds for President’s Challenge.</td></tr></table>
+  <tr><td width="25%"> <img src="/images/Partner_PA.jpg" width="300px"> </td><td> <b>
+   Charity Iftar </b><br> Berita Harian organised the Ramadan charity iftar (breaking of the fast) for 150 service users from various races and religions and raised funds for President’s Challenge.</td></tr></table>
 
 
 ###### Photo Credits: *MCI, Mediacorp, PCF-Eunos Blk 629, Heartware Network, Berita Harian*
