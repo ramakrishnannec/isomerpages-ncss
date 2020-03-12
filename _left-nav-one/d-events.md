@@ -14,9 +14,9 @@ Come and make a difference! Check out what our partners are doing to support Pre
 
 
 <table width="100%" cellpadding="10px" cellspacing="10px"> <tr>
-<td width="33%"><a href="#tag1"><img src="/images/e_event1.jpg" alt="President’s Challenge PULSE! Sports Fiesta 2019" style="width:300px"></a></td>
-<td width="34%"><a href="#tag2"><img src="/images/e_event2.jpg" alt="Start Small Dream Big (SSDB) 2018" style="width:300px"></a></td>
-<td width="33%"><a href="#tag3"><img src="/images/e_event3.jpg" alt="President's Challenge Appreciation Night 2018" style="width:300px"></a></td></tr>
+<td width="33%"><a href="#tag1"><img src="/images/e_event1.jpg" alt="President’s Challenge PULSE! Sports Fiesta 2019" style="width:300px;height:300px;"></a></td>
+<td width="34%"><a href="#tag2"><img src="/images/e_event2.jpg" alt="Start Small Dream Big (SSDB) 2018" style="width:300px;height:300px;"></a></td>
+<td width="33%"><a href="#tag3"><img src="/images/e_event3.jpg" alt="President's Challenge Appreciation Night 2018" style="width:300px;height:300px;"></a></td></tr>
 <tr><td>The President’s Challenge PULSE! Sports Fiesta 2019, led by youth volunteers from the PA Youth Movement.<br> <a href="#tag1">See Details</a></td> 
 <td> Start Small Dream Big (SSDB) 2018 by the Early Childhood Development Agency <br><a href="#tag2">See Details</a></td>
 <td>President's Challenge Appreciation Night 2018<br> <a href="#tag3">See Details</a></td></tr>
