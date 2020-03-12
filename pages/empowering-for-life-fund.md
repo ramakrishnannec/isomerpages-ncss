@@ -29,6 +29,30 @@ The Empowering For Life Fund supports vulnerable groups through skills upgrading
 
 <iframe width="700" height="419" src="https://www.youtube.com/embed/OmLc8SvR_dc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+### "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime"
+
+
+Make a difference today and help the vulnerable bounce back from setbacks and stay adaptable.  
+
+Empower someone's life for the better by donating to President's Challenge's Empowering For Life Fund.  All donations to the Empowering For Life Fund have a dollar-to-dollar matching by the government, capped at $10 million.
+
+100% of the donations for the Empowering For Life Fund goes towards the organisations we support.
+
+* All donations to President's Challenge are entitled to 2.5 times tax deductions
+
+For cheque donations, please issue to "President's Challenge ELF" and mail to:
+
+President's Challenge Secretariat
+National Council of Social Service (NCSS)
+170 Ghim Moh Road #01-02
+Singapore 279621
+ 
+
+* Please provide us with your name, NRIC and contact number if you wish to receive a tax deduction for your donation.
+
+
+
+
 <table cellspacing="10px" cellpadding="10px" border="0" width="100%">
 <tr id="tagE1"><td width="30%"> <img src="/images/EFL_seniors.jpg" style="width:200px;height200px;" border="0" alt="Leveraging on the strengths"></td>
 <td><h4>Leveraging on the strengths of seniors and adults with special needs to achieve meaningful employment.</h4><br><br>
