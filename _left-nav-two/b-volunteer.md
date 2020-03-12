@@ -55,7 +55,7 @@ If you are interested in any of these roles or would like to offer a skill not l
 Please visit [www.foodfromtheheart.sg](www.foodfromtheheart.sg) for more details. 
 </td></tr>
 </table>
-<BR><BR>
+<BR> 
 <table width="100%" cellpadding="10px" cellspacing="10px" border="0">
 	<tr><td>Organiser</td>  <td><b>Kwong Wai Shui Hospital </b> </td></tr>
  <tr><td>Date</td>  <td> Every Tuesday, 1:30pm to 4:30pm  </td></tr>
@@ -68,7 +68,7 @@ Through the Kopitiam Diaries Programme, the senior volunteers gather with the re
 
 Contact: Ms Soon at soongk@kwsh.org.sg or visit [www.kwsh.org.sg](www.kwsh.org.sg) </td></tr>
 </table>
- <BR><BR>
+ <BR> 
 <table width="100%" cellpadding="10px" cellspacing="10px" border="0">
  <tr><td>Organiser</td>  <td> <b>Hua Mei Centre for Successful Ageing, Tsao Foundation</b> </td></tr>
  <tr><td>Date</td>  <td>  On-going programme after the training course </td></tr>
@@ -81,7 +81,7 @@ Seeking volunteers 40 years and above to bring joy to the lives of lonely and fr
 
 Contact: Mr Chronos at 6593 9454 or chronoskwok@tsaofoundation.org, or visit [www.tsaofoundation.org](www.tsaofoundation.org)( </td></tr>
 </table>
- <BR><BR>
+ <BR> 
 <table width="100%" cellpadding="10px" cellspacing="10px" border="0">
  <tr><td>Organiser</td>  <td><b> Filos Community Services Ltd </b></td></tr>
  <tr><td>Date</td>  <td> Two visits per month  </td></tr>
@@ -93,7 +93,7 @@ Looking for volunteers between 35 to 80 years old to visit and befriend elderly 
 
 Contact: Mr Alex Wong at alex@filos.sg/Mrs Christina Wadia at christina.wadia@filos.sg, or call office at 6242 5978 </td></tr>
 </table>
- <BR><BR>
+ <BR> 
 <table width="100%" cellpadding="10px" cellspacing="10px" border="0">
  <tr><td>Organiser</td>  <td><b> TOUCH Home Care, TOUCH Community Services </b> </td></tr>
  <tr><td>Date</td>  <td>  Flexible timing </td></tr>
@@ -105,7 +105,7 @@ Come and befriend seniors living alone with little or no caregiver support. TOUC
 
 Contact: Call 6804 6565, email to: homecare@touch.org.sg or visit [www.touch.org.sg](www.touch.org.sg)  </td></tr>
 </table>
-  <BR><BR> 
+  <BR> 
 <table width="100%" cellpadding="10px" cellspacing="10px" border="0">
  <tr><td>Organiser</td>  <td><b> St Hilda's Community Services </b> </td></tr>
  <tr><td>Date</td>  <td>   1:45pm - 3:30pm on last Thursday of the month </td></tr>
@@ -117,15 +117,25 @@ Gardening with Friends provides an avenue for seniors 55 years and above to volu
 
 Contact: Mr Dexter Wong at 6345 0054, dexter@sthildascsc.org.sg or visit [www.sthildascsc.org.sg](www.sthildascsc.org.sg)</td></tr>
 </table>
-<br><BR><BR>
+<br> 
+<br>
 <table width="100%" cellpadding="10px" cellspacing="10px" border="0">
 <tr id="tagV1">
 <td width="30%"><img src="/images/Allison2.jpg" alt="Volunteer Story 1" style="width:200px;height:200px;"></td>
   <td align="justify"> From IT skills to food handling practices, 36 corporate volunteers committed over 184 hours in pro bon service to help eight President's Challenge beneficiaries in the 'Done In A Day 2016' programme curated by Empact in support of the President's Challenge Volunteer Drive. <br><br>Public relations agency Allison+Partners, shared their skills and knowledge in media relations to help Trybe, a youth organisation who wanted to reach out to more people and have its work featured in online and print publications.  In another event, ABR Holdings which runs Swensen's shared food handling practices to the South Central Community Family Service Centre which runs a community kitchen.  </td> </tr>
+</table>
+<br> 
+<table width="100%" cellpadding="10px" cellspacing="10px" border="0">
  <tr id="tagV2"><td width="30%"><img src="/images/Citi-Sg2.jpg" alt="Volunteer Story 2" style="width:200px;height:200px;"></td>
   <td align="justify">Meet Rajesh Ramanan, one of the volunteers who brought the residents of Society for the Aged Sick for a 'makan' session to celebrate Father's Day. Rajesh has worked with Citi Singapore for 17 years and he calls Singapore his new home. The event made him realize that we all need to carve out time from our busy schedules to spend time with family and community elders.<br><br>Let us leave you with some wise words from Rajesh: “A small effort brings so much of joy. Citi volunteering is a great opportunity to interact with the local community. It is now our turn, we must not forget to return. We need to show them you care. All you need is some time to spare.”  </td> </tr>
+</table>
+<br> 
+<table width="100%" cellpadding="10px" cellspacing="10px" border="0">
  <tr id="tagV3"><td width="30%"><img src="/images/Singtel2.jpg" alt="Volunteer Story 3" style="width:200px;height:200px;"></td>
   <td align="justify">“The Balloon Man”, as his colleagues fondly call him, has become a familiar sight at the Istana Open House. Mr Teo Ek Thong has been wowing local crowds since he picked up the art of balloon sculpting nine years ago. From realistic Yoshi balloons to smiling Doraemon characters, the delighted expressions on on children’s faces when they receive the product of his painstaking labour constantly encourages him to be the best at what he does.<br><br>Come down to the Istana Open House and pop by the balloon sculpture booth to view the beautiful balloon designs created by Mr Teo and the volunteers of the Singtel Recreation Club.  The Singtel Recreation Club is one of our volunteer partners who work very hard at the open house to raise funds for President's Challenge.  Reach out to us if you are keen to adopt a fundraising booth at the open house.     </td> </tr> 
+</table>
+<br> 
+<table width="100%" cellpadding="10px" cellspacing="10px" border="0">
 <tr id="tagV4"><td width="30%"><img src="/images/Joanne_1.jpg" alt="Volunteer Story 4" style="width:200px;height:200px;"></td>
   <td align="justify">When IBM reached out to their staff to encourage them to volunteer for President's Challenge at the Istana open house in 2016, Joanne decided to bring her son along.  Since then, they have been regular volunteers at the drinks stall.<br><br>"Volunteering at the Istana open house has benefitted not just myself, but also my son who has gained confidence in interacting with others." says Joanne.     </td> </tr></table> 
 
