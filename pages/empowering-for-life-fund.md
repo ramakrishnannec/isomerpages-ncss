@@ -19,7 +19,7 @@ It will focus on supporting customised, dedicated services to the most vulnerabl
 ##### "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime"
 
 <table cellspacing="10px" cellpadding="10px" border="0" width="100%">
-	<tr><td><img src="/images/family1.jpg"></td></tr>
+	<tr><td><a href="/take-action/donate/"><img src="/images/family1.jpg" border="0"></a></td></tr>
 	 </table>
 
  
