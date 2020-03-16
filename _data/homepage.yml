@@ -11,20 +11,11 @@ favicon: /images/favicon.ico
 agency-logo: /images/PC20_logo_2.png
 
 # Hero Banner
-#hero-title: President's Challenge 2019 Launch
-#hero-subtitle: President's Challenge 2019 supports 67 benefitting organisations in various sectors from children in need to mental health services.  Join us as we come together as one to create a better future for those in need.
-##hero-banner: /images/banner-25Sep-v1.jpg
-#hero-banner: /images/tuxpi-com-1548843214.jpg
-
 hero-title:  
 hero-subtitle: 
-hero-banner: /images/tuxpi-com-1575443716_2.jpg
-
-#Call to Action Button
-#button:
-#  - text: Learn More
-#    url: /WhoWeSupport/
-    
+hero-banner: /images/FBbanner.jpg
+ 
+# Key Highlights
 key-highlights:
   - title: Donate
     description: 100% of your donations go towards the benefitting organisations supported by President’s Challenge.
@@ -46,9 +37,8 @@ info-sections:
     section-description:  Lend your support to this national movement, to build a caring and inclusive Singapore, where difference in abilities are valued and embraced
     section-more-button: Learn More
     section-more-button-url: /empowering-for-life-fund/
-    section-image-path: /images/FBbanner.jpg
-   
- 
+    section-image-path: /images/EEPLogo.png
+    
 # Resources Section
 resources-title: Media
 resources-subtitle: Be in the know
