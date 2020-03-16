@@ -14,8 +14,6 @@ Be part of the President’s Challenge and make someone’s wishes come true.
 Help the less fortunate in our community and make a donation today. 
 The funds raised will make a difference in their lives.
 
-Click [here](/whowesupport.md) to find out about the many organisations we raise funds for, who offer a wide range of services for the people under their care.
-
 <table width="100%" cellpadding="10px" cellspacing="10px" border="0">
 <tr><td width="33%" align="center"> <img src="/images/Donate-Story1.jpg" style="width:200px;height:200px;" alt="" border="0"> </td>
 <td width="34%" align="center"> <img src="/images/person-seeing-doctor.jpg" style="width:200px;height:200px;" alt="" border="0"> </td>
