@@ -16,8 +16,8 @@ agency-logo: /images/PC20_logo_2.png
 ##hero-banner: /images/banner-25Sep-v1.jpg
 #hero-banner: /images/tuxpi-com-1548843214.jpg
 
-hero-title: President's Challenge Appreciation Night 2019
-hero-subtitle: The support received from the community in Singapore has enabled President’s Challenge to meet the changing needs of the vulnerable in Singapore, including more customised and upstream support in skills upgrading and employability.  Thank you to all our donors and volunteers for making a difference.
+hero-title:  
+hero-subtitle: 
 hero-banner: /images/tuxpi-com-1575443716_2.jpg
 
 #Call to Action Button
@@ -27,14 +27,17 @@ hero-banner: /images/tuxpi-com-1575443716_2.jpg
     
 key-highlights:
   - title: Donate
-    description: 100% of your donations go towards the benefiting organisations supported by President’s Challenge.
+    description: 100% of your donations go towards the benefitting organisations supported by President’s Challenge.
     url: /Donate/
   - title: VOLUNTEER
     description: Be a part of President’s Challenge Volunteer Drive and make a difference in someone’s life.
     url: /Volunteer/
-  - title: FUND RAISE
+  - title: FUNDRAISE
     description: Do you want to give back as an organisation? Partner with us.
     url: /PartnerWithUs/
+  - title: Enabling Employment Pledge
+    description: Pledge your inclusive support today.
+    url: /empowering-for-life-fund/
 
 # Info Sections
 info-sections:
