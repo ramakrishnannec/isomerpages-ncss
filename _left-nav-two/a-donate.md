@@ -10,9 +10,12 @@ collection_name: left-nav-two
 
 ![Donate Banner](/images/Donate-banner_1.jpg "Donate Banner")
 
-Be part of the President’s Challenge and make someone’s wishes come true. 
-Help the less fortunate in our community and make a donation today. 
-The funds raised will make a difference in their lives.
+#### Be part of the President’s Challenge and make someone’s wishes come true. 
+
+#### Help the less fortunate in our community and make a donation today. 
+
+#### The funds raised will make a difference in their lives.
+
 
 <table width="100%" cellpadding="10px" cellspacing="10px" border="0">
 <tr><td width="33%" align="center"> <img src="/images/Donate-Story1.jpg" style="width:200px;height:200px;" alt="" border="0"> </td>
