@@ -10,7 +10,9 @@ collection_name: left-nav-two
 
 ![Donate Banner](/images/Donate-banner_1.jpg "Donate Banner")
 
-Help those less fortunate in our communities and make a donation today. The funds raised will make a difference in their lives.
+Be part of the President’s Challenge and make someone’s wishes come true. 
+Help the less fortunate in our community and make a donation today. 
+The funds raised will make a difference in their lives.
 
 Click [here](/whowesupport.md) to find out about the many organisations we raise funds for, who offer a wide range of services for the people under their care.
 
@@ -26,18 +28,11 @@ Click [here](/whowesupport.md) to find out about the many organisations we raise
       <iframe width="560" height="315" src="https://www.youtube.com/embed/TmRRl--HJ6k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
  
-Make a difference to the lives of our beneficiaries.  Donate now.  
+Donate to support the benefitting agencies supported by President’s Challenge, including those supported under the Empowering for Life Fund. 100% of your donations will go towards the agencies we support. Make a difference today! 
+
 [![Donate Now](/images/beneficiary1.jpg "Donate Now")](https://www.giving.sg/president-s-challenge)
 
-Be a part of the President’s Challenge and make someone’s wishes come true.  
-Donate to support the 59 benefitting organisations supported in 2018 including those supported under the Empowering For Life (ELF) Fund. 
-
-**Donations to ELF enjoy dollar-for-dollar matching from the Government.**
-
-100% of your donations go towards the benefiting organisations we support.   
-Make a difference today!  
-
-
+ 
 ### Donate via Cheque
 
 For cheque donations, please issue to "President's Challenge" and mail to:  
@@ -46,6 +41,3 @@ National Council of Social Service (NCSS)
 170 Ghim Moh Road #01-02  
 Singapore 279621  
  
-* Please provide us with your name, NRIC and contact number if you wish to receive a tax deduction for your donation.
-
-###### Photo Credits: *Singapore Polytechnic, pexels.com*
