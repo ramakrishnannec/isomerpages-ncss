@@ -10,8 +10,8 @@ breadcrumb: Empowering for Life Fund
 ### EMPOWERING FOR LIFE FUND
 
 President’s Challenge aims to help disadvantaged groups change their circumstances and bring about more sustained changes to the lives of those we impact. The President’s Challenge Empowering for Life Fund will fund programmes to help the less fortunate, in the areas of skills upgrading, capacity-building and employment. 
-It will focus on supporting customised, dedicated services to the most vulnerable groups, and facilitate their integration into society. The programmes that it fund will handhold the most disadvantaged families bounce back quickly from setbacks and stay adaptable. 
 
+It will focus on supporting customised, dedicated services to the most vulnerable groups, and facilitate their integration into society. The programmes that it fund will handhold the most disadvantaged families bounce back quickly from setbacks and stay adaptable. 
 
 
 <iframe width="700" height="419" src="https://www.youtube.com/embed/OmLc8SvR_dc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
