@@ -41,25 +41,13 @@ key-highlights:
 
 # Info Sections
 info-sections:
-  - section-title: 
-    section-subtitle: 
-    section-description: 100% of your donations go towards the benefiting organisations supported by President’s Challenge.
-    section-more-button: DONATE
-    section-more-button-url: /Donate/
+  - section-title: President's Challenge Enabling Employment Pledge 
+    section-subtitle: Lend your support to this national movement, to build a caring and inclusive Singapore, where difference in abilities are valued and embraced
+    section-description:  
+    section-more-button: Learn More
+    section-more-button-url: /empowering-for-life-fund/
     section-image-path: /images/little-boy-donating.jpg
-  - section-title: 
-    section-subtitle: 
-    section-description: Be a part of President’s Challenge Volunteer Drive and make a difference in someone’s life.
-    section-more-button: VOLUNTEER
-    section-more-button-url: /Volunteer/
-    section-image-path: /images/volunteer-with-senior.jpg
-  - section-title: 
-    section-subtitle: 
-    section-description: Do you want to give back as an organisation? Partner with us.
-    section-more-button: FUND RAISE
-    section-more-button-url: /PartnerWithUs/
-    section-image-path: /images/raffles-fundraising.jpg
-
+   
  
 # Resources Section
 resources-title: Media
