@@ -22,12 +22,13 @@ By signing this Pledge, I reaffirm my commitment to:<br>
 <li>Create a work culture that welcomes and respects employees with disabilities</li>
 <li>Treat employees with disabilities fairly and with dignity</li>
 <li>Enable employees with disabilities to have access to information, activities and opportunities at work like the other employees</li>
+</ul>
 <br>
 <br>
 <b>Create barrier-free workplace environments</b>
 <ul><li>Create a conducive workplace that is non-discriminatory, safe and friendly to employees with disabilities</li>
 <li>Ensure that work-related programmes and facilities are accessible to employees with disabilities</li>
-<li>Embrace innovation and technology as enablers to employability, productivity and independence of employees with disabilities at the workplace</li>
+<li>Embrace innovation and technology as enablers to employability, productivity and independence of employees with disabilities at the workplace</li></ul>
 <br>
 <br>
 <b>Implement supportive employment policies for employees with disabilities</b>
@@ -35,14 +36,12 @@ By signing this Pledge, I reaffirm my commitment to:<br>
 <li>Explore adjustments or redesign job roles or work processes to enable employees with disabilities to showcase and develop their strengths and capabilities</li>
 <li>Leverage available resources and support (both internal and external) for employers to hire and train persons with disabilities</li>
 <li>Help employees with disabilities transition smoothly from school/training to work, and help them to upgrade and embark on lifelong learning</li>
-<li>Exchange best practices with other employers on how to better support employees with disabilities. </li>
+<li>Exchange best practices with other employers on how to better support employees with disabilities. </li></ul>
 <br>
 <br>
-  <img src="images/pledge_logo.jpg">
-So, pledge your inclusive support today! 
-
-  <a href="https://form.gov.sg/#!/5e4a00425cb1370011a1d85c"><img src="images/pledge_logo.jpg" border="0"></a>
-
-< 
+</td></tr>
+<tr><td align="center">  <img src="images/pledge_logo.jpg">
+  <br>So, pledge your inclusive support today! 
+  <br>  <a href="https://form.gov.sg/#!/5e4a00425cb1370011a1d85c"><img src="images/pledge_footer_image.jpg" border="0"></a>
 </td></tr></table>
 
