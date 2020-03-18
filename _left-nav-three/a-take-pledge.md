@@ -11,10 +11,10 @@ collection_name: left-nav-three
 <tr><td>
 <h2>ENABLING EMPLOYMENT PLEDGE</h2>
 
-<br>The President’s Challenge advocates for employers to empower persons with disabilities so that they can achieve their full potential.<br>
-For persons with disabilities, employment helps in their social inclusion, personal development, financial independence and overall well-being. For employers, this is an excellent opportunity to tap on the pool of talent, skills and experience from the community of persons with disabilities. The employment of persons with disabilities will also inject positive workplace diversity within the organisation.<br>
-Persons with disabilities deserve the opportunity to show their capabilities, but too often, only their disability is noticed at first. They face challenges when it comes to employment, job retention and career development. Those who gain employment sometimes end up in limited categories of work or have fewer career advancement opportunities when they can actually be just as capable as their peers, with the right accommodations. <br>
-Therefore, my support as an employer is important in this national movement to build a caring and inclusive Singapore, where differences in abilities are valued and embraced..<br>
+<br>The President’s Challenge advocates for employers to empower persons with disabilities so that they can achieve their full potential.<br><br>
+For persons with disabilities, employment helps in their social inclusion, personal development, financial independence and overall well-being. For employers, this is an excellent opportunity to tap on the pool of talent, skills and experience from the community of persons with disabilities. The employment of persons with disabilities will also inject positive workplace diversity within the organisation.<br><br>
+Persons with disabilities deserve the opportunity to show their capabilities, but too often, only their disability is noticed at first. They face challenges when it comes to employment, job retention and career development. Those who gain employment sometimes end up in limited categories of work or have fewer career advancement opportunities when they can actually be just as capable as their peers, with the right accommodations. <br><br>
+Therefore, my support as an employer is important in this national movement to build a caring and inclusive Singapore, where differences in abilities are valued and embraced..<br><br>
 By signing this Pledge, I reaffirm my commitment to:<br>
 <br>
 <b>Adopt an inclusive mindset towards employees with disabilities</b>
@@ -40,7 +40,7 @@ By signing this Pledge, I reaffirm my commitment to:<br>
 <br>
 <br>
 </td></tr>
-<tr><td align="center">  <img src="images/pledge_logo.jpg">
+<tr><td align="center">  <img src="images/pledge_logo.jpg" style="width:300px;height:300px;">
   <br>So, pledge your inclusive support today! 
   <br>  <a href="https://form.gov.sg/#!/5e4a00425cb1370011a1d85c"><img src="images/pledge_footer_image.jpg" border="0"></a>
 </td></tr></table>
