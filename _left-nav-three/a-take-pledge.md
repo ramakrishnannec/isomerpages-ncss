@@ -40,8 +40,8 @@ By signing this Pledge, I reaffirm my commitment to:<br>
 <br>
 <br>
 </td></tr>
-<tr><td align="center">  <img src="images/pledge_logo.jpg" style="width:300px;height:300px;">
-  <br>So, pledge your inclusive support today! 
-  <br>  <a href="https://form.gov.sg/#!/5e4a00425cb1370011a1d85c"><img src="images/pledge_footer_image.jpg" border="0"></a>
+<tr><td align="center">  <img src="images/pledge_logo.jpg" style="width:300px;height:300px;"><br>
+  <div align="center"><br>So, pledge your inclusive support today! </div>
+  <br>  <a href="https://form.gov.sg/#!/5e4a00425cb1370011a1d85c"><img src="images/pledge_footer_image.jpg" border="0" align="center"></a>
 </td></tr></table>
 
