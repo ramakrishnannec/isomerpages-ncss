@@ -34,7 +34,7 @@ In the same year, the <b>National Council of Social Service (NCSS)</b> took over
 </table>
  
   <table widh="100%">
-  <tr><td colspan="2"> <b>Year 2020</b></td></tr>  
+  <tr><td colspan="2"> <b>Year 2018</b></td></tr>  
    <tr><td width="30%"><img src="/images/Milestones-HalimahYacob.jpg" alt="Halimah Yacob"></td><td>
  
 
@@ -47,9 +47,9 @@ Going forward, President Halimah Yacob hopes for Singaporeans to look into more 
 </table>
 
  <table widh="100%">
-  <tr><td colspan="2"> <b>Year 2018</b></td></tr> 
-  <tr><td colspan="2"> <img src="/images/pledge_footer_image.jpg" ></td></tr>
-   <tr><td width="30%"></td><td>
+ 
+  <tr><td  > <img src="/images/elf-banner.jpg" ></td></tr>
+   <tr> <td>
   
 At the President's Challenge 2018 Launch, President Halimah Yacob announced the new <b>"Empowering for Life Fund" (ELF)</b>, a fund supporting vulnerable groups through skills upgrading, capacity-building and employment. Donations to ELF will receive dollar-to-dollar matching from the Government. This means that over the next five years, $20 million will be set aside for ELF programmes under the President's Challenge.<br><br>
 
@@ -58,9 +58,9 @@ ELF will focus on supporting customised, dedicated services to the most vulnerab
    </table>
 
  <table widh="100%">
-  <tr><td colspan="2"> <b>Year 2018</b></td></tr>  
- <tr><td colspan="2"> <img src="/images/pledge_footer_image.jpg" ></td></tr>
-   <tr><td width="30%"></td><td>
+  <tr><td > <b>Year 2020</b></td></tr>  
+ <tr><td  > <img src="/images/pledge_footer_image.jpg" ></td></tr>
+   <tr> <td>
   President Halimah Yacob launched the President’s Challenge Enabling Employment Pledge at the launch of PC2020 to rally employers to provide more employment opportunities to persons with disabilities. The President’s Challenge Enabling Employment Pledge calls on employers to adopt an inclusive mindset, create barrier-free workplace environments and implement supportive employment policies for employees with disabilities. <br><br>
 
 Through the Enabling Employment Pledge, President’s Challenge hopes to encourage more employers to take the first step and open their doors to persons with disabilities. Employers who sign the Pledge can look forward to greater support in their effort to train, hire and integrate employees with disabilities. 
