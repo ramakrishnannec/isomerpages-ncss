@@ -20,7 +20,7 @@ ELF will focus on supporting customised, dedicated services to the most vulnerab
  
 Since 2000, President’s Challenge has raised more than $180 million for its benefitting organisations. Every dollar donated to President’s Challenge goes directly to the benefitting organisations, thanks to our Challenge sponsors Singapore Pools and Singapore Totalisator Board, which provide grants to cover the operating costs of President’s Challenge.</td></tr>
 </table>
-
+<br>
 
 <table width="100%" cellpadding="10px" cellspacing="10px"><tr><td align="center"><h4>FUNDRAISING</h4></td><td align="center"><h4>CARING</h4></td><td align="center"><h4>CELEBRATING</h4></td></tr>
 <tr><td><a href="#tag1"><img src="/images/wwd_fundraising.jpg" style="width:200px;"></a></td>
@@ -36,7 +36,7 @@ Since 2000, President’s Challenge has raised more than $180 million for its be
 
 <iframe width="700" height="419" src="https://www.youtube.com/embed/nY-GEQh3_l4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
+<br>
 
 
 <table width="100%" cellpadding="10px" cellspacing="10px">
