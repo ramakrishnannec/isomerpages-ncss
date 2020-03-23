@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Take the Inclusive Employment Pledge
-permalink: /inclusive-employment-pledge/take-pledge
-breadcrumb: Take the Inclusive Employment Pledge
+title: Take the Enabling Employment Pledge
+permalink: /enabling-employment-pledge/take-pledge
+breadcrumb: Take the Enabling Employment Pledge
 collection_name: left-nav-three
 ---
 
