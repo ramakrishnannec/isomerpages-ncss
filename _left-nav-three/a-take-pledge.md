@@ -48,5 +48,7 @@ By signing this Pledge, I reaffirm my commitment to:<br>
 <tr><td align="center">  <img src="images/pledge_logo.jpg" style="width:300px;height:300px;"><br>
   <div align="center"><br>So, pledge your inclusive support today! </div>
   <br>  <a href="https://form.gov.sg/#!/5e4a00425cb1370011a1d85c" target="_blank"><img src="images/pledge_footer_image.jpg" border="0" align="center"></a>
+  <br><br>
+  Photo credits: Club Rainbow, Muscular Dystrophy Association (Singapore)
 </td></tr></table>
 
