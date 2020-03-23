@@ -91,8 +91,6 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
 
 ### Benefitting Organisations
 
-| BENEFITTING ORGANISATIONS |
-|-------------|
 | [Children, Youth & Family](#children-youth-and-family) |
 | [Disability](#disability-list)  |
 | [Eldercare](#eldercare-list)  |
