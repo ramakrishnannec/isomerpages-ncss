@@ -44,7 +44,7 @@ President’s Challenge reserves the right, in its sole discretion, to terminate
 
 #### **Privacy Statement**
 
-Please click here [URL to Privacy Statement] to view this Website’s Privacy Statement. Please review the Privacy Statement to understand how President’s Challenge collects, uses and discloses information collected and received from you.
+Please [click here](/privacy/) to view this Website’s Privacy Statement. Please review the Privacy Statement to understand how President’s Challenge collects, uses and discloses information collected and received from you.
 
 #### **Governing law**
 
