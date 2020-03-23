@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Social Enterprise
+title: PC Social Enterprise Awards
 permalink: /who-we-are/social-enterprise/
-breadcrumb: Social Enterprise
+breadcrumb: PC Social Enterprise Awards
 collection_name: left-nav-one
 ---
 
@@ -12,21 +12,7 @@ collection_name: left-nav-one
 We celebrate outstanding social enterprises (SEs) who have made impactful, innovative and sustainable contributions to our community.
 We hope these awards spark more individuals, particularly our youths, to develop business ventures that also serve social causes.
 
-
  
-<table width="100%" cellpadding="10px" cellspacing="10px"> <tr>
-<td><a href="#tag1"><img src="/images/SE-of-the-Year_Samsui.jpg" alt="Samsui Supplies & Services Pte Ltd" style="width:200px;height:200px;"></a></td>
-<td><a href="#tag2"><img src="/images/SE-Startup-of-the-Year_Bantu.jpg" alt="Bantu Pte Ltd" style="width:200px;height:200px;"></a></td>
-<td><a href="#tag3"><img src="/images/SE-Champion-of-the-Year-(Corporate)_DBS.jpg" alt="Social Enterprise Champion of the Year (Corporate)" style="width:200px;height:200px;"></a></td> 
-<td><a href="#tag4"><img src="/images/SE-Champion-of-the-Year-(Individual)_Mr-Don-Wong.jpg" alt="Social Enterprise Champion of the Year (Individual)" style="width:200px;height:200px;"></a></td></tr>
-<tr><td><b>Social Enterprise of the Year: </b> Samsui Supplies& Services, Initiated by the Soup ... <br><a href="#tag1">See Details</a></td> 
-<td><b>Social Enterprise Start-Up of the Year:</b> Bantu was recognised for building a proprietary ...  <br><a href="#tag2">See Details</a></td>
-<td><b>Social Enterprise Champion of the Year (Corporate):</b>  DBS Foundation, since its inception ...  <br> <a href="#tag3">See Details</a></td>
-<td><b>Social Enterprise Champion of the Year (Individual):</b>  Don Wong is the founder of non ... <br><a href="#tag4">See Details</a></td></tr>
-</table>
-
-<h7><i>Photo Credits: *raiSE Singapore*</i></h7>
-
 <table width="100%" cellpadding="10px" cellspacing="10px">
 <tr><td id="tag1" width="200px"> 
 <img src="/images/SE-of-the-Year_Samsui.jpg" alt="Samsui Supplies & Services Pte Ltd" style="width:200px"></td>
@@ -52,6 +38,7 @@ Through his help and mentorship, many individuals have been inspired and gone on
 
 </td></tr></table> 
 
+<h7><i>Photo Credits: *raiSE Singapore*</i></h7>
 
 <table width="100%" cellpadding="10px" cellspacing="10px"><tr><td>
  Besides the awards above, see the list of finalists for 2019 <a href="http://www.raise.sg/president-s-challenge-social-enterprise-award.html" target="_blank">Click here</a><br><br></td></tr></table> 
