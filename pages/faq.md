@@ -19,7 +19,7 @@ title: FAQ
 > Let us know your request to remain anonymous and we will respect your request. 
 
 #### 4. How much tax deductions do I qualify for when I make a donation? 
-> All outright cash donations given by individuals or corporations to charities with tax-deductible status will be entitled to tax deductions. From 1 January 2016 to 31 December 2018, donors are entitled to 250% tax deduction for qualifying donations. Therefore, if you give $100 to a charity, you will be entitled to tax deduction for the amount of $250. For more information on tax deductions, visit www.iras.gov.sg. 
+> All outright cash donations given by individuals or corporations to charities with tax-deductible status will be entitled to tax deductions. From 1 January 2016 to 31 December 2018, donors are entitled to 250% tax deduction for qualifying donations. Therefore, if you give $100 to a charity, you will be entitled to tax deduction for the amount of $250. For more information on tax deductions, visit [www.iras.gov.sg](https://www.iras.gov.sg/irashome/default.aspx)
 
 #### 5. Will I receive a tax deductible receipt for my donation? 
 > In support of green efforts to save the environment, we will not be issuing any receipts for donation unless upon request. Regardless of your donation amount, we will help to submit your tax deduction to IRAS as long as you provide your Singapore identification number when making a donation. 
@@ -36,7 +36,7 @@ title: FAQ
 ## **FUNDING**
 
 #### 1. I work for a charity in Singapore. How can my organisation apply to be a President’s Challenge benefiting organisation?
-> To be considered for a nomination as a President’s Challenge benefiting organisation, your organisation must have attained an Institute of Public Character (IPC) status that remains valid in the financial year when the funds are disbursed. You may apply for IPC status at www.charities.gov.sg.
+> To be considered for a nomination as a President’s Challenge benefiting organisation, your organisation must have attained an Institute of Public Character (IPC) status that remains valid in the financial year when the funds are disbursed. You may apply for IPC status at [www.charities.gov.sg](https://www.charities.gov.sg/Pages/Home.aspx)
  
 > Applications for funding generally open in September for the following year. You can download the application form from our website or contact your respective Sector Administrator for the application details.
 
@@ -179,4 +179,4 @@ The application forms for PC and PC-ELF are different. Hence, agencies are requi
 - Raffle |
  
 #### 3. What should I do if I wish to conduct a public fundraising event to raise funds for President's Challenge? 
-> A House to House and Street Collections licence is required if you are organising a fundraising event or activity that appeals for donations from the public. To apply for the licence, please visit the Singapore Police Force website at www.police.gov.sg.  
+> A House to House and Street Collections licence is required if you are organising a fundraising event or activity that appeals for donations from the public. To apply for the licence, please visit the Singapore Police Force website at [www.police.gov.sg](https://www.police.gov.sg/)
