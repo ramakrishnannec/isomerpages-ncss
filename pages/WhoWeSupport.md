@@ -16,34 +16,7 @@ Every year, our community outreach and fundraising campaign selects a large numb
 
 [![Donate Now](/images/beneficiary1.jpg "Donate Now")](https://www.giving.sg/president-s-challenge)
 
-
-<table cellpadding="10px" cellspacing="10px" width="100%">
-<tr>
-	<td><a href="#tag1" align="center" width="25%"><img src="/images/WWD_1_YMCA.jpg" style="width:170px;height:170px;"  alt="YMCS"  ></a></td>
-	<td><a href="#tag2" align="center" width="25%"><img src="/images/WWD_2_Alex_Chiew_Badminton.jpeg" style="width:170px;height:170px;"  alt="Alex_Chiew_Badminton" ></a></td>
-	<td><a href="#tag3" align="center" width="25%"><img src="/images/WWD_3_Daughter.png"  style="width:170px;height:170px;" alt="Daughter" ></a></td>
-	<td><a href="#tag4" align="center" width="25%"><img src="/images/WWD_4_FoodFromHeart.jpg"  style="width:170px;height:170px;"  alt="Food from Heart" ></a></td>
-</tr>
-<tr>
-	<td>YMCA of Singapore equips out-of-school youths and youths-at-risk with skills for future employment <br><a href="#tag1">See Details</a></td>
-	<td>Deaf Sports Association (Singapore) develops the deaf community’s passion in sports<br><a href="#tag2">See Details</a></td>
-	<td>Daughters of Tomorrow supports underprivileged women to be financially-independent<br><a href="#tag3">See Details</a></td>
-	<td>Food from the Heart alleviates hunger through its food distribution programmes<br><a href="#tag4">See Details</a></td>
-</tr>
-<tr>
-	<td><a href="#tag5" align="center"><img src="/images/WWD_5_Breakthrough_Missions.jpg" style="width:170px;height:170px;"   alt="Breakthrough Missions" ></a></td>
-	<td><a href="#tag6" align="center"><img src="/images/WWD_6_ClubHeal.jpg"  style="width:170px;height:170px;"  alt="Club Heal" ></a></td>
-	<td><a href="#tag7" align="center"><img src="/images/WWD_7_BNH_MdmYee.jpg" style="width:170px;height:170px;"   alt="Mdm Yee" ></a></td>
-	<td><a href="#tag8" align="center"><img src="/images/WWD_8_NTUC.jpg" style="width:170px;height:170px;"   alt="NTUC"></a></td>
-</tr>
-<tr>
-	<td>Breakthrough Missions provides rehabilitation and skills upgrading for ex-offenders to re-integrate into...<br><a href="#tag5">See Details</a></td>
-	<td>Club HEAL runs rehabilitation programmes for people with mental health conditions and empowers them<br><a href="#tag6">See Details</a></td>
-	<td>Methodist Welfare Services' Bethany Nursing Home provides crucial eldercare services<br><a href="#tag7">See Details</a></td>
-	<td>NTUC-U Care Fund provides customised skills to lift-up low-income families<br><a href="#tag8">See Details</a></td>
-</tr>
-</table>
-
+[Benefitting Organisations](#benefitting-organisations)
  
 <table cellpadding="10px" cellspacing="10px" width="100%">
 <tr>
@@ -116,6 +89,7 @@ Mdm Joanna Yap has been working as a part-time assistant teacher since her divor
 </table>
 
 
+### Benefitting Organisations
 
 | BENEFITTING ORGANISATIONS |
 |-------------|
