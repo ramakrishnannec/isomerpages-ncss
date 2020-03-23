@@ -18,7 +18,7 @@ Setting up a charity in Singapore<br>
 [Charity Portal – Home](http://www.charities.gov.sg/){:target="_blank"}
 
 Apply for a Fundraising License<br>
-[Charity Portal – HomeSingapore Police Force – Guidelines on House-to-House and Street Collections Licence](https://www.police.gov.sg/e-services/apply/licenses-and-permits/house-to-house-and-streets-collection){:target="_blank"}
+[Singapore Police Force – Guidelines on House-to-House and Street Establishment Licence](https://www.police.gov.sg/e-Services/Police-Licences/House-To-House-and-Street-Establishment-Licence){:target="_blank"}
 
 National Volunteer & Philanthropy Centre of Singapore (NVPC)<br>
 [National Volunteer & Philanthropy Centre of Singapore (NVPC) – Home](http://www.nvpc.org.sg/){:target="_blank"}
