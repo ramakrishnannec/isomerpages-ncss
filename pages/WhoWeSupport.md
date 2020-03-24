@@ -146,6 +146,7 @@ Every year, our community outreach and fundraising campaign selects a large numb
 <tr><td> Empowering for Life Fund
 </td></tr>
 <tr><td>
+ <ol>
 <li><a href="http://www.clubheal.org.sg/" target='_blank'>Club HEAL</a></li>
 <li><a href="http://www.minds.org.sg/ " target='_blank'>Movement for the Intellectually Disabled of SIngapore</a></li>
 <li><a href="https://www.mdas.org.sg/" target='_blank'>Muscular Dystrophy Association (Singapore)</a></li>
