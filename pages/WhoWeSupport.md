@@ -11,11 +11,6 @@ breadcrumb: Donate
 
 Every year, our community outreach and fundraising campaign selects a large number of benefitting organisations to support and raise funds for so that they can focus on their mission and cause.  President's Challenge's support covers various sectors from children & family services, healthcare & eldercare, disability services and rehabilitation of ex-offenders.
 
- 
-#### MAKE A DIFFERENCE TODAY
-
-[![Donate Now](/images/beneficiary1.jpg "Donate Now")](https://www.giving.sg/president-s-challenge)
-
 [Benefitting Organisations](#benefitting-organisations)
  
 <table cellpadding="10px" cellspacing="10px" width="100%">
