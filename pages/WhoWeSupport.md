@@ -13,190 +13,152 @@ Every year, our community outreach and fundraising campaign selects a large numb
 
 [Benefitting Organisations](#benefitting-organisations)
  
-<table cellpadding="10px" cellspacing="10px" width="100%">
-<tr>
-	<td width="200px" id="tag1"><img src="/images/WWD_1_YMCA.jpg" alt="" style="width:200px"></td>
-	<td><b>YMCA of Singapore equips out-of-school youths and youths-at-risk with skills for future employment</b><br><Br>
-Once without purpose, 17-year-old Aleeya now executes multiple responsibilities at One Loaf Coffee. Having lost interest in school, she was referred to the YMCA Project Bridge Vocational and Soft Skills Programme (VaSSP), where she learned latte art and operations-related skills in the Café Experience course. With her newfound confidence, she looks forward to running her own business one day.</td>
-</tr></table>
-<br>
-	
-<table cellpadding="10px" cellspacing="10px" width="100%">
-<tr>
-	<td width="200px" id="tag2"><img src="/images/WWD_2_Alex_Chiew_Badminton.jpeg" alt="" style="width:200px"></td>
-	<td><b>Deaf Sports Association (Singapore) provides the deaf community opportunities to develop their passion in sports</b><br><Br>
-27-year-old Alex Chiew is one of the deaf athletes in the Training & Development Programme under Deaf Sports Association (Singapore). He started playing badminton with his family since young and has developed passion for the sport ever since. He continued to play badminton competitively in local competitions, such as DSA’s annual National Deaf Games, where he participated three times and gained immense experiences. With years of training and determination, Alex performed well and received a chance to participate in Asia Pacific and World Deaf Badminton Championships in 2018 and 2019 respectively, which he felt honoured to be representing Singapore for the international games.</td>
-</tr></table>
-<br>
-	
-<table cellpadding="10px" cellspacing="10px" width="100%">
-<tr>
-	<td width="200px" id="tag3"><img src="/images/WWD_3_Daughter.png" alt="" style="width:200px"></td>
-	<td><b>Daughters of Tomorrow supports underprivileged women to be financially independent</b><br><BR>
-Sarinah is a Singaporean mom trying to raise 2 daughters, one of whom has leukemia on her husband’s limited income. She had much difficulty finding a job after being a homemaker for 11 years, and had little confidence as her literacy in English is low, and she also needed time during the day to care for her sick child.<br><BR>
-
-With DOT’s support, she got encouragement from a Befriender, and practical support navigating her way to job interviews. DOT eventually discovered her passion in cooking and bridged Sarinah to a kitchen assistant job with an empathetic employer. Since December 2018, she has found new confidence in her job and is now a happy contributor to our F&B industry and a local food establishment the Coconut Club.</td>
-</tr></table>
-<br>
-	
-<table cellpadding="10px" cellspacing="10px" width="100%">
-<tr>
-	<td width="200px" id="tag4"><img src="/images/WWD_4_FoodFromHeart.jpg" alt="" style="width:200px"></td>
-	<td><b>Food from the Heart alleviates hunger through its food distribution programmes</b><br><BR>
-Single mother Siti Aidah Abdullah, 48, bears the responsibility of supporting her five teenage children alone alongside battling against stage 4 leukemia. She is constantly worried about her next meal and depends heavily on food donations. The family often goes to bed hungry.<br><BR>
-
-Food from the Heart supports Siti with consistent food rations comprising fresh fruit, eggs and bread, as well as non-perishable food items like rice, canned food and cooking oil through its Community Food Pack programme. Siti also received items from the charity’s launch of its Pop-Up Fresh Produce Market on 20 March 2019. She chose to use the items economically and acknowledged the quality of the food, “We didn’t have many other ingredients at home, so we steamed the fish for dinner that night. It was fresh and tasted good with just soy sauce.”</td>
-</tr></table>
-<br>
-	
-<table cellpadding="10px" cellspacing="10px" width="100%">
-<tr>
-	<td width="200px" id="tag5"><img src="/images/WWD_5_Breakthrough_Missions.jpg" alt="" style="width:200px"></td>
-	<td><b>Breakthrough Missions provides rehabilitation and skills upgrading for ex-offenders to re-integrate into the community</b><br><BR>
-Pee Kong Eng, 58 years old, is one of the ex-drug offenders who has joined the rehabilitation program of Breakthrough Missions. He had lived a life of crime since young and was imprisoned 5 times. He was almost sentenced to death under the Singapore drug law; instead he was sentenced to 23 years of jail. After release from prison in 2007, he has stayed in Breakthrough Missions where he is strengthened holistically and equipped with the necessary skills for re-integrating into the community. At Breakthrough Café, he now humbly washes dishes and waiting tables.<br><BR>
-
-Kong Eng is one of the many ex-offenders who have benefitted greatly from the programme and we hope to reach out to even more ex-offenders like him. With the brand new washers and refrigerators, our residents can wash their clothes without worry of frequent breakdowns of the machines. Our kitchen staff can also stock up fresh produce without fear of spoiled food.</td>
-</tr></table>
-<br>
-	
-<table cellpadding="10px" cellspacing="10px" width="100%">
-<tr>
-	<td width="200px" id="tag6"><img src="/images/WWD_6_ClubHeal.jpg" alt="" style="width:200px"></td>
-	<td><b>Club HEAL runs rehabilitation programmes for people with mental health conditions and empowers them as mentors to give back to society.</b><br><BR>
-Diagnosed with depression, 66 year old Carlina Hutabarat A discovered a second home at Club HEAL where she joined the rehabilitation programme and found the activities meaningful and uplifting. Now, she is a peer volunteer in Club HEAL, guiding other peers in handicraft work and pottery. She has graduated from "Our HEALing Voice", a programme in which she learned to view people with mental health issues as having the potential to improve their lives. She also learned how to guide peers to take steps towards recovery and give them support. Carlina is trully empowered.</td>
-</tr></table>
-<br>
-	
-<table cellpadding="10px" cellspacing="10px" width="100%">
-<tr>
-	<td width="200px" id="tag7"><img src="/images/WWD_7_BNH_MdmYee.jpg" alt="" style="width:200px"></td>
-	<td><b>Methodist Welfare Service's Bethany Nursing Home provides crucial eldercare services</b><br><BR>
-Madam Yee Choon How, 79, came under the care of MWS Bethany Nursing Home - Choa Chu Kang in 2016. Bedridden and mentally impaired by a nasty fall, she has since made remarkable recovery, thanks to her husband's unconditional love, the nurses' care and the rehabilitative therapy she received. TO do even more and better for our residents, the Home embarked on a new care re-modelling initiative in late 2018. Besides transforming the space to provide more privacy and give residents greater autonomy, dementia-friendly care facilities will be built to cater for the growing number of residents with dementia.</td>
-</tr></table>
-<br>
-	
-<table cellpadding="10px" cellspacing="10px" width="100%">
-<tr>
-	<td width="200px" id="tag8"><img src="/images/WWD_8_NTUC.jpg" alt="" style="width:200px"></td>
-	<td><b>NTUC-U Care Fund provides customised skills to lift-up low-income families</b><br><BR>
-Mdm Joanna Yap has been working as a part-time assistant teacher since her divorce. For the sake of her two daughters one of which has special needs, she traded-in her high-flying career to spend more time with them. As a union member and U Care beneficiary, she and her 2 children had the opportunity to participate in the NTUC-U Care Fund’s LIFT-UP programmes. The family had attended a hands-on workshop which made their learning exciting and presented an enjoyable family bonding time. She acknowledged that the exposure to these activities empowered them and looked forward to more opportunities that will help upskill them as a family to enable them do better in life.</td>
-</tr>
-</table>
 
 
 ### Benefitting Organisations
 
-| [Children, Youth & Family](#children-youth-and-family) |
-| [Disability](#disability-list)  |
-| [Eldercare](#eldercare-list)  |
-| [Mental Health Services](#mental-health-services)   |
-| [Healthcare](#health-care)  |
-| [Rehabilitation](#rehabilitation-list)  |
-| [Sports](#sports-list)  |
-| [Cross Sectors](#cross-sectors)  |
-| [Others](#others-list) |
-| [Empowering for Life Fund](#empowering-for-life-fund) |
 
-
-### Children Youth and Family
-
-- [AMP - Association of Muslim Professionals](https://www.amp.org.sg/)
-- [AWARE - Association of Women for Action and Research](https://www.aware.org.sg/)
-- [Blossom World Society](https://www.blossomworld.sg/)
-- [Centre for Fathering](http://fathers.com.sg/)
-- [Food from the Heart](http://www.foodfromtheheart.sg/)
-- [HCSA Community Services](https://www.hcsa.org.sg/)
-- [Lutheran Community Care Services](https://lccs.org.sg/)
-- [Morning Star Community Services](https://www.morningstar.org.sg/)
-- [PPIS - Persatuan Pemudi Islam Singapura](https://ppis.sg/)
-- [PERTAPIS Children&#39;s Home](http://pertapis.org.sg/pertapis-childrens-home/)
-- [Singapore Council of Women&#39;s Organisations (SCWO)](https://www.scwo.org.sg/)
-- [Singapore Red Cross Society](https://www.redcross.sg/)
-- [Social Health Growth (SHG)](https://www.socialhealthgrowth.org/)
-- [YMCA of Singapore](http://www.ymca.org.sg/)
-- [NTUC-U Care](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare)
-
-
-### Disability List
- 
- - [Autism Association (Singapore)](https://www.autismlinks.org.sg/) 
- - [AWWA Ltd](https://www.awwa.org.sg/) 
- - [Cerebral Palsy Alliance Singapore](http://cpas.org.sg/) 
- - [Down Syndrome Association (Singapore)](http://www.downsyndrome-singapore.org/) 
- - [Very Special Arts Limited](https://www.vsa.org.sg/)
-
-### Eldercare List
- 
- - [Blossom Seeds Limited](https://www.blossomseeds.sg/)
- - [Caregiving Welfare Association](http://www.cwa.org.sg/)
- - [Empower Ageing Limited](http://www.empower.org.sg/)
- - [Methodist Welfare Services](https://mws.sg/)
- - [O&#39;Joy Care Services](https://ojoywebsite.wixsite.com/ojoy)
- - [Tzu Chi Foundation (Singapore)](https://www.tzuchi.org.sg/en/)
-
-### Mental Health Services 
-
-- [AMKFSC Community Services Ltd](https://www.amkfsc.org.sg/)
-- [Club HEAL](http://www.clubheal.org.sg/)
+<table width="100%" cellspacing="10" cellpadding="10">
+<tr><td>Children, Youth & Family </td></tr>
+<tr><td>
+<ol>
+<li><a href="http://www.ainsociety.org.sg/" target='_blank'>Ain Society</a></li>
+<li><a href="http://www.beyond.org.sg/" target='_blank'>Beyond Social Services</a></li>
+<li><a href="https://ccsscares.sg/" target='_blank'>Care Community Services Society</a></li>
+<li><a href="https://emcc.org.sg/" target='_blank'>Eagles Mediation &amp; Counselling Centre (EMCC)</a></li>
+<li><a href="https://www.faithacts.org.sg/" target='_blank'>FaithActs</a></li>
+<li><a href="https://www.irf.org.sg/" target='_blank'>ISCOS ReGen Fund</a></li>
+<li><a href="https://www.lawsocprobono.org/" target='_blank'>Law Society Pro Bono Services</a></li>
+<li><a href="https://www.morningstar.org.sg/" target='_blank'>Morning Star Community Services</a></li>
+<li><a href="https://www.newhopecs.org.sg/" target='_blank'>New Hope Community Services</a></li>
+<li><a href="https://www.newlife.org.sg/" target='_blank'>New Life Community Services</a></li>
+<li><a href="https://nulife.com.sg/" target='_blank'>NuLife Care &amp; Counselling Services</a></li>
+<li><a href="https://pfs.org.sg/" target='_blank'>Prison Fellowship Singapore</a></li>
+<li><a href="https://www.sscharities.com/" target='_blank'>Shared Services for Charities</a></li>
+<li><a href="http://www.shine.org.sg/" target='_blank'>SHINE Children and Youth Services</a></li>
+<li><a href="https://shenghong.org.sg/" target='_blank'>Society of Sheng Hong Welfare Services</a></li>
+<li><a href="https://www.cjc.org.sg/" target='_blank'>The Community Justice Centre Limited</a></li>
+<li><a href="https://thenewcharismission.org.sg/" target='_blank'>The New Charis Mission</a></li>
+<li><a href="https://www.trybe.org/" target='_blank'>Trybe Limited</a></li>
+</ol>
+ </td></tr>
  
  
+<tr><td>Disability</td></tr>
+<tr><td>
+<ol>           
+<li><a href="https://www.bmcsg.org/" target='_blank'>Beautiful Mind Charity</a></li>
+<li><a href="http://cpas.org.sg/" target='_blank'>Cerebral Palsy Alliance Singapore</a></li>
+<li><a href="https://www.das.org.sg/" target='_blank'>Dyslexia Association of Singapore</a></li>
+<li><a href="https://extraordinarypeople.sg/" target='_blank'>Extra.Ordinary People Limited</a></li>
+<li><a href="https://mamreoaks.sg/" target='_blank'>Mamre Oaks Limited</a></li>
+<li><a href="https://www.rainbowcentre.org.sg/" target='_blank'>Rainbow Centre, Singapore</a></li>
+<li><a href="https://employment.sgenable.sg/" target='_blank'>SG Enable Ltd</a></li>
+<li><a href="https://savh.org.sg/" target='_blank'>Singapore Association of the Visually Handicapped (SAVH)</a></li>
+<li><a href="https://www.sundac.org/" target='_blank'>SUN-DAC</a></li>
+<li><a href="https://www.vsa.org.sg/" target='_blank'>Very Special Arts Singapore Limited</a></li>       
+ </ol>
+</td></tr>
+
+<tr><td>Eldercare</td></tr>
+<tr><td>
+<ol>
+<li><a href="https://www.carecorner.org.sg/seniors-services" target='_blank'>Care Corner Seniors Services Ltd</a></li>  
+<li><a href="http://www.cwa.org.sg/" target='_blank'>Caregiving Welfare Association</a></li>
+<li><a href="https://rsvp.org.sg/" target='_blank'>RSVP Singapore The Organisation of Senior Volunteers</a></li>
+<li><a href="https://sreenarayanamission.org/" target='_blank'>Sree Narayana Mission (Singapore)</a></li>
+<li><a href="https://www.stjohneldershome.org.sg/home" target='_blank'>St John&#39;s Home for Elderly Persons</a></li>
+
+</ol>
+</td></tr>
+
+
+<tr><td>Mental Health Services</td></tr>
+<tr><td>
+<ol>
+<li><a href="https://www.psaltcare.com/" target='_blank'>Psalt Care Limited</a></li>
+<li><a href="http://www.sos.org.sg" target='_blank'>Samaritans of Singapore</a></li>
  
-### Health care 
-
-- [St Andrew's Mission Hospital](https://www.samh.org.sg/)
-- [Apex Harmony Lodge](http://www.apexharmony.org.sg/)
-- [Alzheimer's Disease Association](https://alz.org.sg/)
-- [All Saints Home](https://allsaintshome.org.sg/)
-- [Assisi Hospice](http://www.assisihospice.org.sg/)
-- [Sian Chay Medical Institution](https://www.sianchay.org.sg/en/)
-- [Diabetes Singapore](https://www.diabetes.org.sg/)
-- [HCA Hospice Care](https://www.hca.org.sg/)
-- [Singhealth Fund (KKH)] 
-- [Adventist Nursing & Rehabilitation Centre](http://anrc.org.sg/)
- 
- 
-### Rehabilitation List 
-
-- [HEB-Ashram](https://heb.org.sg/our-subsidiaries/heb-ashram/)
-- [Breakthrough Missions](http://www.breakthroughmissions.org.sg/)
-- [Pertapis Halfway House](http://pertapis.org.sg/pertapis-halfway-house/)
-- [Teen Challenge (Singapore)](https://www.teenchallenge.org.sg/)
-- [Yellow Ribbon Fund (YRF)](https://www.yellowribbon.org.sg/yellow-ribbon-fund)
-- [Singapore After-Care Association (SACA)](http://www.saca.org.sg/)
-- [WE CARE Community Services (WCCS)](http://www.wecare.org.sg/)
-- [iC@re Hub Ltd](http://www.icarehub.org.sg/)
-- [Singapore Anti-Narcotics Association (SANA)](https://www.sana.org.sg/)
+</ol>
+</td></tr>
 
 
-### Sports List
+<tr><td>Healthcare</td></tr>
+<tr><td>
+<ol>
+<li><a href="https://www.hnf.org.sg/" target='_blank'>Home Nursing Foundation</a></li>
+<li><a href="https://www.mft.org.sg/" target='_blank'>Man Fut Tong Nursing Home</a></li>
+<li><a href="https://www.mdas.org.sg/" target='_blank'>Muscular Dystrophy Association (Singapore)</a></li>
+<li><a href="https://www.sianchay.org.sg/en/" target='_blank'>Sian Chay Medical Institution</a></li>
+<li><a href="https://www.silverribbonsingapore.com/" target='_blank'>Silver Ribbon (Singapore)</a></li>
+<li><a href="http://www.schome.org.sg/" target='_blank'>Singapore Christian Home</a></li>
+<li><a href="http://www.snsa.org.sg/" target='_blank'>Singapore National Stroke Association</a></li>
+<li><a href="https://www.sma.org.sg/smacares/" target='_blank'>SMA Charity Fund</a></li>
+<li><a href="https://societyagedsick.org.sg/" target='_blank'>Society for the Aged Sick</a></li>
+<li><a href="https://www.slec.org.sg/" target='_blank'>St Luke&#39;s ElderCare Centre</a></li>
+</ol>
+</td></tr>
 
-- [Singapore National Paralympic Council](http://www.snpc.org.sg/)
-- [Lawn Bowls Association for the Disabled (Singapore)](http://parabowlsingapore.org/)
-- [Deaf Sports Association (Singapore)](https://dsa.org.sg/)
 
-### Cross Sectors 
- 
-- [Community Chest](https://www.comchest.sg/)
-- [Blessed Grace Social Services Limited](https://www.bgss.org.sg/)
-- [FaithActs](https://www.faithacts.org.sg/)
-- [Filos Community Services](http://www.filos.sg/)
-- [HOPE Worldwide (Singapore)](https://www.hopewwsea.org/)
-- [Kampung Senang Charity and Education Foundation](https://www.kampungsenang.org/)
-- [Singapore Art Museum](https://www.singaporeartmuseum.sg/)
+<tr><td> Rehabilitation</td></tr>
+<tr><td>
+<ol>
+<li><a href="http://www.breakthroughmissions.org.sg/" target='_blank'>Breakthrough Missions</a></li>
+<li><a href="https://www.sbws.org.sg/4l_gh.html" target='_blank'>Green Haven</a></li>
+<li><a href="https://heb.org.sg/our-subsidiaries/heb-ashram/" target='_blank'>HEB-Ashram</a></li>
+<li><a href="http://www.icarehub.org.sg/" target='_blank'>iC@re Hub Ltd</a></li>
+<li><a href="https://jhh.jamiyah.org.sg/" target='_blank'>Jamiyah Halfway House</a></li>
+<li><a href="https://mwh.muhammadiyah.org.sg/" target='_blank'>Muhammadiyah Welfare Home</a></li>
+<li><a href="http://pertapis.org.sg/pertapis-halfway-house/" target='_blank'>PERTAPIS Halfway House</a></li>
+<li><a href="http://www.saca.org.sg/" target='_blank'>Singapore After-Care Association (SACA)</a></li>
+<li><a href="https://www.sana.org.sg/" target='_blank'>Singapore Anti-Narcotics Association (SANA)</a></li>
+<li><a href="https://www.teenchallenge.org.sg/" target='_blank'>Teen Challenge (Singapore)</a></li>
+<li><a href="http://thehelpinghand.org.sg/" target='_blank'>The Helping Hand</a></li>
+</ol>
+</td></tr>
 
-### Others List
- 
- - [Silver Volunteer Fund](https://www.pc.org.sg/SilverVolunteerFund)
 
-### Empowering for Life Fund
+<tr><td> Sports</td></tr>
+<tr><td>
+<ol>
+ <li><a href="https://dsa.org.sg/" target='_blank'>Deaf Sports Association (Singapore)</a></li>
+ <li><a href="http://parabowlsingapore.org/" target='_blank'>Lawn Bowls Association for the Disabled (Singapore)</a></li>
+</ol>
+</td></tr>
 
-- [TOUCH Community Services](https://www.touch.org.sg/)     
-- [Singapore Disability Sports Council](https://sdsc.org.sg/)
-- [Singapore Anglican Community Services](http://sacs.org.sg/) 
-- [Lutheran Community Care Services](https://lccs.org.sg/)  
-- [Pertapis Halfway House](http://pertapis.org.sg/pertapis-halfway-house/)  
-- [Centre for Seniors](http://www.centreforseniors.org.sg/wps/portal/centreforseniors/home) 
-- [Yayasan Mendaki](https://www.mendaki.org.sg/) 
+
+<tr><td> Cross Sectors
+</td></tr>
+<tr><td>
+<ol>
+<li><a href="https://www.comchest.sg/" target='_blank'>Community Chest</a></li>
+<li><a href="http://www.campusimpact.org.sg/" target='_blank'>CampusImpact</a></li>
+<li><a href="https://girlguides.org.sg/" target='_blank'>Girl Guides Singapore</a></li>
+<li><a href="https://www.lakeside.org.sg/" target='_blank'>Lakeside Family Services</a></li>
+<li><a href="https://www.nationalgallery.sg/" target='_blank'>National Gallery Singapore</a></li>
+<li><a href="https://www.onehopecentre.org/" target='_blank'>One Hope Centre</a></li>
+<li><a href="https://www.reach.org.sg/" target='_blank'>REACH Community Services Society</a></li>
+<li><a href="http://www.salemwelfareservices.org.sg/" target='_blank'>Salem Welfare Services Ltd</a></li>
+<li><a href="https://foodbank.sg/" target='_blank'>The Food Bank Singapore Ltd</a></li>
+<li><a href="https://xinyuan.org.sg/" target='_blank'>Xin Yuan Community Care</a></li>
+</ol>
+</td></tr>
+
+
+
+<tr><td> Empowering for Life Fund
+</td></tr>
+<tr><td>
+<li><a href="http://www.clubheal.org.sg/" target='_blank'>Club HEAL</a></li>
+<li><a href="http://www.minds.org.sg/ " target='_blank'>Movement for the Intellectually Disabled of SIngapore</a></li>
+<li><a href="https://www.mdas.org.sg/" target='_blank'>Muscular Dystrophy Association (Singapore)</a></li>
+<li><a href="http://www.wecare.org.sg/" target='_blank'>WE CARE Community Services</a></li>
+<li><a href="https://employment.sgenable.sg/" target='_blank'>SG Enable Ltd</a></li>
+<li><a href="https://www.spd.org.sg/" target='_blank'>SPD</a></li>
+ </ol>
+</td></tr>
+</table> 
+
 
 
 
