@@ -11,9 +11,6 @@ breadcrumb: Donate
 
 Every year, our community outreach and fundraising campaign selects a large number of benefitting organisations to support and raise funds for so that they can focus on their mission and cause.  President's Challenge's support covers various sectors from children & family services, healthcare & eldercare, disability services and rehabilitation of ex-offenders.
 
-[Benefitting Organisations](#benefitting-organisations)
- 
-
 
 ### Benefitting Organisations
 
