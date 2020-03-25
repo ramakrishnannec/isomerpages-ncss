@@ -17,10 +17,10 @@ It will focus on supporting customised, dedicated services to the most vulnerabl
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OmLc8SvR_dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-##### "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime"
+ 
 
 <table cellspacing="10px" cellpadding="10px" border="0" width="100%">
-	<tr><td><a href="/take-action/donate/"><img src="/images/family1.jpg" border="0"></a></td></tr>
+	<tr><td><a href="/take-action/donate/"><img src="/images/Crowd.jpg" border="0"></a></td></tr>
 	 </table>
 
  
