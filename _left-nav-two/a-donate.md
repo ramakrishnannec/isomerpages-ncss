@@ -13,7 +13,7 @@ collection_name: left-nav-two
 <table width="100%" cellpadding="10px" cellspacing="10px" border="0">
 <tr><td align="center"><b>Be part of the President’s Challenge and make someone’s wishes come true.<br>
 <br> Help the less fortunate in our community and make a donation today.<br>
- <br> The funds raised will make a difference in their lives.<br></b>
+ <br> The funds raised will make a difference in their lives.<br><br></b>
   </td></tr></table>
  
 
