@@ -42,14 +42,13 @@ By signing this Pledge, I reaffirm my commitment to:<br>
 <li>Leverage available resources and support (both internal and external) for employers to hire and train persons with disabilities</li>
 <li>Help employees with disabilities transition smoothly from school/training to work, and help them to upgrade and embark on lifelong learning</li>
 <li>Exchange best practices with other employers on how to better support employees with disabilities. </li></ul>
-<br>
-<br>
+ 
 </td></tr>
 
  <tr><td align="center"> 
   <div align="center"> 
   <br><h2> Pledge your inclusive support <a href="https://form.gov.sg/#!/5e4a00425cb1370011a1d85c" target="_blank">here</a></h2>
-  <br><br> <img src="images/pledge_logo.jpg" style="width:300px;height:300px;"><br> </div>
+  <br>  <img src="images/pledge_logo.jpg" style="width:300px;height:300px;"><br> </div>
   Photo credits: Club Rainbow, Muscular Dystrophy Association (Singapore)
 </td></tr></table>
  
