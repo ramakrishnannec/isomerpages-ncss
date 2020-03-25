@@ -13,8 +13,9 @@ President’s Challenge aims to help disadvantaged groups change their circumsta
 
 It will focus on supporting customised, dedicated services to the most vulnerable groups, and facilitate their integration into society. The programmes that it fund will handhold the most disadvantaged families bounce back quickly from setbacks and stay adaptable. 
 
-
-<iframe width="700" height="419" src="https://www.youtube.com/embed/OmLc8SvR_dc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OmLc8SvR_dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ##### "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime"
 
