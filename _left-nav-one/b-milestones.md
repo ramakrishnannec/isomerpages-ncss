@@ -59,7 +59,7 @@ ELF will focus on supporting customised, dedicated services to the most vulnerab
 
  <table widh="100%">
   <tr><td > <b>Year 2020</b></td></tr>  
- <tr><td  > <img src="/images/pledge_footer_image.jpg" ></td></tr>
+ <tr><td  > <img src="/images/EnablingEmploymentPledgeLaunch.jpg" ></td></tr>
    <tr> <td>
   President Halimah Yacob launched the President’s Challenge Enabling Employment Pledge at the launch of PC2020 to rally employers to provide more employment opportunities to persons with disabilities. The President’s Challenge Enabling Employment Pledge calls on employers to adopt an inclusive mindset, create barrier-free workplace environments and implement supportive employment policies for employees with disabilities. <br><br>
 
