@@ -13,14 +13,14 @@ President’s Challenge aims to help disadvantaged groups change their circumsta
 
 It will focus on supporting customised, dedicated services to the most vulnerable groups, and facilitate their integration into society. The programmes that it fund will handhold the most disadvantaged families bounce back quickly from setbacks and stay adaptable. 
 
-<div>
+<div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OmLc8SvR_dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+ <br>
  
 
 <table cellspacing="10px" cellpadding="10px" border="0" width="100%">
-	<tr><td><br><br><a href="/take-action/donate/"><img src="/images/Crowd.jpg" border="0"></a></td></tr>
+	<tr><td> <a href="/take-action/donate/"><img src="/images/Crowd.jpg" border="0"></a></td></tr>
 	 </table>
 
  
