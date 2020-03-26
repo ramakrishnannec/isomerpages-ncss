@@ -23,33 +23,27 @@ Therefore, my support as an employer is important in this national movement to b
 By signing this Pledge, I reaffirm my commitment to:<br>
 <br>
 <b>Adopt an inclusive mindset towards employees with disabilities</b>
-<ul><li>Recognise that employees with disabilities are capable of contributing and bringing value as all other employees do</li>
-<li>Create a work culture that welcomes and respects employees with disabilities</li>
-<li>Treat employees with disabilities fairly and with dignity</li>
-<li>Enable employees with disabilities to have access to information, activities and opportunities at work like the other employees</li>
-</ul>
-<br>
+<br>- Recognise that employees with disabilities are capable of contributing and bringing value as all other employees do 
+<br>- Create a work culture that welcomes and respects employees with disabilities 
+<br>- Treat employees with disabilities fairly and with dignity 
+<br>- Enable employees with disabilities to have access to information, activities and opportunities at work like the other employees 
 <br>
 <b>Create barrier-free workplace environments</b>
-<ul><li>Create a conducive workplace that is non-discriminatory, safe and friendly to employees with disabilities</li>
-<li>Ensure that work-related programmes and facilities are accessible to employees with disabilities</li>
-<li>Embrace innovation and technology as enablers to employability, productivity and independence of employees with disabilities at the workplace</li></ul>
-<br>
+<br>- Create a conducive workplace that is non-discriminatory, safe and friendly to employees with disabilities 
+<br>- Ensure that work-related programmes and facilities are accessible to employees with disabilities 
+<br>- Embrace innovation and technology as enablers to employability, productivity and independence of employees with disabilities at the workplace 
 <br>
 <b>Implement supportive employment policies for employees with disabilities</b>
-<ul><li>Incorporate HR practices such as flexible work arrangements, assistive technologies, fair remuneration and career development, that encourage hiring and retention of persons with disabilities</li>
-<li>Explore adjustments or redesign job roles or work processes to enable employees with disabilities to showcase and develop their strengths and capabilities</li>
-<li>Leverage available resources and support (both internal and external) for employers to hire and train persons with disabilities</li>
-<li>Help employees with disabilities transition smoothly from school/training to work, and help them to upgrade and embark on lifelong learning</li>
-<li>Exchange best practices with other employers on how to better support employees with disabilities. </li></ul>
- 
+<br>- Incorporate HR practices such as flexible work arrangements, assistive technologies, fair remuneration and career development, that encourage hiring and retention of persons with disabilities 
+<br>- Explore adjustments or redesign job roles or work processes to enable employees with disabilities to showcase and develop their strengths and capabilities 
+<br>- Leverage available resources and support (both internal and external) for employers to hire and train persons with disabilities 
+<br>- Help employees with disabilities transition smoothly from school/training to work, and help them to upgrade and embark on lifelong learning 
+<br>- Exchange best practices with other employers on how to better support employees with disabilities.   
 </td></tr>
-
  <tr><td align="center"> 
   <div align="center"> 
-  <br><h2> Pledge your inclusive support <a href="https://form.gov.sg/#!/5e4a00425cb1370011a1d85c" target="_blank">here</a></h2>
-  <br>  <img src="images/pledge_logo.jpg" style="width:300px;height:300px;"><br> </div>
-  Photo credits: Club Rainbow, Muscular Dystrophy Association (Singapore)
+  <br><h4> Pledge your inclusive support <a href="https://form.gov.sg/#!/5e4a00425cb1370011a1d85c" target="_blank">here</a></h4>
+  <br>  <img src="images/pledge_logo.jpg" style="width:300px;height:300px;">  </div>   
 </td></tr></table>
  
   
