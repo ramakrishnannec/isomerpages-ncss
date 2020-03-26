@@ -32,13 +32,14 @@ key-highlights:
 
 # Info Sections
 info-sections:
-  - section-title: 
-    section-subtitle: President's Challenge Enabling Employment Pledge 
-    section-description:  Lend your support to this national movement, to build a caring and inclusive Singapore, where difference in abilities are valued and embraced
-    section-image: /images/pledge_logo.jpg
-    section-more-button: Learn More
-    section-more-button-url: /enabling-employment-pledge/take-pledge
-    
+  - infopic:
+    title: 
+    subtitle: President's Challenge Enabling Employment Pledge 
+    description:  Lend your support to this national movement, to build a caring and inclusive Singapore, where difference in abilities are valued and embraced
+    button: Learn More
+    url: /enabling-employment-pledge/take-pledge
+    image: /images/pledge_logo.jpg
+    alt: Pledge Logo
     
 # Resources Section
 resources-title: Media
