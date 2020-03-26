@@ -10,11 +10,11 @@ collection_name: left-nav-two
 
 ![Donate Banner](/images/PC_Banner_Donate_v2.jpg "Donate Banner")
 
-<table width="100%" cellpadding="10px" cellspacing="10px" border="0">
-<tr><td align="center"> Be part of the President’s Challenge and make someone’s wishes come true.<br>
-<br> Help the less fortunate in our community and make a donation today.<br>
- <br> The funds raised will make a difference in their lives.<br><br> 
-  </td></tr></table>
+Be part of the President’s Challenge and make someone’s wishes come true.<
+  
+Help the less fortunate in our community and make a donation today.
+  
+The funds raised will make a difference in their lives.
  
 
 <table width="100%" cellpadding="10px" cellspacing="10px" border="0">
