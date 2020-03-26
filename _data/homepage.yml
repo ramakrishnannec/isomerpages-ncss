@@ -19,13 +19,13 @@ hero-banner: /images/Homepage_Resized2.jpg
 key-highlights:
   - title: Donate
     description: 100% of your donations go towards the benefitting organisations supported by President’s Challenge.
-    url: /Donate/
+    url: /take-action/donate/
   - title: VOLUNTEER
     description: Be a part of President’s Challenge Volunteer Drive and make a difference in someone’s life.
-    url: /Volunteer/
+    url: /take-action/volunteer/
   - title: FUNDRAISE
     description: Do you want to give back as an organisation? Partner with us.
-    url: /PartnerWithUs/
+    url: /take-action/partner-with-us/
   - title: Enabling Employment Pledge
     description: Pledge your inclusive support today.
     url: /enabling-employment-pledge/take-pledge
