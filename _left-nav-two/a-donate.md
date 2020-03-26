@@ -8,7 +8,7 @@ collection_name: left-nav-two
 
 ### MAKE A DIFFERENCE
 
-![Donate Banner](/images/Donate-banner_1.jpg "Donate Banner")
+![Donate Banner](/images/PC_Banner_Donate_v1.jpg "Donate Banner")
 
 <table width="100%" cellpadding="10px" cellspacing="10px" border="0">
 <tr><td align="center"> Be part of the President’s Challenge and make someone’s wishes come true.<br>
