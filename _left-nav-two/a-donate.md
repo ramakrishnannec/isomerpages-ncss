@@ -33,7 +33,9 @@ Donate to support the benefitting agencies supported by President’s Challenge,
 
 [![Donate Now](/images/beneficiary1.jpg "Donate Now")](https://www.giving.sg/president-s-challenge)
 
- 
+### [Donate Online Here](https://www.giving.sg/president-s-challenge)
+
+
 ### Donate via Cheque
 
 For cheque donations, please issue to "President's Challenge" and mail to:  
