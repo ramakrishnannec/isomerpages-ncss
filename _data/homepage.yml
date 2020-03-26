@@ -13,7 +13,7 @@ agency-logo: /images/PC20_logo_2.png
 # Hero Banner
 hero-title:  
 hero-subtitle: 
-hero-background: /images/FBbanner.jpg
+hero-banner: /images/FBbanner.jpg
  
 # Key Highlights
 key-highlights:
