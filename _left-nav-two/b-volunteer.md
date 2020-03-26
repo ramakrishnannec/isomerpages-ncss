@@ -98,8 +98,6 @@ Gardening with Friends provides an avenue for seniors 55 years and above to volu
 
 Contact: Mr Dexter Wong at 6345 0054, dexter@sthildascsc.org.sg or visit [www.sthildascsc.org.sg](www.sthildascsc.org.sg)</td></tr>
 </table>
-<br> 
-<br>
 
 ###### Photo Credits: *People’s Association, Kwong Wai Shiu Hospital, Tsao Foundation, Filos Community Services Ltd, TOUCH Community Services, St Hilda's Community Services, Empact*
  
