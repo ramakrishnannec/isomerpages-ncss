@@ -58,17 +58,13 @@ The PC-ELF will run from 2018 – 2022.
 			<td >1</td>
 			<td >Funding requests</td>
 			<td >The PC fund supports one-off initiatives in the following areas:
-			<ol>
-				<li>Programme</li>
-				<li>Capital</li>
-			</ol>
+			1. Programme<br>
+			2. Capital 
 			</td>
 			<td >The PC-ELF will support innovative initiatives that:
-			<ol>
-				<li>Empower people to be self-reliant;</li>
-				<li>Enable service users to sustain employment; and</li>
-				<li>Holistically address the needs of its target group(s) by collaborating with and leveraging on existing schemes and community resources.</li>
-			</ol>
+			1. Empower people to be self-reliant;<br>
+			2. Enable service users to sustain employment; and<br>
+			3. Holistically address the needs of its target group(s) by collaborating with and leveraging on existing schemes and community resources. 
 			</td>
 		</tr>
 		<tr>
@@ -76,10 +72,8 @@ The PC-ELF will run from 2018 – 2022.
 			<td >Outcomes</td>
 			<td >As long as the funding request benefits service users and are assessed to be needed in the social service landscape, agencies may apply for PC funding.</td>
 			<td >PC-ELF programmes must achieve the following outcomes:
-			<ul>
-				<li>People live independently in their communities and have the ability to sustain employment; and</li>
-				<li>People participate in developing solutions and make decisions for their own well-being.</li>
-			</ul>
+			- People live independently in their communities and have the ability to sustain employment; and<br>
+			- People participate in developing solutions and make decisions for their own well-being. 
 			</td>
 		</tr>
 		<tr>
