@@ -156,9 +156,3 @@ Every year, our community outreach and fundraising campaign selects a large numb
  </ol>
 </td></tr>
 </table> 
-
-
-
-
- 
-###### Photo Credits : *YMCA of Singapore, Deaf Sports Association (Singapore), Daughters of Tomorrow, Food from the Heart, Dyslexia Association of Singapore, Handicaps Welfare Association, Methodist Welfare Services, SPD*
