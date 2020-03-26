@@ -28,7 +28,7 @@ key-highlights:
     url: /PartnerWithUs/
   - title: Enabling Employment Pledge
     description: Pledge your inclusive support today.
-    url: /inclusive-employment-pledge/take-pledge
+    url: /enabling-employment-pledge/take-pledge
 
 # Info Sections
 info-sections:
@@ -36,8 +36,7 @@ info-sections:
     section-subtitle: President's Challenge Enabling Employment Pledge 
     section-description:  Lend your support to this national movement, to build a caring and inclusive Singapore, where difference in abilities are valued and embraced
     section-more-button: Learn More
-    section-more-button-url: /inclusive-employment-pledge/take-pledge
-    section-image-path: /images/EEPLogo.png
+    section-more-button-url: /enabling-employment-pledge/take-pledge
     
 # Resources Section
 resources-title: Media
