@@ -6,9 +6,10 @@ breadcrumb: PC Social Enterprise Awards
 collection_name: left-nav-one
 ---
 
+### PRESIDENT’S CHALLENGE SOCIAL ENTERPRISE AWARD
+
 ![Presidents Challenge Social Enterprise Award Banner](/images/sea-banner_2.jpg "Presidents Challenge Social Enterprise Award Banner")
 
-### PRESIDENT’S CHALLENGE SOCIAL ENTERPRISE AWARD
 We celebrate outstanding social enterprises (SEs) who have made impactful, innovative and sustainable contributions to our community.
 We hope these awards spark more individuals, particularly our youths, to develop business ventures that also serve social causes.
 
