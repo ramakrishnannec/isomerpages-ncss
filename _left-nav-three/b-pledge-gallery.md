@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Pledge Gallery
-permalink: /inclusive-employment-pledge/pledge-gallery
+permalink: /enabling-employment-pledge/pledge-gallery
 breadcrumb: Pledge Gallery
 collection_name: left-nav-three
 ---
