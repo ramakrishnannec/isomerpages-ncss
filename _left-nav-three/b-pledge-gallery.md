@@ -49,13 +49,13 @@ collection_name: left-nav-three
        <img src="/images/EEP_7_Hotel_Michael.jpg" alt="Hotel Michael" />
      </td>
      <td>
-       
+       &nbsp;
      </td>
      <td>
-        
+          &nbsp;
      </td>
      <td>
-       
+         &nbsp;
      </td>
   </tr>
   <tr>
@@ -66,13 +66,13 @@ collection_name: left-nav-three
        <p>Hotel Michael</p>
      </td>
      <td>
-       <p> </p>
+        &nbsp;
      </td>
      <td>
-       <p> </p>
+        &nbsp;
      </td> 
      <td>
-       <p> </p>
+        &nbsp;
      </td> 
   </tr>
 </table>
