@@ -8,21 +8,18 @@ collection_name: left-nav-three
 
 <table>
   <tr>
-     <td width="20%">
+     <td width="25%">
        <img src="../images/EEP_1_Beach_Villas.jpg" alt="Beach Villas" />
      </td>
-     <td width="20%">
+     <td width="25%">
        <img src="../images/EEP_2_Crockfords_Tower.jpg" alt="Crockfords Tower" />
      </td>
-     <td width="20%">
+     <td width="25%">
        <img src="../images/EEP_3_Equarius_Hotel.jpg" alt="Equarius Hotel" />
      </td>
-     <td width="20%">
+     <td width="25%">
         <img src="/images/EEP_4_Festive_Hotel.jpg" alt="Festive Hotel" />
-     </td>
-     <td width="20%">
-       <img src="/images/EEP_5_Genting_Hotel_Jurong.jpg" alt="Genting Hotel Jurong" />
-     </td>
+     </td>    
   </tr>
   <tr>
      <td>
@@ -37,11 +34,12 @@ collection_name: left-nav-three
      <td>
        <p>Festive Hotel</p>
      </td> 
-     <td>
-       <p>Genting Hotel Jurong</p>
-     </td> 
+    
   </tr>
   <tr>
+     <td >
+       <img src="/images/EEP_5_Genting_Hotel_Jurong.jpg" alt="Genting Hotel Jurong" />
+     </td>
      <td>
        <img src="/images/EEP_6_Hard_Rock_Hotel.jpg" alt="Hard Rock Hotel" />
      </td>
@@ -50,15 +48,12 @@ collection_name: left-nav-three
      </td>
      <td>
        &nbsp;
-     </td>
-     <td>
-          &nbsp;
-     </td>
-     <td>
-         &nbsp;
-     </td>
+     </td>   
   </tr>
   <tr>
+   <td>
+       <p>Genting Hotel Jurong</p>
+     </td> 
      <td>
        <p>Hard Rock Hotel</p>
      </td>
@@ -67,12 +62,6 @@ collection_name: left-nav-three
      </td>
      <td>
         &nbsp;
-     </td>
-     <td>
-        &nbsp;
-     </td> 
-     <td>
-        &nbsp;
-     </td> 
+     </td>     
   </tr>
 </table>
