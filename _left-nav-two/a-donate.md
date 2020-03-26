@@ -10,10 +10,8 @@ collection_name: left-nav-two
 
 ![Donate Banner](/images/PC_Banner_Donate_v2.jpg "Donate Banner")
 
-Be part of the President’s Challenge and make someone’s wishes come true.<
-  
-Help the less fortunate in our community and make a donation today.
-  
+Be part of the President’s Challenge and make someone’s wishes come true.  
+Help the less fortunate in our community and make a donation today.  
 The funds raised will make a difference in their lives.
  
 
