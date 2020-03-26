@@ -9,70 +9,70 @@ collection_name: left-nav-three
 <table>
   <tr>
      <td width="20%">
-       <img src="../images/President-s-Star-Charity.jpg" alt="Partner Story 1" />
+       <img src="../images/EEP_1_Beach_Villas.jpg" alt="Beach Villas" />
      </td>
      <td width="20%">
-       <img src="../images/PCF-Eunos_2.jpg" alt="Partner Story 2" />
+       <img src="../images/EEP_2_Crockfords_Tower.jpg" alt="Crockfords Tower" />
      </td>
      <td width="20%">
-       <img src="../images/PA.jpg" alt="Partner Story 3" />
+       <img src="../images/EEP_3_Equarius_Hotel.jpg" alt="Equarius Hotel" />
      </td>
      <td width="20%">
-        <img src="../images/Partner-Story4.jpg" alt="Partner Story 4" />
+        <img src="/images/EEP_4_Festive_Hotel.jpg" alt="Festive Hotel" />
      </td>
      <td width="20%">
-       <img src="../images/President-s-Star-Charity.jpg" alt="Partner Story 1" />
+       <img src="/images/EEP_5_Genting_Hotel_Jurong.jpg" alt="Genting Hotel Jurong" />
      </td>
   </tr>
   <tr>
      <td>
-       <p>ABC</p>
+       <p>Beach Villas</p>
      </td>
      <td>
-       <p>ABC</p>
+       <p>Crockfords Tower</p>
      </td>
      <td>
-       <p>ABC</p>
+       <p>Equarius Hotel</p>
      </td>
      <td>
-       <p>ABC</p>
+       <p>Festive Hotel</p>
      </td> 
      <td>
-       <p>ABC</p>
+       <p>Genting Hotel Jurong</p>
      </td> 
   </tr>
   <tr>
      <td>
-       <img src="../images/Allison2.jpg" alt="Volunteer Story 1" />
+       <img src="/images/EEP_6_Hard_Rock_Hotel.jpg" alt="Hard Rock Hotel" />
      </td>
      <td>
-       <img src="../images/Citi-Sg2.jpg" alt="Volunteer Story 2" />
+       <img src="/images/EEP_7_Hotel_Michael.jpg" alt="Hotel Michael" />
      </td>
      <td>
-       <img src="../images/Singtel2.jpg" alt="Volunteer Story 3" />
+       
      </td>
      <td>
-        <img src="../images/Joanne_1.jpg" alt="Volunteer Story 4" />
+        
      </td>
      <td>
-       <img src="../images/Allison2.jpg" alt="Volunteer Story 1" />
+       
      </td>
   </tr>
   <tr>
      <td>
-       <p>ABC</p>
+       <p>Hard Rock Hotel</p>
      </td>
      <td>
-       <p>ABC</p>
+       <p>Hotel Michael</p>
      </td>
      <td>
-       <p>ABC</p>
+       <p> </p>
      </td>
      <td>
-       <p>ABC</p>
+       <p> </p>
      </td> 
      <td>
-       <p>ABC</p>
+       <p> </p>
      </td> 
   </tr>
 </table>
