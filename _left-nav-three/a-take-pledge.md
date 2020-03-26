@@ -12,7 +12,7 @@ collection_name: left-nav-three
 <h2>ENABLING EMPLOYMENT PLEDGE</h2>
 
 </td></tr>
-<tr><td align="center">  <img src="images/Crowd.jpg"  >
+<tr><td align="center">  <img src="images/Pledge_Banner_v3.jpg"  >
 </td></tr>
 <tr><td>
   
