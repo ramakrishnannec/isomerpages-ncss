@@ -42,7 +42,7 @@ By signing this Pledge, I reaffirm my commitment to:<br>
 </td></tr>
  <tr><td align="center"> 
   <div align="center"> 
-  <br><h3> Pledge your inclusive support <a href="https://form.gov.sg/#!/5e4a00425cb1370011a1d85c" target="_blank">here</a></h3>
+  <h3> Pledge your inclusive support <a href="https://form.gov.sg/#!/5e4a00425cb1370011a1d85c" target="_blank">here</a></h3>
   <br>  <img src="images/pledge_logo.jpg" style="width:300px;height:300px;">  </div>   
 </td></tr></table>
  
