@@ -39,7 +39,8 @@ Through his help and mentorship, many individuals have been inspired and gone on
 
 </td></tr></table> 
 
-<h7><i>Photo Credits: *raiSE Singapore*</i></h7>
-
 <table width="100%" cellpadding="10px" cellspacing="10px"><tr><td>
  Besides the awards above, see the list of finalists for 2019 <a href="http://www.raise.sg/president-s-challenge-social-enterprise-award.html" target="_blank">Click here</a><br><br></td></tr></table> 
+ 
+ <h7><i>Photo Credits: *raiSE Singapore*</i></h7>
+
