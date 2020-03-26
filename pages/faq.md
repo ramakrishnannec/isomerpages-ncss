@@ -36,15 +36,15 @@ The privacy of our donors is very important to us and we do not share or sell th
 ## **FUNDING**
 
 #### 1. I work for a charity in Singapore. How can my organisation apply to be a President’s Challenge benefiting organisation?
-> To be considered for a nomination as a President’s Challenge benefiting organisation, your organisation must have attained an Institute of Public Character (IPC) status that remains valid in the financial year when the funds are disbursed. You may apply for IPC status at [www.charities.gov.sg](https://www.charities.gov.sg/Pages/Home.aspx)
+To be considered for a nomination as a President’s Challenge benefiting organisation, your organisation must have attained an Institute of Public Character (IPC) status that remains valid in the financial year when the funds are disbursed. You may apply for IPC status at [www.charities.gov.sg](https://www.charities.gov.sg/Pages/Home.aspx)
  
 > Applications for funding generally open in September for the following year. You can download the application form from our website or contact your respective Sector Administrator for the application details.
 
 
 #### 2. What is the President’s Challenge Empowering for Life Fund?
-> At the President’s Challenge 2018 launch, President Halimah rallied for more customised support to empower the vulnerable in society, focusing in area of employment. To support such efforts, $20m is set aside over the next 5 years, through funds raised by President’s Challenge (PC) and a matching amount from Ministry of Finance (MOF), for a new President’s Challenge Empowering for Life Fund (PC ELF).
+At the President’s Challenge 2018 launch, President Halimah rallied for more customised support to empower the vulnerable in society, focusing in area of employment. To support such efforts, $20m is set aside over the next 5 years, through funds raised by President’s Challenge (PC) and a matching amount from Ministry of Finance (MOF), for a new President’s Challenge Empowering for Life Fund (PC ELF).
 
-> The PC-ELF will run from 2018 – 2022.
+The PC-ELF will run from 2018 – 2022.
 
 
 #### 3. What is the difference between PC and PC-ELF?   
@@ -53,7 +53,7 @@ The privacy of our donors is very important to us and we do not share or sell th
 		<tr>
 			<td ><strong>No.</strong></td>
 			<td ><strong>Categories</strong></td>
-			<td ><strong>PC&nbsp; </strong></td>
+			<td ><strong>PC </strong></td>
 			<td ><strong>PC&ndash;ELF </strong></td>
 		</tr>
 		<tr>
@@ -107,69 +107,69 @@ The privacy of our donors is very important to us and we do not share or sell th
 	</tbody>
 </table>   
 
-> Agencies are also strongly encouraged to review the Guidelines stated in Section A of the application forms of the two funds.
+Agencies are also strongly encouraged to review the Guidelines stated in Section A of the application forms of the two funds.
   
 
 #### 4. When is the application window for PC-ELF?
-> PC-ELF and PC share the same application window. The application window typically opens in August and agencies are given six weeks to apply.
+PC-ELF and PC share the same application window. The application window typically opens in August and agencies are given six weeks to apply.
 
 The application forms for PC and PC-ELF are different. Hence, agencies are required to fill in the correct form for the fund they are applying for.
 
 
 #### 5. Can I apply for both PC and PC-ELF?
-> Yes, agencies are free to apply for both funds with separate applications, meeting the fund requirements. Agencies should ascertain which fund is more appropriate and relevant to their programmes.
+Yes, agencies are free to apply for both funds with separate applications, meeting the fund requirements. Agencies should ascertain which fund is more appropriate and relevant to their programmes.
 
 
 #### 6. Who can apply for PC-ELF?
-> The PC-ELF applications are open to social service agencies with a valid IPC status.
+The PC-ELF applications are open to social service agencies with a valid IPC status.
 
 
 #### 7. When will I be updated of the application outcome for PC-ELF 2020?
-> Agencies will be informed of the application outcome by Feb/Mar 2020 via a letter from the President’s Office.
+Agencies will be informed of the application outcome by Feb/Mar 2020 via a letter from the President’s Office.
 
-> In May 2020, Agencies will be informed of the range of funds allocated to the programme via email. The definitive amount is not given as the programmes’ funding is dependent on the funds raised during the year.
+In May 2020, Agencies will be informed of the range of funds allocated to the programme via email. The definitive amount is not given as the programmes’ funding is dependent on the funds raised during the year.
 
 
 #### 8. Are we allowed to apply for only 1 or 2 years of funding?
-> Agencies can apply for funding for up to 3 years. If only 1 or 2 years of funding is required, there is no need to fill up the requested amounts for the remaining years.
+Agencies can apply for funding for up to 3 years. If only 1 or 2 years of funding is required, there is no need to fill up the requested amounts for the remaining years.
 
 
 #### 9.When can I expect to receive the funds if my agency is supported?
-> Agencies can expect to receive the funds in the following year sometime in June.
+Agencies can expect to receive the funds in the following year sometime in June.
 
 #### 10. Why do we only receive the funds for PC-ELF 1.5 years after I had applied?
-> E.g. for PC-ELF 2020
-> After the PC-ELF application window has closed, NCSS will assess the applications and thereafter, submit to President’s Office to review and confirm the list of benefitting agencies for the year. Fund-raising will be conducted for the whole of 2020 till early 2021. The funding amounts will then be confirmed based on the fund raised, and thus only disbursed to agencies in Jun 2021.
+E.g. for PC-ELF 2020
+After the PC-ELF application window has closed, NCSS will assess the applications and thereafter, submit to President’s Office to review and confirm the list of benefitting agencies for the year. Fund-raising will be conducted for the whole of 2020 till early 2021. The funding amounts will then be confirmed based on the fund raised, and thus only disbursed to agencies in Jun 2021.
 
 #### 11. Are agencies expected to commence the projects applied in PC20 in 2020, before funds are disbursed?
-> Agencies should start their programme once the supported areas and funding have been communicated in March 2020. In June 2021, agencies will receive the first year’s disbursement and will be informed of the confirmed funding amount for the programme duration.
+Agencies should start their programme once the supported areas and funding have been communicated in March 2020. In June 2021, agencies will receive the first year’s disbursement and will be informed of the confirmed funding amount for the programme duration.
 
 #### 12. When will the funds for Y2 and Y3 be disbursed?
-> The funds for Y2 and Y3 will be disbursed in June 2022 and 2023, respectively, contingent upon the annual submission of the required reports to NCSS, as well as the programme performance.
+The funds for Y2 and Y3 will be disbursed in June 2022 and 2023, respectively, contingent upon the annual submission of the required reports to NCSS, as well as the programme performance.
 
 #### 13. Will we receive the exact amount requested from PC-ELF?
-> Funding will be subject to the strength of justifications in the use of resources and outcomes to be achieved in the proposal.
+Funding will be subject to the strength of justifications in the use of resources and outcomes to be achieved in the proposal.
 
 #### 14. What happens if we do not fully utilise the funding we are provided with?
-> PC-ELF funding must be utilised by the Agencies within three (3) years from the date of the first disbursement for the purposes it was approved for. If funds are not expended within the specified time frame, NCSS has the sole discretion to grant an extension for the period of fund usage or to claw back the unutilised funds.
+PC-ELF funding must be utilised by the Agencies within three (3) years from the date of the first disbursement for the purposes it was approved for. If funds are not expended within the specified time frame, NCSS has the sole discretion to grant an extension for the period of fund usage or to claw back the unutilised funds.
 
 #### 15. Are agencies allowed to fund-raise for their programmes that are supported by PC-ELF?
-> Yes, Agencies can fund-raise for any shortfall/components of the programme not covered by PC-ELF funding.
+Yes, Agencies can fund-raise for any shortfall/components of the programme not covered by PC-ELF funding.
 
 
 #### 16. What are the reporting requirements of PC-ELF?
-> An annual reporting template will be provided to supported agencies for the reporting of the programmes outcomes. The report has to be submitted by August at the end of each programme year. 
+An annual reporting template will be provided to supported agencies for the reporting of the programmes outcomes. The report has to be submitted by August at the end of each programme year. 
 
-> The agency is also required to submit the programme’s certified income and expenditure statement, as well as its annual audited financial statements at its earliest availability. The audited financial statement should classify the PC-ELF funds as a restricted fund. If the Programme is receiving different sources of funding for the purposes of operating the Programme, it should be itemised and disclosures on the funding should be included.
+The agency is also required to submit the programme’s certified income and expenditure statement, as well as its annual audited financial statements at its earliest availability. The audited financial statement should classify the PC-ELF funds as a restricted fund. If the Programme is receiving different sources of funding for the purposes of operating the Programme, it should be itemised and disclosures on the funding should be included.
 
 
 ## **FUNDRAISING**
 
 #### 1. Who manages the President's Challenge?
-> The main bodies involved in the organisation and administration of President's Challenge are the President's Office, Ministry of Social and Family Development (MSF) and National Council of Social Service (NCSS).  The President's Challenge Secretariat is managed by NCSS and oversees the secretariat duties, fundraising efforts and volunteerism drive under President's Challenge. |
+The main bodies involved in the organisation and administration of President's Challenge are the President's Office, Ministry of Social and Family Development (MSF) and National Council of Social Service (NCSS).  The President's Challenge Secretariat is managed by NCSS and oversees the secretariat duties, fundraising efforts and volunteerism drive under President's Challenge. |
 
 #### 2. I am keen to fund raise for President's Challenge. Can you share some ideas?
-> Thank you for your interest to raise funds for President's Challenge.  Here are some ideas for you to consider but if you want to know more, drop us a note here 
+Thank you for your interest to raise funds for President's Challenge.  Here are some ideas for you to consider but if you want to know more, drop us a note here 
 - Auction
 - Bake sale or jumble sale
 - Entertainment e.g. concert, play, movie screening
@@ -179,4 +179,4 @@ The application forms for PC and PC-ELF are different. Hence, agencies are requi
 - Raffle |
  
 #### 3. What should I do if I wish to conduct a public fundraising event to raise funds for President's Challenge? 
-> A House to House and Street Collections licence is required if you are organising a fundraising event or activity that appeals for donations from the public. To apply for the licence, please visit the Singapore Police Force website at [www.police.gov.sg](https://www.police.gov.sg/)
+A House to House and Street Collections licence is required if you are organising a fundraising event or activity that appeals for donations from the public. To apply for the licence, please visit the Singapore Police Force website at [www.police.gov.sg](https://www.police.gov.sg/)
