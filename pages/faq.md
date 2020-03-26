@@ -40,12 +40,10 @@ To be considered for a nomination as a President’s Challenge benefiting organi
  
 > Applications for funding generally open in September for the following year. You can download the application form from our website or contact your respective Sector Administrator for the application details.
 
-
 ##### 2. What is the President’s Challenge Empowering for Life Fund?
 At the President’s Challenge 2018 launch, President Halimah rallied for more customised support to empower the vulnerable in society, focusing in area of employment. To support such efforts, $20m is set aside over the next 5 years, through funds raised by President’s Challenge (PC) and a matching amount from Ministry of Finance (MOF), for a new President’s Challenge Empowering for Life Fund (PC ELF).
 
 The PC-ELF will run from 2018 – 2022.
-
 
 ##### 3. What is the difference between PC and PC-ELF?   
  <table border="1" cellpadding="0" cellspacing="0">
@@ -109,30 +107,24 @@ The PC-ELF will run from 2018 – 2022.
 
 Agencies are also strongly encouraged to review the Guidelines stated in Section A of the application forms of the two funds.
   
-
 ##### 4. When is the application window for PC-ELF?
 PC-ELF and PC share the same application window. The application window typically opens in August and agencies are given six weeks to apply.
 
 The application forms for PC and PC-ELF are different. Hence, agencies are required to fill in the correct form for the fund they are applying for.
 
-
 ##### 5. Can I apply for both PC and PC-ELF?
 Yes, agencies are free to apply for both funds with separate applications, meeting the fund requirements. Agencies should ascertain which fund is more appropriate and relevant to their programmes.
 
-
 ##### 6. Who can apply for PC-ELF?
 The PC-ELF applications are open to social service agencies with a valid IPC status.
-
 
 ##### 7. When will I be updated of the application outcome for PC-ELF 2020?
 Agencies will be informed of the application outcome by Feb/Mar 2020 via a letter from the President’s Office.
 
 In May 2020, Agencies will be informed of the range of funds allocated to the programme via email. The definitive amount is not given as the programmes’ funding is dependent on the funds raised during the year.
 
-
 ##### 8. Are we allowed to apply for only 1 or 2 years of funding?
 Agencies can apply for funding for up to 3 years. If only 1 or 2 years of funding is required, there is no need to fill up the requested amounts for the remaining years.
-
 
 ##### 9.When can I expect to receive the funds if my agency is supported?
 Agencies can expect to receive the funds in the following year sometime in June.
@@ -160,7 +152,6 @@ Yes, Agencies can fund-raise for any shortfall/components of the programme not c
 An annual reporting template will be provided to supported agencies for the reporting of the programmes outcomes. The report has to be submitted by August at the end of each programme year. 
 
 The agency is also required to submit the programme’s certified income and expenditure statement, as well as its annual audited financial statements at its earliest availability. The audited financial statement should classify the PC-ELF funds as a restricted fund. If the Programme is receiving different sources of funding for the purposes of operating the Programme, it should be itemised and disclosures on the funding should be included.
-
 
 #### **FUNDRAISING**
 
