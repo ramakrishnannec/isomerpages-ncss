@@ -9,7 +9,7 @@ collection_name: left-nav-three
 
 ### ENABLING EMPLOYMENT PLEDGE
 
-![Donate Banner](/images/PC_Banner_EEP_v1.jpg "Enabling Employment Pledge")
+![Donate Banner](/images/PC_Banner_EEP_v2.jpg "Enabling Employment Pledge")
 
 <table cellpadding="10px" cellspacing="10px" border="0" width="100%"> 
 <tr><td>
