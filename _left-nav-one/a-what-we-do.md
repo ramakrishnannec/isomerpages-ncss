@@ -22,8 +22,7 @@ Since 2000, President’s Challenge has raised more than $180 million for its be
 </table>
 <br>
 
-
-<iframe width="700" height="419" src="https://www.youtube.com/embed/9ACQUkFTcpk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ACQUkFTcpk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
 ###### Photo Credits: CapitaLand, Singapore Polytechnic, YMCA SIngapore, Singapore Centre for Social Enterprise (raiSE)
