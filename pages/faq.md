@@ -38,7 +38,7 @@ The privacy of our donors is very important to us and we do not share or sell th
 ##### 1. I work for a charity in Singapore. How can my organisation apply to be a President’s Challenge benefiting organisation?
 To be considered for a nomination as a President’s Challenge benefiting organisation, your organisation must have attained an Institute of Public Character (IPC) status that remains valid in the financial year when the funds are disbursed. You may apply for IPC status at [www.charities.gov.sg](https://www.charities.gov.sg/Pages/Home.aspx)
  
-> Applications for funding generally open in September for the following year. You can download the application form from our website or contact your respective Sector Administrator for the application details.
+Applications for funding generally open in September for the following year. You can download the application form from our website or contact your respective Sector Administrator for the application details.
 
 ##### 2. What is the President’s Challenge Empowering for Life Fund?
 At the President’s Challenge 2018 launch, President Halimah rallied for more customised support to empower the vulnerable in society, focusing in area of employment. To support such efforts, $20m is set aside over the next 5 years, through funds raised by President’s Challenge (PC) and a matching amount from Ministry of Finance (MOF), for a new President’s Challenge Empowering for Life Fund (PC ELF).
@@ -156,7 +156,7 @@ The agency is also required to submit the programme’s certified income and exp
 #### **FUNDRAISING**
 
 ##### 1. Who manages the President's Challenge?
-The main bodies involved in the organisation and administration of President's Challenge are the President's Office, Ministry of Social and Family Development (MSF) and National Council of Social Service (NCSS).  The President's Challenge Secretariat is managed by NCSS and oversees the secretariat duties, fundraising efforts and volunteerism drive under President's Challenge. |
+The main bodies involved in the organisation and administration of President's Challenge are the President's Office, Ministry of Social and Family Development (MSF) and National Council of Social Service (NCSS).  The President's Challenge Secretariat is managed by NCSS and oversees the secretariat duties, fundraising efforts and volunteerism drive under President's Challenge. 
 
 ##### 2. I am keen to fund raise for President's Challenge. Can you share some ideas?
 Thank you for your interest to raise funds for President's Challenge.  Here are some ideas for you to consider but if you want to know more, drop us a note here 
@@ -166,7 +166,7 @@ Thank you for your interest to raise funds for President's Challenge.  Here are 
 - Sports e.g. charity walk, marathon, yoga
 - Fun fair
 - Party e.g. charity lunch, dinner, tea party
-- Raffle |
+- Raffle
  
 ##### 3. What should I do if I wish to conduct a public fundraising event to raise funds for President's Challenge? 
 A House to House and Street Collections licence is required if you are organising a fundraising event or activity that appeals for donations from the public. To apply for the licence, please visit the Singapore Police Force website at [www.police.gov.sg](https://www.police.gov.sg/)
