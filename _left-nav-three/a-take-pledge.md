@@ -7,15 +7,12 @@ collection_name: left-nav-three
 ---
 
 
+### ENABLING EMPLOYMENT PLEDGE
+
+![Donate Banner](/images/PC_Banner_EEP_v1.jpg "Enabling Employment Pledge")
+
 <table cellpadding="10px" cellspacing="10px" border="0" width="100%"> 
 <tr><td>
-<h2>ENABLING EMPLOYMENT PLEDGE</h2>
-
-</td></tr>
-<tr><td align="center">  <img src="images/PC_Banner_EEP_v1.jpg"  >
-</td></tr>
-<tr><td>
-  
 <br>The President’s Challenge advocates for employers to empower persons with disabilities so that they can achieve their full potential.<br><br>
 For persons with disabilities, employment helps in their social inclusion, personal development, financial independence and overall well-being. For employers, this is an excellent opportunity to tap on the pool of talent, skills and experience from the community of persons with disabilities. The employment of persons with disabilities will also inject positive workplace diversity within the organisation.<br><br>
 Persons with disabilities deserve the opportunity to show their capabilities, but too often, only their disability is noticed at first. They face challenges when it comes to employment, job retention and career development. Those who gain employment sometimes end up in limited categories of work or have fewer career advancement opportunities when they can actually be just as capable as their peers, with the right accommodations. <br><br>
