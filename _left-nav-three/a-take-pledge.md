@@ -35,7 +35,7 @@ By signing this Pledge, I reaffirm my commitment to:
 - Ensure that work-related programmes and facilities are accessible to employees with disabilities 
 - Embrace innovation and technology as enablers to employability, productivity and independence of employees with disabilities at the workplace 
  
-##### Implement supportive employment policies for employees with disabilities</b>
+##### Implement supportive employment policies for employees with disabilities
 - Incorporate HR practices such as flexible work arrangements, assistive technologies, fair remuneration and career development, that encourage hiring and retention of persons with disabilities 
 - Explore adjustments or redesign job roles or work processes to enable employees with disabilities to showcase and develop their strengths and capabilities 
 - Leverage available resources and support (both internal and external) for employers to hire and train persons with disabilities 
