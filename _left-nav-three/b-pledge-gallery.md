@@ -47,7 +47,7 @@ collection_name: left-nav-three
        <img src="/images/EEP_7_Hotel_Michael.jpg" alt="Hotel Michael" />
      </td>
      <td>
-       &nbsp;
+        <img src="/images/eep_8_Amara_Singapore.png" alt="Amara Singapore" />
      </td>   
   </tr>
   <tr>
@@ -61,7 +61,36 @@ collection_name: left-nav-three
        <p>Hotel Michael</p>
      </td>
      <td>
-        &nbsp;
+       <p>Amara Singapore</p>
+     </td>     
+  </tr>
+  
+  <tr>
+     <td >
+       <img src="/images/eep_22_Andaz_Singapore.jpg" alt="Andaz Singapore" />
+     </td>
+     <td>
+       <img src="/images/eep_23_Blksg_Pte_td.png" alt="Blk.sg Pte Ltd" />
+     </td>
+     <td>
+       <img src="/images/eep_24_Capri1.jpg" alt="Capri by Fraser, Changi City  Singapore" />
+     </td>
+     <td>
+        <img src="/images/eep_25_Capri2.jpg" alt="Capri by Fraser, China Square  Singapore" />
+     </td>   
+  </tr>
+  <tr>
+   <td>
+       <p>Andaz Singapore</p>
+     </td> 
+     <td>
+       <p>Blk.sg Pte Ltd</p>
+     </td>
+     <td>
+       <p>Capri by Fraser, Changi City  Singapore</p>
+     </td>
+     <td>
+       <p>Capri by Fraser, China Square  Singapore</p>
      </td>     
   </tr>
 </table>
