@@ -47,7 +47,7 @@ collection_name: left-nav-three
        <img src="/images/EEP_7_Hotel_Michael.jpg" alt="Hotel Michael" />
      </td>
      <td>
-        <img src="/images/eep_8_Amara_Singapore.png" alt="Amara Singapore" />
+        <img src="/images/eep_21_Amara_Singapore.png" alt="Amara Singapore" />
      </td>   
   </tr>
   <tr>
@@ -78,7 +78,7 @@ collection_name: left-nav-three
 
 <tr>  <td ><img src="/images/eep_26_ChinaRailway.jpg" alt="China Railway First Group Co., Ltd. Singapore Branch" /> </td>
   <td ><img src="/images/eep_27_City_Hotel.jpg" alt="City Hotels Pte Ltd" /> </td>
-  <td ><img src="/images/eep_28_Copthorne.jpg" alt="Conrad Centennial Singapore" /> </td>
+  <td ><img src="/images/eep_28_Conrad.jpg" alt="Conrad Centennial Singapore" /> </td>
   <td ><img src="/images/eep_29_Copthorne.png" alt="Copthorne Kings Hotel Singapore" /> </td></tr>
 
 <tr><td>China Railway First Group Co., Ltd. Singapore Branch</td>
