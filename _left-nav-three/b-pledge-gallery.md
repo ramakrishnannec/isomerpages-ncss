@@ -8,61 +8,29 @@ collection_name: left-nav-three
 
 <table>
   <tr>
-     <td width="25%">
-       <img src="../images/EEP_1_Beach_Villas.jpg" alt="Beach Villas" />
-     </td>
-     <td width="25%">
-       <img src="../images/EEP_2_Crockfords_Tower.jpg" alt="Crockfords Tower" />
-     </td>
-     <td width="25%">
-       <img src="../images/EEP_3_Equarius_Hotel.jpg" alt="Equarius Hotel" />
-     </td>
-     <td width="25%">
-        <img src="/images/EEP_4_Festive_Hotel.jpg" alt="Festive Hotel" />
-     </td>    
+     <td width="25%">       <img src="../images/EEP_1_Beach_Villas.jpg" alt="Beach Villas" />     </td>
+     <td width="25%">       <img src="../images/EEP_2_Crockfords_Tower.jpg" alt="Crockfords Tower" />     </td>
+     <td width="25%">       <img src="../images/EEP_3_Equarius_Hotel.jpg" alt="Equarius Hotel" />     </td>
+     <td width="25%">        <img src="/images/EEP_4_Festive_Hotel.jpg" alt="Festive Hotel" />     </td>    
   </tr>
   <tr>
-     <td>
-       <p>Beach Villas</p>
-     </td>
-     <td>
-       <p>Crockfords Tower</p>
-     </td>
-     <td>
-       <p>Equarius Hotel</p>
-     </td>
-     <td>
-       <p>Festive Hotel</p>
-     </td> 
+     <td>       <p>Equarius Beach Villas</p>     </td>
+     <td>       <p>Crockfords Tower</p>     </td>
+     <td>       <p>Equarius Hotel</p>     </td>
+     <td>       <p>Festive Hotel</p>     </td> 
     
   </tr>
   <tr>
-     <td >
-       <img src="/images/EEP_5_Genting_Hotel_Jurong.jpg" alt="Genting Hotel Jurong" />
-     </td>
-     <td>
-       <img src="/images/EEP_6_Hard_Rock_Hotel.jpg" alt="Hard Rock Hotel" />
-     </td>
-     <td>
-       <img src="/images/EEP_7_Hotel_Michael.jpg" alt="Hotel Michael" />
-     </td>
-     <td>
-        <img src="/images/eep_21_Amara_Singapore.png" alt="Amara Singapore" />
-     </td>   
+     <td >       <img src="/images/EEP_5_Genting_Hotel_Jurong.jpg" alt="Genting Hotel Jurong" />     </td>
+     <td>       <img src="/images/EEP_6_Hard_Rock_Hotel.jpg" alt="Hard Rock Hotel" />     </td>
+     <td>       <img src="/images/EEP_7_Hotel_Michael.jpg" alt="Hotel Michael" />     </td>
+     <td>        <img src="/images/eep_21_Amara_Singapore.png" alt="Amara Singapore" />     </td>   
   </tr>
   <tr>
-   <td>
-       <p>Genting Hotel Jurong</p>
-     </td> 
-     <td>
-       <p>Hard Rock Hotel</p>
-     </td>
-     <td>
-       <p>Hotel Michael</p>
-     </td>
-     <td>
-       <p>Amara Singapore</p>
-     </td>     
+   <td>       <p>Genting Hotel Jurong</p>     </td> 
+     <td>       <p>Hard Rock Hotel</p>     </td>
+     <td>       <p>Hotel Michael</p>     </td>
+     <td>       <p>Amara Singapore</p>     </td>     
   </tr> 
   
   
@@ -77,33 +45,33 @@ collection_name: left-nav-three
 <td>Capri by Fraser, China Square  Singapore</td></tr>
 
 <tr>  <td ><img src="/images/eep_26_ChinaRailway.jpg" alt="China Railway First Group Co., Ltd. Singapore Branch" /> </td>
-  <td ><img src="/images/eep_27_City_Hotel.jpg" alt="City Hotels Pte Ltd" /> </td>
+  <td ><img src="/images/eep_27_City_Hotel.jpg" alt="Orchard Hotel Singapore" /> </td>
   <td ><img src="/images/eep_28_Conrad.jpg" alt="Conrad Centennial Singapore" /> </td>
   <td ><img src="/images/eep_29_Copthorne.png" alt="Copthorne Kings Hotel Singapore" /> </td></tr>
 
 <tr><td>China Railway First Group Co., Ltd. Singapore Branch</td>
-<td>City Hotels Pte Ltd</td>
+<td>Orchard Hotel Singapore</td>
 <td>Conrad Centennial Singapore</td>
 <td>Copthorne Kings Hotel Singapore</td></tr>
 
 <tr>  <td ><img src="/images/eep_30_Crowne.jpg" alt="Crowne Plaza Changi Airport" /> </td>
   <td ><img src="/images/eep_31_Fairmont.png" alt="Fairmont Singapore  Swissôtel The Stamford" /> </td>
   <td ><img src="/images/eep_32_Four.png" alt="Four Points by Sheraton Singapore, Riverview" /> </td>
-  <td ><img src="/images/eep_33_GP.jpg" alt="GP Hotel Management Pte Ltd" /> </td></tr>
+  <td ><img src="/images/eep_33_GP.jpg" alt="Global Premium Hotels Limited" /> </td></tr>
 
 <tr><td>Crowne Plaza Changi Airport</td>
-<td>Fairmont Singapore  Swissôtel The Stamford</td>
+<td>Fairmont Singapore  Swissôtel The Stamford</td> 
 <td>Four Points by Sheraton Singapore, Riverview</td>
-<td>GP Hotel Management Pte Ltd</td></tr>
+<td>Global Premium Hotels Limited</td></tr>
 
 <tr>  <td ><img src="/images/eep_34_Grand.jpg" alt="Grand Copthorne Waterfront Hotel Singapore" /> </td>
   <td ><img src="/images/eep_35_GrandMercure.jpg" alt="Grand Mercure Singapore Roxy" /> </td>
-  <td ><img src="/images/eep_36_HolidayInn.jpg" alt="Harilela Hotels Pte Ltd" /> </td>
+  <td ><img src="/images/eep_36_HolidayInn.jpg" alt="Holiday Inn Orchard City Centre Singapore" /> </td>
   <td ><img src="/images/eep_37_HiltonGarden.jpg" alt="Hilton Garden Inn Singapore Serangoon" /> </td></tr>
 
 <tr><td>Grand Copthorne Waterfront Hotel Singapore</td>
 <td>Grand Mercure Singapore Roxy</td>
-<td>Harilela Hotels Pte Ltd</td>
+<td>Holiday Inn Orchard City Centre Singapore</td>
 <td>Hilton Garden Inn Singapore Serangoon</td></tr>
 
 <tr>  <td ><img src="/images/eep_38_Hilton.png" alt="Hilton Singapore" /> </td>
@@ -141,7 +109,7 @@ collection_name: left-nav-three
   <td ><img src="/images/eep_52_Novotel.png" alt="Novotel Singapore on Stevens" /> </td>
   <td ><img src="/images/eep_53_One.png" alt="One Farrer Hotel" /> </td></tr>
 
-<tr><td>MARINA BAY HOTEL PTE LTD</td>
+<tr><td>Mandarin Oriental Singapore</td>
 <td>Mercure Singapore on Stevens</td>
 <td>Novotel Singapore on Stevens</td>
 <td>One Farrer Hotel</td></tr>
@@ -164,7 +132,7 @@ collection_name: left-nav-three
 <tr><td>Shangri-La Rasa Sentosa Resort and Spa, Singapore</td>
 <td>Singapore Marriott Tang Plaza Hotel</td>
 <td>Six Senses Singapore</td>
-<td>Social Space Primary Logo</td></tr>
+<td>The Social Space</td></tr>
 
 <tr>  <td ><img src="/images/eep_62_Sodexo.jpg" alt="SODEXO SINGAPORE PTE LTD" /> </td>
   <td ><img src="/images/eep_63_sofitel.jpg" alt="Sofitel Singapore City Centre" /> </td>
