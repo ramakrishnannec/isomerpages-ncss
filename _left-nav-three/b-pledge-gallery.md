@@ -9,10 +9,10 @@ collection_name: left-nav-three
 
 <table>
 <tr>
-<td><img src="/images/eep_21_Amara_Singapore.png" width="200px" alt="Amara Singapore" /></td> 
-<td><img src="/images/eep_22_Andaz_Singapore.jpg" width="200px" alt="Andaz Singapore" /> </td>
-<td><img src="/images/eep_23_Blksg_Pte_td.png" width="200px" alt="Blk.sg Pte Ltd" /> </td>
-<td><img src="/images/eep_24_Capri1.jpg" width="200px" alt="Capri by Fraser, Changi City  Singapore" /> </td>
+<td width="25%"><img src="/images/eep_21_Amara_Singapore.png" width="200px" alt="Amara Singapore" /></td> 
+<td width="25%"><img src="/images/eep_22_Andaz_Singapore.jpg" width="200px" alt="Andaz Singapore" /> </td>
+<td width="25%"><img src="/images/eep_23_Blksg_Pte_td.png" width="200px" alt="Blk.sg Pte Ltd" /> </td>
+<td width="25%"><img src="/images/eep_24_Capri1.jpg" width="200px" alt="Capri by Fraser, Changi City  Singapore" /> </td>
 </tr>
 
 
