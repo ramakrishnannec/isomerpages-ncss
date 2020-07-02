@@ -59,11 +59,13 @@ collection_name: left-nav-three
 </tr>
 
 
+
 <tr>
 <td><img src="/images/DAYSHOTEL.jpg" width="200px" alt="DAYS HOTEL BY WYNDHAM SINGAPORE AT ZHONGSHAN PARK"  /> </td>
-<td><img src="/images/DestinationSingaporeBeachRoad.jpg" width="200px" alt="Destination Singapore Beach Road" /> </td>
-<td><img src="../images/EEP_1_Beach_Villas.jpg" alt="Beach Villas" />     </td>
-<td><img src="/images/eep_1_beach_villas.jpg" width="200px" alt="Equarius Beach Villas" /> </td>
+<td><img src="/images/DestinationSingapore.jpg" width="200px" alt="Destination Singapore Beach Road" /> </td>
+<td><img src="/images/eep_1_beach_villas.jpg" alt="Equarius Beach Villas" />     </td>
+<td><img src="/images/eep_3_equarius_hotel.jpg" width="200px" alt="Equarius Hotel" /> </td>
+
 </tr>
 
 
@@ -71,9 +73,10 @@ collection_name: left-nav-three
 <td>DAYS HOTEL BY WYNDHAM SINGAPORE AT ZHONGSHAN PARK</td>
 <td>Destination Singapore Beach Road</td>
 <td>Equarius Beach Villas </td>
-<td>Equarius Beach Villas</td>
+<td>Equarius Hotel</td>
 
 </tr>
+
 
 
 <tr>
